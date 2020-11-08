@@ -6,7 +6,7 @@ This is being processed as part of the [Greek Learner Texts Project](https://gre
 
 ## Source
 
-* `orig-data/woodhouse.csv` from <https://github.com/dcthree/woodhouse> (for which see provenance)
+* `orig-data/woodhouse.csv` from <https://github.com/dcthree/woodhouse> (see for provenance)
 
 ## Data Produced So Far
 
