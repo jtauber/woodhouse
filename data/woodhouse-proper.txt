@@ -1,0 +1,6248 @@
+---
+Abdera
+Ἄβδηρα, τά.
+{i}Man of Abdera{/i}: Ἀβδηρίτης, -ου, ὁ.
+---
+Abrocomas
+Ἀβροκόμας, -ου, ὁ.
+---
+Abydos
+Ᾰ̓́βῠδος, ἡ.
+{i}Man of Abydos{/i}: Ἀβυδηνός, ὁ.
+---
+Academy
+Ᾰ̓κᾰδημεία, ἡ.
+---
+Acamas
+Ᾰ̓κᾰ́μᾱς, -αντος, ὁ.
+---
+Acanthus
+Ἄκανθος, ἡ.
+{i}Of Acanthus,{/i} {grm}adj.{/grm}: Ἀκάνθιος.
+---
+Acarnania
+Ἀκαρνανία, ἡ.
+{i}Man of Acarnania{/i}: Ᾰ̓καρνᾱ́ν, -ᾱνος, ὁ.
+{i}Acarnanian,{/i} {grm}adj.{/grm}: Ἀκαρνανικός.
+---
+Acastus
+Ᾰ̓́καστος, ὁ, or {i}say, son of Pelias.{/i}
+---
+Acesines (River)
+Ᾰ̓κεσῐ́νης, -ου, ὁ.
+---
+Achaea
+Ᾰ̓χᾱΐα, ἡ.
+{i}An Achaean{/i}: Ᾰ̓χαιός, ὁ.
+{i}Achaean,{/i} {grm}adj.{/grm}: Ᾰ̓χαιῐκός. {grm}Fem. adj.{/grm}, Ᾰ̓χαιῐ́ς, -ῐ́δος ; see also {i}Greek.{/i}
+---
+Achaemenes
+Ᾰ̓χαιμένης, -ους, ὁ.
+{i}Descendant of Achaemenes{/i}: Ᾰ̓χαιμενῐ́δης, -ου, ὁ.
+---
+Acharnae
+Ᾰ̓χαρναί, αἱ.
+{i}Man of Acharnae{/i}: Ᾰ̓χαρνεύς, -έως, ὁ.
+{i}Of Acharnae,{/i} {grm}adj.{/grm}: Ᾰ̓χαρνῐκός.
+---
+Achelous (River)
+Ᾰ̓χελῷος, ὁ.
+---
+Acheron (River)
+Ᾰ̓χέρων, -οντος, ὁ.
+{i}Of Acheron,{/i} {grm}adj.{/grm}: Ᾰ̓χερόντιος ({corpus}Ar.{/corpus}). Ᾰ̓χερούσιος ({corpus}Thuc.{/corpus} and {corpus}Eur.{/corpus}). {grm}Fem. adj.{/grm}, Ᾰ̓χερουσιᾰ́ς, -ᾰ́δος.
+---
+Achillas
+Ἀχιλλᾶς, -ᾶ, ὁ.
+---
+Achilles
+Ᾰ̓χιλλεύς, -έως, ὁ, or say, {i}son of Peleus,{/i} or {i}son of Thetis.Of{/i} {i}Achilles,{/i} {grm}adj.{/grm}: Ᾰ̓χίλλειος.
+---
+Acilius
+Ἀκύλιος, ὁ.
+---
+Acrisius
+Ἀκρῐ́σιος, ὁ.
+---
+Acrocorinthus
+Ἀκροκόρινθος, ὁ.
+---
+Actaeon
+Ἀκταίων, -ωνος or -ονος, ὁ, in {corpus}V.{/corpus} also Ἀκτέων, -έωνος, ὁ.
+---
+Acte
+Ἀκτή, ἡ.
+---
+Actium
+Ἄκτιον, τό.
+---
+Actor
+Ἄκτωρ, -ορος, ὁ.
+---
+Adeimantus
+Ᾰ̓δείμαντος, ὁ.
+---
+Adige (River)
+Ἀτισών, -ῶνος, ὁ.
+---
+Admetus
+Ἄδμητος, ὁ, or use Φερητῐ́δης, -ου, or say, {i}son of Pheres.Of Admetus,{/i} {grm}adj.{/grm}: Ἀδμήτειος.
+---
+Adonis
+Ᾰ̓́δωνις, -ῐδος, ὁ.
+{i}Feast of a Adonis{/i}: Ᾰ̓δώνια, τά.
+---
+Adramyttium
+Ἀτραμύττιον, τό.
+---
+Adrastea
+Ἀδραστεία, ἡ.
+---
+Adrastus
+Ἄδραστος, ὁ.
+---
+Adriatic Sea
+Ἀδρίας, -ου, ὁ. or see, ὁ κόλπος ὁ Ἰόνιος.
+{i}Of the Adriatic,{/i} {grm}adj.{/grm}: Ἀδριατικός.
+---
+Aea
+Αἶα, ἡ.
+---
+Aeacus
+Αἰακός, ὁ, or {i}say, son of Aegina.Of Aeacus,{/i} {grm}adj.{/grm}: Αἰᾰ́κειος.
+{i}Descendant of Aeacus{/i}: Αἰᾰκῐ́δης, -ου, ὁ.
+---
+Aedui
+Ἔδουοι, οἱ.
+---
+Aeetes
+Αἰήτης, -ου, ὁ.
+---
+Aegaleos (Mt.)
+Αἰγᾰ́λεως, -εω, ὁ.
+---
+Aegean Sea
+Τὸ Αἰγαῖον, or ὁ Αἰγαῖος, or Αἰγαῖον πέλᾰγος, or {corpus}V.{/corpus} Αἰγαῖος πόρος.
+---
+Aegeus
+Αἰγεύς, -έως, ὁ, or say, {i}son of Pandion.{/i}
+---
+Aegialeus
+Αἰγιᾰλεύς, -έως, ὁ, or say, {i}son of Adrastus.{/i}
+---
+Aegina (Nymph)
+Αἴγῑνα, ἡ, or say, {i}daughter of Asopus.{/i}
+---
+Aegina (Island)
+Αἴγῑνα, ἡ, called also, Οἰνώνη ({corpus}Eur.{/corpus}, {i}I. A.{/i} 699).
+{i}Man of Aegina{/i}: Αἰγῑνήτης, -ου, ὁ.
+{i}Of Aegina,{/i} {grm}adj.{/grm}: Αἰγῑναῖος.
+---
+Aegisthus
+Αἴγισθος, ὁ, or say, {i}son of Thyestes.{/i}
+---
+Aegyptus
+Αἴγυπτος, ὁ.
+---
+Aemilius
+Αἰμύλιος, ὁ.
+---
+Aeneas
+Αἰνείᾱς, -ου, ὁ, in {corpus}V.{/corpus} sometimes Αἰνέᾱς, -ου (scanned either as three syllables or two), or say, {i}son of Anchises.{/i}
+---
+Aenus
+Αἶνος, ἡ.
+{i}Of Aenus,{/i} {grm}adj.{/grm}: Αἴνιος.
+---
+Aeolis (District)
+Αἰολίς, -ίδος, ἡ.
+{i}An Aeolian{/i}: Αἰολεύς, -έως, ὁ.
+{i}Aeolian,{/i} {grm}adj.{/grm}: Αἰολικός. {grm}Fem. adj.{/grm}, Αἰολίς, -ίδος.
+---
+Aeolus
+Αἴολος, ὁ.
+---
+Aerope
+Ᾱ̓ερόπη, ἡ.
+---
+Aeschines
+Αἰσχῐ́νης, -ου, ὁ.
+---
+Aeschylus
+Αἴσχῠλος, ὁ.
+---
+Aesculapius
+See {i}Asclepius.{/i}
+---
+Aesop
+Αἴσωπος, ὁ.
+{i}Of Aesop,{/i} {grm}adj.{/grm}: Αἰσωπῐκός ({corpus}Ar.{/corpus}).
+---
+Aethiopia
+See {i}Ethiopia.{/i}
+---
+Aethra
+Αἴθρα, ἡ.
+---
+Aetolia
+Αἰτωλία, ἡ, {corpus}V.{/corpus} γῆ Αἰτωλῐ́ς (-ῐ́δος), ἡ.
+{i}An Aetolian{/i}: Αἰτωλός, ὁ. {grm}Fem.{/grm}, Αἰτωλῐ́ς, -ῐ́δος, ἡ.
+{i}Aetolian,{/i} {grm}adj.{/grm}: Αἰτωλικός. {grm}Fem. adj.{/grm}: Αἰτωλῐ́ς, -ῐ́δος.
+---
+Africa
+{i}African,{/i} See {i}Libya, Libyan.{/i}
+---
+Africanus
+Ἀφρικανός, ὁ.
+---
+Agamemnon
+Ᾰ̓γᾰμέμνων, -ονος, ὁ, or use Ἀτρείδης, -ου, ὁ, or say, {i}son of Atreus.Of Agamemnon,{/i} {grm}adj.{/grm}: Ᾰ̓γᾰμεμνόνειος.
+---
+Agasias
+Ἀγασίας, -ου, ὁ.
+---
+Agathon
+Ᾰ̓γᾰ́θων, -ωνος, ὁ.
+---
+Agave
+Ᾰ̓γαύη, ἡ, or say, {i}daughter of Cadmus.{/i}
+---
+Agenor
+Ᾰ̓γήνωρ, -ορος, ὁ.
+---
+Agesilaus
+Ἀγησίλᾱος, ὁ.
+---
+Agesipolis
+Ἀγησίπολις, -ιδος, ὁ.
+---
+Agis
+Ἆγις, -ιδος, ὁ.
+---
+Aglaurus
+Ἄγλαυρος, ὁ, or say, {i}daughter of Cecrops.{/i}
+---
+Agrigentum
+Ἀκρᾰ́γᾱς, -αντος, ὁ.
+{i}Of Agrigentum,{/i} {grm}adj.{/grm}: Ἀκραγαντῖνος.
+---
+Agrippa
+Ἀγρίππας, -α, ὁ.
+---
+Agrippina
+Ἀγριππίνη, ἡ.
+---
+Agyrrhius
+Ᾰ̓γύρριος, ὁ.
+---
+Ahala
+Ἄλας, -α, ὁ.
+---
+Ahenobarbus
+Ἀηνόβαρβος, ὁ.
+---
+Ajax
+Αἴᾱς, -αντος, ὁ, or say, {i}son of Telamon, son of Oileus.{/i}
+---
+Alba
+Ἄλβη, ἡ.
+{i}People of Alba{/i}: Ἀλβανοί, οἱ.
+---
+Alban (Lake)
+Ἀλβανὶς (-ίδος) λίμνη, ἡ.
+---
+Alcaeus
+Ἀλκαῖος, ὁ.
+---
+Alcamenes
+Ἀλκαμένης, -ους, ὁ.
+---
+Alcathous
+Ἀλκᾰ́θους, -ου, ὁ.
+---
+Alcestis
+Ἄλκηστις, -ῐδος, ἡ, or say, {i}daughter of Pelias.{/i}
+---
+Alcibiades
+Ἀλκῐβιᾰ́δης, -ου, ὁ.
+---
+Alcidas
+Ἀλκῐ́δας. -ου, ὁ.
+---
+Alcinous
+Ἀλκῐ́νους, -ου, ὁ.
+{i}Alcmaeon,{/i} Ἀλκμαίων, -ωνος, ὁ, or say, {i}son of Amphiaraus, Descendant of Alcmaeon{/i}: Ἀλκμαιωνῐ́δης, -ου, ὁ.
+---
+Alcmena
+Ἀλκμήνη, ἡ, or say, {i}daughter of Electryon.{/i}
+---
+Aleppo
+See {i}Beroea.{/i}
+---
+Aleus
+Ᾰ̓́λεος, ὁ.
+---
+Alexander
+Ᾰ̓λέξανδρος, ὁ, see also {i}Paris.{/i}
+---
+Alexandria
+Ᾰ̓λεξάνδρεια, ἡ.
+{i}Man of Alexandria{/i}: Ἀλεξανδρεύς, -έως, ὁ.
+---
+Allia (River)
+Ἀλίας, -α, ὁ.
+---
+Allobroges
+Ἀλλοβρίγες, -ων, οἱ.
+---
+Alope
+Ᾰ̓λόπη, ἡ.
+---
+Alphesiboea
+Ἀλφεσῐ́βοια, ἡ (ε lengthened {corpus}Soph.{/corpus}, {i}Frag.{/i} 796).
+---
+Alpheus (River)
+Ἀλφειός, ὁ, {corpus}V.{/corpus} also Ἀλφεός, ὁ ({corpus}Eur.{/corpus}, {i}El.{/i} 781).
+---
+Alps (Mts.)
+Ἄλπεις, -εων, αἱ.
+---
+Althaea
+Ἀλθαία, ἡ.
+---
+Alyattes
+Ἀλυάττης, -ου, ὁ.
+---
+Amanus (Mt.)
+Ᾰ̓́μᾱνος, ὁ.
+---
+Amasis
+Ᾰ̓́μᾱσις, -εως, ὁ.
+---
+Amathus
+Ᾰ̓μᾰθοῦς, -οῦντος, ὁ.
+{i}Of Amathus,{/i} {grm}adj.{/grm}: Ἀμαθούσιος.
+---
+Amazon
+Ᾰ̓μαζών, -όνος, ἡ.
+---
+Ambracia
+Ἀμπρᾰκία, ἡ.
+{i}An Ambracian{/i}: Ἀμπρακιώτης, -ου, ὁ.
+---
+Ambracian
+{grm}adj.{/grm}: Ἀμπρακικός. {grm}Fem.{/grm}
+{grm}adj.{/grm}: Ἀμπρακιῶτις, -ιδος.
+{i}The Ambracian Gulf{/i}: ὁ Ἀμπρακικὸς κόλπος.
+---
+Ameinias
+Ἀμεινίας, -ου, ὁ.
+---
+Ameinocles
+Ἀμεινοκλῆς, -κλέους, ὁ.
+---
+Ammom
+Ἄμμων, -ωνος, ὁ.
+---
+Amompharetus
+Ἀμομφάρετος, ὁ.
+---
+Amorges
+Ἀμόργης, -ου, ὁ.
+---
+Amphiaraus
+Ἀμφιᾰ́ρεως (sometimes scanned as four syllables, {corpus}Eur.{/corpus}, {i}Supp.{/i} 158), -εω, ὁ, {corpus}V.{/corpus} also Ἀμφιᾰ́ρᾱος ({corpus}Eur.{/corpus}, {i}Phoen.{/i} 173), or use Οἰκλείδης, -ου, ὁ, or say, {i}son of Oecles.{/i}
+---
+Amphilochia
+Ἀμφιλοχία, ἡ.
+{i}Amphilochian,{/i} {grm}adj.{/grm}: Ἀμφιλοχικός.
+{i}The Amphilochians{/i}: Ἀμφίλοχοι, οἱ.
+---
+Amphilochus
+Ἀμφῐ́λοχος, ὁ, or say, {i}son of Amphiaraus.{/i}
+---
+Amphion
+Ἀμφῑ́ων, -ονος, ὁ.
+---
+Amphipolis
+Ἀμφίπολις, -εως, ἡ.
+{i}Man of Amphipolis{/i}: Ἀμφιπολίτης, -ου, ὁ.
+---
+Amphissa
+Ἄμφισσα, ἡ.
+{i}Man of Amphissa{/i}: Ἀμφισσεύς, -έως, ὁ.
+---
+Amphitryon
+Ἀμφιτρίων, -ωνος, ὁ, or say, {i}son of Alcaeus.{/i}
+---
+Amulius
+Ἀμούλιος, ὁ.
+---
+Amyclae
+Ᾰ̓μύκλαι, αἱ.
+{i}OfAmyclae,{/i} {grm}adj.{/grm}: Ἀμυκλαῖος.
+---
+Amyntas
+Ἀμύντας, -ου, ὁ.
+---
+Amyntor
+Ᾰ̓μύντωρ, -ορος, ὁ.
+---
+Anacreon
+Ἀνακρέων, -οντος, ὁ.
+---
+Anactoria
+Ἀνακτορία, ἡ.
+{i}People of Anactoria{/i}: Ἀνακτόριοι, οἱ.
+---
+Anaea
+Ἄναια, τά.
+{i}Man of Anaea{/i}: Ἀναιίτης, -ου, ὁ. {grm}Fem. adj.{/grm}, Ἀναιῖτις, -ιδος.
+---
+Anapus (River)
+Ᾰ̓́νᾱπος, ὁ.
+---
+Anaxagoras
+Ἀναξαγόρας, -ου, ὁ.
+---
+Anaxibius
+Ἀναξίβιος, ὁ.
+---
+Anaximander
+Ἀναξίμανδρος, ὁ.
+---
+Ancaeus
+Ἀγκαῖος, ὁ.
+---
+Anchises
+Ἀγχῑ́σης, -ου, ὁ.
+---
+Andocides
+Ἀνδοκῐ́δης, -ου, ὁ.
+---
+Andraemon
+Ἀνδραίμων, -ονος ({corpus}Æsch.{/corpus}, {i}Frag.{/i}).
+---
+Androcles
+Ἀνδροκλῆς, -κλέους, ὁ.
+---
+Andromache
+Ἀνδρομᾰ́χη, ἡ, or say, {i}daughter of Eetion.{/i}
+---
+Andromeda
+Ἀνδρομέδᾱ, ἡ ({corpus}Ar.{/corpus}, {i}Thesm.{/i} 1012, 1070, etc.), or say, {i}daughter of Cepheus.{/i}
+---
+Andros
+Ἄνδρος, ἡ.
+{i}Of Andros,{/i} {grm}adj.{/grm}: Ἄνδριος.
+---
+Androtion
+Ἀνδροτίων, -ωνος, ὁ.
+---
+Anio (River)
+Ἀνίων, -ωνος, ὁ.
+---
+Antalcidas
+Ἀνταλκίδας, -ου, ὁ.
+---
+Antandros
+Ἄντανδρος, ἡ.
+{i}Of Antandrus,{/i} {grm}adj.{/grm}: Ἀντάνδριος.
+---
+Antenor
+Ἀντήνωρ, -ορος, ὁ.
+---
+Anthemus
+Ἀνθεμοῦς, -οῦντος, ὁ.
+---
+Anticlea
+Ἀντικλεία, ἡ.
+---
+Anticyra
+Ἀντικύρα, ἡ.
+{i}Man of Anticyra{/i}: Ἀντικυρεύς, -έως, ὁ.
+---
+Antigone
+Ἀντῐγόνη, ἡ, or say, {i}daughter of Oedipus.{/i}
+---
+Antigonus
+Ἀντίγονος, ὁ.
+---
+Antilochus
+Ἀντῐ́λοχος, ὁ, or say, {i}son of Nestor.{/i}
+---
+Antimachus
+Ἀντῐ́μᾰχος, ὁ.
+---
+Antioch
+Ἀντιόχεια, ἡ.
+{i}Man of Antioch{/i}: Ἀντιοχεύς, -έως, ὁ.
+---
+Antiochus
+Ἀντίοχος, ὁ.
+---
+Antipater
+Ἀντίπατρος, ὁ.
+---
+Antiphon
+Ἀντῐφῶν, -ῶντος, ὁ.
+---
+Antisthenes
+Ἀντισθένης, -ους, ὁ.
+---
+Antium
+Ἄντιον, τό.
+{i}People of Antium{/i}: Ἀντιᾶται, οἱ.
+---
+Antonius
+Ἀντώνιος, ὁ.
+---
+Anytus
+Ᾰ̓́νῠτος, ὁ.
+---
+Apaturia (Feast)
+Ἀπᾰτούρια, τά.
+---
+Apelles
+Ἀπελλῆς, -οῦ, ὁ.
+---
+Aphetae
+Ἀφεταί, αἱ.
+---
+Aphidnae
+Ἀφίδναι, αἱ.
+{i}Of Aphidnae,{/i} {grm}adj.{/grm}: Ἀφιδναῖος.
+---
+Aphrodite
+Ἀφροδῑ́τη, ἡ, or use in {corpus}V.{/corpus} Κυπρῐ́ς, -ῐ́δος, ὁ, or say, {i}daughter of Dione.{/i}
+{i}Feast of Aphrodite{/i}: Ἀφροδίσια, τά.
+---
+Apidanus (River)
+Ᾱ̓πῐδᾰνός, ὁ.
+---
+Apis
+Ἆπις, -ιδος, or -εως, ὁ.
+---
+Apollo
+Ᾰ̓πόλλων, -ωνος, ὁ, {grm}acc.{/grm} sometimes Ᾰ̓πόλλω (even in prose, {corpus}Thuc.{/corpus} 4, 97, {corpus}Dem.{/corpus} 274, and {corpus}Xen.{/corpus}), {corpus}Ar.{/corpus} and {corpus}V.{/corpus} use also Φοῖβος, ὁ, {corpus}V.{/corpus} Λοξίᾱς, -ου, ὁ, or say, {i}son of Leto.{/i}
+{i}The Sun{/i}: Ἥλιος, ὁ.
+{i}Temple of Apollo{/i}: Ἀπολλώνιον, τό.
+---
+Apollonia
+Ἀπολλωνία, ἡ.
+{i}Man of Apollonia{/i}: Ἀπολλωνιάτης, -ου, ὁ.
+---
+Appius
+Ἄππιος, ὁ.
+---
+Apuleius
+Ἀπουλήιος, ὁ.
+---
+Aquilius
+Ἀκύλλιος, ὁ.
+---
+Aquinus
+Ἀκύινος, ὁ.
+---
+Arabia
+Ἀρᾰβία, ἡ.
+{i}An Arab{/i}: Ᾰ̓́ραψ, -ᾰβος, ὁ or ἡ.
+{i}Arabs{/i}: also Ἀράβιοι, οἱ.
+{i}Arabian,{/i} {grm}adj.{/grm}: Ἀραβικός.
+---
+Arar (River)
+Ἄραρ, -αρος, ὁ.
+---
+Araspas
+Ἀράσπας, -ου, ὁ.
+---
+Aratus
+Ᾰ̓́ρᾱτος, ὁ.
+---
+Araxes (River)
+Ἀράξης, -ου, ὁ.
+---
+Arcadia
+Ἀρκᾰδία, ἡ
+{i}An Archadian{/i}: Ἀρκᾰ́ς, -ᾰ́δος, ὁ or ἡ.
+{i}Arcadian,{/i} {grm}adj.{/grm}: Ἀρκαδικός.
+---
+Arcesilaus
+Ἀρκεσῐ́λᾱος, ὁ.
+---
+Archedamus
+Ἀρχέδᾱμος, ὁ.
+---
+Archelaus
+Ἀρχέλᾱος, ὁ.
+---
+Archestratus
+Ἀρχέστρατος, ὁ.
+---
+Archias
+Ἀρχίας, -ου, ὁ.
+---
+Archilochus
+Ἀρχίλοχος, ὁ.
+---
+Archimedes
+Ἀρχιμήδης, -ους, ὁ.
+---
+Arcturus
+Ἀρκτοῦρος, ὁ.
+---
+Arctus
+Ἄρκτος, ἡ.
+---
+Areopagus
+ἡ ἐξ Ἀρείου πάγου βουλή, or ἡ ἐν Ἀρείῳ πάγῳ βουλή.
+---
+Ares
+Ᾰ̓́ρης, -εως ({grm}gen.{/grm} sometimes Ἄρεος, in {corpus}V.{/corpus}), Α {i}sometimes long{/i} ({corpus}Æsch.{/corpus}, {i}Theb.{/i} 244 and 469).
+{i}Of Ares,{/i} {grm}adj.{/grm}: Ᾰ̓́ρειος.
+---
+Arethusa (Fountain)
+Ᾰ̓ρέθουσα, ἡ.
+---
+Argilus
+Ἄργιλος, ἡ.
+{i}Of Argilus,{/i} {grm}adj.{/grm}: Ἀργίλιος.
+---
+Arginusae
+Ἀργινοῦσαι, αἱ.
+---
+Argo (Ship)
+Ἀργώ, -οῦς, ἡ.
+{i}Of Argo,{/i} {grm}adj.{/grm}: Ἀργῷος.
+---
+Argolis
+See under {i}Argos.{/i}
+---
+Argos
+Ἄργος, τό.
+{i}From Argos.{/i}: {corpus}V.{/corpus} Ἀργόθεν.
+{i}The Argives{/i}: Ἀργεῖοι, οἱ, in {corpus}V.{/corpus} use also Πελασγοί, οἱ. Δᾰναῑ̆́δαι, οἱ, Μῠκηναῖοι, οἱ.
+{i}Argive,{/i} {grm}adj.{/grm}: Ἀργεῖος.
+In {corpus}V.{/corpus} use also Πελασγός, Πελασγῐκός. {grm}Fem. adj.{/grm}, Ἀργολῐ́ς, -ῐ́δος.
+{i}In the Argive dialect{/i} or {i}fashion,{/i} {grm}adv.{/grm}: {corpus}V.{/corpus} Ἀργολιστῐ́.
+{i}Argolic{/i}: ἡ Ἀργεία, or ἡ Ἀργολῐ́ς, -ῐ́δος, {corpus}V.{/corpus} also Πελασγία, ἡ.
+---
+Argus
+Ἄργος, -ου, ὁ.
+---
+Ariadne
+Ᾰ̓ριάδνη, ἡ, or say, {i}daughter of Minos.{/i}
+---
+Ariaeus
+Ἀριαῖος, ὁ.
+---
+Arimaspi
+Ᾰ̓ρῐμασποί, οἱ.
+---
+Ariminum
+Ἀρίμενον, τό.
+---
+Ariobarzanes
+Ἀριοβαρζάνης, -ους, ὁ.
+---
+Arion
+Ᾰ̓ρῑ́ων, -ονος, ὁ.
+---
+Ariovistus
+Ἀριόβυστος, ὁ.
+---
+Aristaeus
+Ᾰ̓ρισταῖος, ὁ, {corpus}V.{/corpus} also Ᾰ̓ριστέᾱς, -ου, ὁ ({corpus}Eur.{/corpus}, {i}Bacch.{/i} 1227).
+---
+Aristagoras
+Ἀρισταγόρας, -ου, ὁ.
+---
+Aristarchus
+Ἀρίσταρχος, ὁ.
+---
+Aristeus
+Ἀριστεύς. -έως, ὁ.
+---
+Aristides
+Ᾰ̓ριστείδης, -ου, ὁ.
+---
+Aristippus
+Ἀρίστιππος, ὁ.
+---
+Aristogeiton
+Ἀριστογείτων, -ονος, ὁ.
+---
+Ariston
+Ἀρίστων, -ωνος ὁ.
+---
+Aristonymus
+Ἀριστώνυμος, ὁ.
+---
+Aristophanes
+Ᾰ̓ριστοφᾰ́νης, -ους, ὁ.
+---
+Aristotle
+Ἀριστοτέλης, -ους, ὁ.
+---
+Armenia
+Ἀρμενία, ἡ.
+{i}Armenian,{/i} {grm}adj.{/grm}: Ἀρμένιος.
+---
+Arne
+Ἄρνη, ἡ.
+---
+Arpi
+Ἄρποι, οἱ.
+---
+Arrhibaeus
+Ἀρριβαῖος, ὁ.
+---
+Arsaces
+Ἀρσᾰ́κης, -ου, ὁ.
+{i}Descendant of Arsaces{/i}: Ἀρσᾰκῐ́δης, -ου, ὁ.
+---
+Artabanus
+Ἀρτάβᾱνος, ὁ.
+---
+Artabazus
+Ἀρτάβαζος, ὁ.
+---
+Artaphernes
+Ἀρταφέρνης, -ους, ὁ, {corpus}V.{/corpus} Ἀρταφρένης, -ους, ὁ ({corpus}Æsch.{/corpus}, {i}Pers.{/i} 776).
+---
+Artaxata
+Ἀρτάξατα, τά.
+---
+Artaxerxes
+Ἀρταξέρξης, -ου, ὁ.
+---
+Artemis
+Ἄρτεμις, -ῐ́δος, ἡ, or {i}say daughter of Leto.{/i}
+---
+Artemisia
+Ἀρτεμῑσία, ἡ.
+---
+Artemisium
+Ἀρτεμίσιον, τό.
+---
+Aruns
+Ἄρρων, -ωνος ὁ.
+---
+Arverni
+Ἄρβερνοι, οἱ.
+---
+Ascalon
+Ἀσκάλων, -ωνος, ὁ.
+{i}Inhabitant of Ascalon{/i}: Ἀσκαλωνίτης, -ου, ὁ.
+---
+Ascanius
+Ἀσκᾰ́νιος, ὁ.
+---
+Asclepius
+Ἀσκλήπιος, ὁ.
+{i}Descendant of Asclepius{/i}: Ἀσκληπιάδης, -ου, ὁ, {corpus}V.{/corpus} Ἀσκληπῐ́δης, -ου, ὁ ({corpus}Soph.{/corpus}, {i}Phil.{/i} 1333).
+---
+Asculum
+Ἄσκλον, τό.
+---
+Asea
+Ἀσέα, ἡ.
+{i}People of Asea{/i}: Ἀσεᾶται, οἱ.
+---
+Ashdod
+Ἄζωτος, ἡ.
+---
+Asia
+Ᾰ̓σία, ἡ, {corpus}V.{/corpus} γῆ Ᾱ̓σῐ́ς (-ῐ́δος), ἡ ({corpus}Æsch.{/corpus}, {i}Pers.{/i} 249). Ᾰ̓σιᾰ́ς (-ᾰ́δος) χθών, ἡ ({corpus}Eur.{/corpus}, {i}Ion,{/i} 74), Ᾰ̓σιᾰ́ς γῆ, ἡ ({corpus}Eur.{/corpus}, {i}Ion,{/i} 1586), or Ᾰ̓σιᾰ́ς, ἡ, alone ({corpus}Eur.{/corpus}, {i}Ion,{/i} 1356), or Ᾰ̓σιᾶτις (-ῐδος) γῆ, ἡ ({corpus}Eur.{/corpus}, {i}And. 1{/i}).
+{i}The continent of Asia{/i}: ἤπειρος Ᾱ̓σῐ́ς, ἡ ({corpus}Æsch.{/corpus}, {i}P.{/i} {corpus}V.{/corpus} 735).
+{i}Asiatic,{/i} {grm}adj.{/grm}: Ἀσιανός. {grm}Fem. adj.{/grm}, {corpus}V.{/corpus} Ᾰ̓σιᾰ́ς (-ᾰ́δος), Ᾰ̓σιᾶτις (-ῐδος) ({corpus}Eur.{/corpus}, {i}Tro.{/i} 1219; {i}El.{/i} 315), Ἠπειρῶτις (-ῐδος) ({corpus}Eur.{/corpus}, {i}And.{/i} 159).
+{i}The people of Asia{/i}: οἱ Ἀσιανοί.
+---
+Asine
+Ᾰ̓σῐ́νη, ἡ.
+{i}Of Asine,{/i} {grm}adj.{/grm}: Ἀσιναῖος.
+---
+Asopius
+Ἀσώπιος, ὁ.
+---
+Asopus (River)
+Ᾱ̓σωπός, ὁ.
+{i}Daughter of Asopus{/i}: Ἀσωπῐ́ς, -ῐ́δος, ἡ.
+{i}Of Asopus,{/i} {grm}adj.{/grm}: Ᾱ̓σώπιος.
+---
+Aspasia
+Ἀσπᾰσία, ἡ.
+---
+Aspendus
+Ἄσπενδος, ἡ.
+{i}Of Aspendus,{/i} {grm}adj.{/grm}: Ἀσπένδιος.
+---
+Assinarus (River)
+Ἀσσῐ́νᾰρος, ὁ.
+---
+Assyria
+Ἀσσῠρία, ἡ.
+{i}Assyrian,{/i} {grm}adj.{/grm}: Ἀσσῠ́ριος.
+---
+Astacus
+Ἄστᾰκος, ὁ.
+{i}Of Astacus,{/i} {grm}adj.{/grm}: Ἀστᾰ́κειος ({corpus}Soph.{/corpus}, {i}Frag.{/i}).
+---
+Astyages
+Ἀστυᾰ́γης, -ους, ὁ.
+---
+Astyanax
+Ἀστυᾰ́ναξ, -ακτος, ὁ, or say, {i}son of Hector.{/i}
+---
+Astyochus
+Ἀστύοχος, ὁ.
+---
+Atalanta
+Ᾰ̓τᾰλάντη, ἡ.
+---
+Atarneus
+Ἀταρνεύς, -έως, ὁ.
+{i}Territory of Atarneus{/i}: ἡ Ἀταρνῖτις (-ιδος) χώρα.
+---
+Ate
+Ᾱ̓́τη, ἡ.
+---
+Athamas
+Ᾰ̓θᾰ́μᾱς, -αντος, or say, {i}son of Aeolus.{/i}
+---
+Athena
+Ᾰ̓θήνη, ἡ, Ᾰ̓θηναία, ἡ, Ᾰ̓θηνᾶ, ἡ.
+In {corpus}Ar.{/corpus} and {corpus}V.{/corpus} also Παλλᾰ́ς, -ᾰ́δος, ἡ, in {corpus}V.{/corpus} also Ᾰ̓θᾱ́νᾱ, ἡ, or say, {i}daughter of Zeus{/i}: see also {i}Tritogenia.{/i}
+{i}Statue of Athena{/i}: Παλλᾰ́διον, τό.
+---
+Athenagoras
+Ἀθηναγόρας, -ου, ὁ.
+---
+Athens
+Ᾰ̓θῆναι, αἱ, in {corpus}Ar.{/corpus} also Κρᾰναά, ἡ, or Κρᾰναὰ πόλις, ἡ, or say, {i}city of Cecrops, city of Theseus, city of Erechtheus.{/i}
+{i}At Athens{/i}: Ἀθήνησι.
+{i}From Athens{/i}: Ἀθήνηθεν.
+{i}To Athens{/i}: Ἀθήναζε.
+{i}Athenian,{/i} {grm}adj.{/grm}: Ᾰ̓θηναῖος ; see also {i}Attic.{/i}
+{i}The Athenians{/i}: use also in {corpus}V.{/corpus} Κεκροπῐ́δαι, οἱ, Ἐρεχθεῖδαι, οἱ, Θησεῖδαι, οἱ, {i}in{/i} {corpus}Ar.{/corpus} Κρᾰναοί, οἱ.
+---
+Athos
+Ᾰ̓́θως, -ω, ὁ.
+{i}Of Athos,{/i} {grm}adj.{/grm}: Ᾰ̓θωος.
+---
+Atlantic (Sea)
+τὸ Ἀτλαντικὸν Πέλαγος, or, ἡ Ἀτλαντίς (-ίδος) Θάλασσα.
+---
+Atlas
+Ἄτλας, -αντος, ὁ (either the Hero or the Mt.).
+{i}Of Atlas,{/i} {grm}adj.{/grm}: Ἀτλαντῐκός.
+---
+Atossa
+Ἄτοσσα, -ης, ἡ.
+---
+Atropos
+Ἄτροπος, ἡ.
+---
+Atreus
+Ἀτρεύς, -έως, ὁ.
+{i}Son of Atreus{/i}: Ἀτρείδης, -ου, ὁ.
+---
+Attica
+Ἀττῐκή, ἡ, or {corpus}V.{/corpus} γῆ Ἀτθῐ́ς. (-ῐ́δος), ἡ, or Ἀτθῐ́ς (-ῐ́δος), ἡ alone, or say, {i}the land of Cecrops, the land of Theseus.Attic,{/i} {grm}adj.{/grm}: Ἀττῐκός. {grm}Fem. adj.{/grm}, Ἀτθῐ́ς, -ῐ́δος.
+---
+Atys
+Ᾰ̓́τυς, -υος, ὁ.
+---
+Auge
+Αὔγη, ἡ, or say, {i}daughter of Aleus.{/i}
+---
+Augeas
+Αὐγείας, -ου, ὁ.
+---
+Augustus
+Σεβαστός, ὁ.
+---
+Aulis
+Αὐλῐ́ς, -ῐ́δος, ἡ.
+---
+Aurora
+Ἕως, -ω, ἡ.
+---
+Autonoe
+Αὐτονόη, ἡ, or say, {i}daughter of Cadmus.{/i}
+---
+Aventine Hill
+τὸ Ἀβεντῖνον, or ὁ Ἀβεντῖνος λόφος.
+---
+Axius (River)
+Ἄξιος, ὁ.
+---
+Azov
+{i}Sea of,{/i} ἡ Μαιῶτις (-ιδος) λίμνη.
+{i}Entrance to the Sea of Azov{/i}: Αὐλὼν Μαιωτῐκός, ὁ ({corpus}Æsch.{/corpus}, {i}P.{/i} {corpus}V.{/corpus} 731).
+---
+Babylon
+Βᾰβῠλών, -ῶνος, ἡ.
+{i}Babylonia{/i}: Βαβυλωνία, ἡ.
+{i}Babylonian,{/i} {grm}adj.{/grm}: Βαβυλώνιος.
+---
+Bacchus
+Βάκχος, ὁ, Διόνῡσος, ὁ, {corpus}Ar.{/corpus} and {corpus}V.{/corpus} Βρόμιος, ὁ, Ἰάκχος, ὁ ({corpus}Eur.{/corpus}, {i}Bacch.{/i} 725; {corpus}Ar.{/corpus}, {i}Ran.{/i} 320, 398), {corpus}V.{/corpus} Βάκχιος, ὁ, Θέοινος, ὁ ({corpus}Æsch.{/corpus}, {i}Frag.{/i}); see {i}Dionysus.{/i}
+{i}Temple of Bacchus{/i}: Βακχεῖον, τό.
+{i}Bacchic,{/i} {grm}adj.{/grm}: see {i}Bacchanalian.{/i}
+---
+Bacis
+Βᾰ́κῐς, -ῐδος, ὁ.
+---
+Bactria
+Βακτρία, ἡ.
+{i}Bactrian,{/i} {grm}adj.{/grm}: Βάκτριος.
+{i}The Bactrians{/i}: Βάκτριοι, οἱ, Βακτριανοί, οἱ ({corpus}Xen.{/corpus}).
+---
+Baetis (River)
+Βαῖτις, -ιος ὁ.
+---
+Baiae
+Βαΐαι, αἱ.
+---
+Barca
+Βάρκη, ἡ.
+{i}Of Barca,{/i} {grm}adj.{/grm}: Βαρκαῖος.
+---
+Battus
+Βάττος, ὁ.
+---
+Bedriacum
+Βητριακόν, τό.
+---
+Bel
+Βῆλος, ὁ.
+---
+Belgae
+Βέλγαι, οἱ.
+---
+Bellerophon
+Βελλεροφόντης, -ου, ὁ.
+---
+Beroea
+({i}In Syria, the later Aleppo{/i}). Βέροια, ἡ.
+({i}In Macedonia{/i}): Βέροια, ἡ.
+---
+Bestia
+Βηστίας, -α, ὁ.
+---
+Beyrout
+Βηρυτός, ἡ.
+---
+Bias
+Βίας, -αντος, ὁ.
+---
+Bibulus
+Βίβλος, ὁ.
+---
+Bisaltae
+Βισάλται, οἱ.
+{i}Of the Bisaltae,{/i} {grm}adj.{/grm}: Βισαλτικός.
+---
+Bistones
+Βίστονες, οἱ.
+---
+Bithynia
+Βῑθῡνία, ἡ.
+{i}Bithynian,{/i} {grm}adj.{/grm}: Βῑθῡνός. {grm}Fem. adj.{/grm}, Βιθυνίς, -ίδος.
+---
+Black Sea
+See {i}Euxine.{/i}
+---
+Boeotia
+Βοιωτία, ἡ (-οι, sometimes scanned as short).
+{i}A Boeotian{/i}: Βοιωτός, ὁ.
+{i}Boeotian,{/i} {grm}adj.{/grm}: Βοιώτιος (-οι, sometimes scanned as short). {grm}Fem. adj.{/grm}, Βοιωτίς, -ίδος ({corpus}Xen.{/corpus}).
+---
+Bolbe (Lake)
+Βόλβη, ἡ.
+---
+Boreas
+Βορέᾱς, -ου, ὁ, Βορρᾶς, -ᾶ, ὁ.
+---
+Borysthenes (River)
+Βορυσθένης, -ους, ὁ.
+---
+Bosphorus
+Βόσπορος, ὁ.
+{i}Of the Bosphorus,{/i} {grm}adj.{/grm}: {corpus}V.{/corpus} Βοσπόρειος ({corpus}Soph.{/corpus}, {i}Frag.{/i}).
+{i}Dweller by the Bosphorus{/i}: {corpus}V.{/corpus} Βοσπορῑ́της, ὁ ({corpus}Soph.{/corpus}, {i}Frag.{/i}).
+---
+Bottiaea
+Βοττιαία, ἡ ({corpus}Thuc.{/corpus} 2, 100), Βοττία, ἡ ({corpus}Thuc.{/corpus} 2, 99), ἡ Βοττική.
+{i}The Bottiaeans{/i}: Βοττιαῖοι, οἱ.
+{i}Bottiaean,{/i} {grm}adj.{/grm}: Βοττικός.
+---
+Branchidae
+Βραγχῐ́δαι, αἱ.
+---
+Brasidas
+Βρᾱσῐ́δᾱς, -ου, ὁ.
+{i}Of Brasidas,{/i} {grm}adj.{/grm}: Βρασίδειος.
+---
+Brauron
+Βραυρών, -ῶνος, ὁ.
+{i}To Brauron{/i}: Βραυρῶνᾰ́δε ({corpus}Ar.{/corpus}).
+{i}Of Brauron,{/i} {grm}adj.{/grm}: Βραυρώνιος.
+---
+Brennus
+Βρέννος, ὁ.
+---
+Briareus
+Βριᾰ́ρεως -εω, ὁ.
+---
+Britain
+Βρεττανία, ἡ.
+{i}A Britain{/i}: Βρεττανός, ὁ.
+---
+Brixellum
+Βρίξιλλον, τό.
+---
+Brundisium
+Βρεντέσιον, τό.
+{i}Inhabitant of Brundisium{/i}: Βρεντεσῖνος, ὁ.
+---
+Brutii
+Βρέττιοι, οἱ.
+---
+Brutus
+Βροῦτος, ὁ.
+---
+Bucephalus
+Βουκεφάλας, -α, ὁ.
+---
+Budorum
+Βούδορον, τό.
+---
+Busiris
+Βούσῑρις, -εως, ὁ.
+---
+Byzantium
+Βυζάντιον, τό.
+{i}Byzantine,{/i} {grm}adj.{/grm}: Βυζάντιος.
+---
+Cacyparis
+({i}River{/i}), Κακύπαρις, -εως, ὁ.
+---
+Cadiz
+Γᾰ́δειρᾰ, τά.
+{i}Of Cadiz,{/i} {grm}adj.{/grm}: Γαδειραῖος, Γαδειρικός.
+---
+Cadmea
+Καδμεία, ἡ.
+---
+Cadmus
+Κάδμος, ὁ, or say, {i}son of Agenor.{/i}
+{i}Of Cadmus,{/i} {grm}adj.{/grm}: Καδμεῖος.
+{i}Land of Cadmus{/i}: γῆ Καδμηΐς (-ιδος) ({corpus}Thuc.{/corpus} 1, 12).
+---
+Caeadas
+Καιᾰ́δας, -ου, ὁ.
+---
+Caecilius
+Κεκίλιος, ὁ.
+---
+Caecina
+Κεκῑ́νας, -α, ὁ.
+---
+Caepio
+Καιπίων, -ωνος, ὁ.
+---
+Caesar
+Καῖσαρ, -αρος, ὁ.
+---
+Caicus (River)
+Κάϊκος, ὁ ({corpus}Æsch.{/corpus}, {i}Frag.{/i} and {corpus}Xen.{/corpus}).
+---
+Caius
+Γάϊος, ὁ.
+---
+Calchas
+Κάλχᾱς, -αντος, ὁ, or say, {i}son of Thestor.{/i}
+---
+Calchedon
+See {i}Chalcedon.{/i}
+---
+Callias
+Καλλίας, -ου, ὁ.
+---
+Callicratidas
+Καλλικρατίδας, -ου, ὁ.
+---
+Callimachus
+Καλλῐ́μᾰχος, ὁ.
+---
+Calliope
+Καλλιόπη, ἡ.
+---
+Callixenus
+Καλλίξενος, ὁ.
+---
+Calpe
+Κάλπη, ἡ.
+---
+Calpurnia
+Καλπουρνία, ἡ.
+---
+Calpurnius
+Καλπούρνιος, ὁ.
+---
+Calvinus
+Καλβῖνος, ὁ.
+---
+Calydon
+Κᾰλῠδών, -ῶνος, ἡ ({corpus}Eur.{/corpus}, {i}Frag.{/i}).
+{i}Of Calydon,{/i} {grm}adj.{/grm}: Καλυδώνιος.
+---
+Calypso
+Κᾰλυψώ, -οῦς, ἡ.
+---
+Camarina
+Κᾰμᾰ́ρῑνα, ἡ.
+{i}Of Camarina,{/i} {grm}adj.{/grm}: Καμαριναῖος.
+---
+Cambyses
+Καμβύσης, -ου, ὁ.
+---
+Camillus
+Κάμιλλος, ὁ.
+---
+Camirus
+Κάμειρος, ἡ.
+---
+Campania
+Καμπανία, ἡ.
+---
+Campus Martius
+τὸ Ἄρειον πεδίον, or τὸ πεδίον τοῦ Ἄρεως.
+---
+Cannae
+Κάνναι, αἱ.
+---
+Canopus
+Κᾰ́νωβος, ὁ.
+{i}Man of Canopus{/i}: Κανωβίτης, -ου, ὁ.
+{i}Of Canopus,{/i} {grm}adj.{/grm}: Κανωβικός.
+---
+Canusium
+Κανύσιον, τό.
+---
+Capaneus
+Κᾰπᾰνεύς, -έως, ὁ.
+---
+Caphereus (Cape)
+Κᾰφηρεύς, -έως, ὁ.
+{i}Of Caphereus,{/i} {grm}adj.{/grm}: Κᾰφήρειος.
+---
+Capitol
+{i}The Capitol at Rome:{/i} Καπιτώλιον, τό.
+{i}Capitoline,{/i} {grm}adj.{/grm}: Καπιτωλῖνος.
+---
+Cappadocia
+Καππᾰδοκία, ἡ.
+{i}Man of Cappadocia{/i}: Καππᾰδόκης, -ου, ὁ.
+---
+Capua
+Καπύη, ἡ.
+---
+Carbo
+Κάρβων, -ωνος, ὁ.
+---
+Carcinus
+Κάρκῐνος, ὁ.
+---
+Cardia
+Καρδία, ἡ.
+{i}Man of Cardia{/i}: Καρδιανός, ὁ.
+---
+Caria
+Κᾱρία, ἡ.
+{i}A Carian{/i}: Κᾱ́ρ, Κᾱρός, ὁ.
+{i}Carian,{/i} {grm}adj.{/grm}: Κᾱρῐκός. {grm}Fem. adj.{/grm}, Κάειρα.
+---
+Carnea (Festival)
+Κάρνεια, τά.
+{i}Mouth of the Carnea{/i}: ὁ Καρνεῖος μήν.
+---
+Carrhae
+Κάρραι, αἱ.
+---
+Carthage
+Καρχηδών, -όνος, ἡ.
+{i}Carthaginian,{/i} {grm}adj.{/grm}: Καρχηδόνιος, Καρχηδονιακός.
+---
+Caryae
+Καρύαι, αἱ.
+---
+Carystus
+Κᾰ́ρυστος, ἡ.
+{i}Of Carystus,{/i} {grm}adj.{/grm}: Κᾰρύστιος.
+---
+Casca
+Κάσκας, -α, ὁ.
+---
+Caspian
+{i}The Caspian Sea:{/i} ἡ Κασπία θάλασσα.
+---
+Cassander
+Κάσανδρος, ὁ.
+---
+Cassandra
+Κᾱσάνδρα, ἡ.
+---
+Castalia
+Καστᾰλία, ἡ.
+---
+Castor
+Κάστωρ, -ορος, ὁ.
+---
+Cataline
+Καταλίνας, -α, ὁ.
+---
+Catana
+Κᾰτᾰ́νη, ἡ.
+{i}Of Catana,{/i} {grm}adj.{/grm}: Καταναῖος.
+---
+Cato
+Κάτων, -ωνος, ὁ.
+---
+Catulus
+Κάτλος, ὁ.
+---
+Caucasus (Mt.)
+Καύκᾰσος, ὁ or τὸ Καυκάσιον ὄρος.
+---
+Caunus
+Καῦνος, ἡ.
+{i}Of Caunus,{/i} {grm}adj.{/grm}: Καύνιος.
+---
+Cayster (River)
+Κάϋστρος, ὁ ({corpus}Xen.{/corpus}).
+{i}Tha Plain of Cayster{/i}: Καΰστριον πεδίον ({corpus}Ar.{/corpus}, {i}Ach.{/i} 68), τὸ Καΰστρου πεδίον ({corpus}Xen.{/corpus}, {i}Cyro. II.{/i} 1, 5).
+---
+Cebriones
+Κεβριόνης, -ου, ὁ.
+---
+Cecrops
+Κέκροψ, -οπος, ὁ.
+{i}Of Cecrops,{/i} {grm}adj.{/grm}: Κεκρόπιος. {grm}Fem. adj.{/grm}, Κεκροπῐ́ς, -ῐ́δος.
+{i}Descendant of Cecrops{/i}: Κεκροπῐ́δης, -ου, ὁ.
+---
+Celaenae
+Κελαιναί, αἱ.
+{i}Man of Celaenae{/i}: Κελαινεύς, -έως, ὁ.
+---
+Celer
+Κέλερ, -ερος, ὁ.
+---
+Celeus
+Κελεός, ὁ.
+---
+Celt
+{i}Celtic,{/i} See {i}Kelt, Keltic.{/i}
+---
+Cenaeum
+({i}Cape{/i}). Κηναῖον, τό.
+{i}Of Cenaeum,{/i} {grm}adj.{/grm}: Κηναῖος.
+---
+Cenchrea
+Κεγχρειά, ἡ, or Κεγχρειαί, αἱ.
+---
+Centaur
+Κένταυρος, ὁ.
+{i}Of a centaur,{/i} {grm}adj.{/grm}: Κενταυρικός. {corpus}V.{/corpus} {grm}adj.{/grm}, Κενταύρειος.
+---
+Ceos
+Κέως, -ω, ἡ.
+{i}Of Ceos,{/i} {grm}adj.{/grm}: Κεῖος.
+---
+Cephallenia
+Κεφαλληνία, ἡ.
+{i}A Cephallenian{/i}: Κεφαλλήν, -ῆνος, ὁ.
+---
+Cephalus
+Κέφᾰλος, ὁ.
+---
+Cepheus
+Κηφεύς, -έως, ὁ.
+---
+Cephisophon
+Κηφῑσοφῶν, -ῶντος, ὁ.
+---
+Cephissus (River)
+Κηφῑσός, ὁ.
+---
+Ceramicus
+Κερᾰμεικός, ὁ.
+---
+Cerasus
+Κερασοῦς, -οῦντος, ὁ.
+{i}Of Cerasus,{/i} {grm}adj.{/grm}: Κερασούντιος.
+---
+Cerberus
+Κέρβερος, ὁ.
+---
+Ceres
+See {i}Demeter.{/i}
+---
+Cethegus
+Κέθηγος, ὁ.
+---
+Chabrias
+Χαβρίας, ου, ὁ.
+---
+Chaereas
+Χαιρέας, -ου, ὁ.
+---
+Chaerephon
+Χαιρεφῶν, -ῶντος, ὁ.
+---
+Chaeronea
+Χαιρώνεια, ἡ.
+{i}Man of Chaeronea{/i}: Χαιρωνεύς, -έως, ὁ.
+---
+Chalcedon
+Χαλκηδών, -όνος, ἡ.
+{i}Of{/i} {grm}adj.{/grm}: Χαλκηδόνιος.
+---
+Chalcideus
+Χαλκιδεύς, -έως, ὁ.
+---
+Chalcidice
+Χαλκῐδῐκή, ἡ.
+{i}Of Chalcidice,{/i} {grm}adj.{/grm}: Χαλκῐδῐκός.
+{i}People of Chalcidice{/i}: Χαλκῐδῆς, οἱ.
+---
+Chalcis
+Χαλκῐ́ς, -ῐ́δος, ἡ.
+{i}Man of Chalcis{/i}: Χαλκῐδεύς, -έως, ὁ.
+{i}Of Chalcis,{/i} {grm}adj.{/grm}: Χαλκῐδῐκός.
+---
+Chaldaean
+{b}adj.{/b}
+Χαλδαϊκός.
+{i}A Chaldaean{/i}: Χαλδαῖος, ὁ.
+---
+Chalybes
+Χᾰ́λῠβες, οἱ.
+---
+Chaonia
+Χᾱονία, ἡ.
+{i}The Chaonians{/i}: Χᾱ́ονες, οἱ.
+---
+Chaos
+Χάος, -ους, τό.
+---
+Chares
+Χᾰ́ρης, -ητος, ὁ.
+---
+Charicles
+Χαρικλῆς, -κλέους, ὁ.
+---
+Charmides
+Χαρμῐ́δης, -ου, ὁ.
+---
+Charminus
+Χαρμῖνος, ὁ.
+---
+Charmion
+Χάρμιον, τό.
+---
+Charon
+Χᾰ́ρων, -ωνος, ὁ.
+---
+Charybdis
+Χᾰ́ρυβδις, -εως, ἡ.
+---
+Cheilon
+Χείλων, -ωνος, ὁ.
+---
+Cheirisophus
+Χειρίσοφος, ὁ.
+---
+Cheiron
+Χείρων, -ωνος, ὁ.
+---
+Chersonese
+Χερσόνησος, ἡ.
+{i}Of the Chersonese,{/i} {grm}adj.{/grm}: Χερσονήσιος.
+{i}Man of the Chersonese{/i}: Χερσονησίτης, -ου, ὁ.
+---
+Chimaera
+Χῐ́μαιρα, ἡ.
+---
+Chios
+Χίος, ἡ.
+{i}Chian,{/i} {grm}adj.{/grm}: Χῖος.
+---
+Chiron
+See {i}Cheiron.{/i}
+---
+Choaspes (River)
+Χοάσπης, -ου, ὁ.
+---
+Chrysa
+Χρύση, ἡ.
+---
+Chryseis
+Χρῡσηῐ́ς, -ῐ́δος, ἡ.
+---
+Chryses
+Χρῡ́σης, -ου, ὁ.
+---
+Chrysippus
+Χρύσιππος, ὁ.
+---
+Chrysis
+Χρῡσῐ́ς, -ῐ́δος, ἡ.
+---
+Chrysopolis
+Χρῡσόπολις, -εως, ὁ.
+---
+Chrysothemis
+Χρῡσόθεμις, -ῐδος, ἡ, or say, {i}daughter of Agamemnon.{/i}
+---
+Cicero
+Κικέρων, -ωνος, ὁ.
+---
+Cilicia
+Κῐ́λῐκία, ἡ.
+{i}A Cilician{/i}: Κῐ́λιξ, -ῐκος, ὁ.
+{i}Cicician,{/i} {grm}adj.{/grm}: Κῐλῐ́κιος. {grm}Fem. adj.{/grm}, Κῐ́λισσα.
+---
+Cimbri
+Κίμβροι, οἱ.
+{i}Cimbric,{/i} {grm}adj.{/grm}: Κιμβρικός.
+---
+Cimmeria
+Κιμμερία γῆ, ἡ.
+{i}The Cimmerians{/i}: Κιμμέριοι, οἱ.
+{i}Cimmerian,{/i} {grm}adj.{/grm}: Κιμμερῐκός.
+---
+Cimon
+Κῑ́μων, -ωνος ὁ.
+---
+Cineas
+Κινέας, -ου, ὁ.
+---
+Cinna
+Κίννας, -α, ὁ.
+---
+Circe
+Κίρκη, ἡ.
+---
+Circeii
+Κιρκαῖον, τό.
+---
+Cisseus
+Κισσεύς, -έως, ὁ.
+---
+Cithaeron (Mt.)
+Κῐθαιρών, -ῶνος, ὁ.
+{i}Of Cithaeron, adj{/i}: {corpus}V.{/corpus} Κῐθαιρώνειος, {corpus}Ar.{/corpus} Κῐθαιρώνιος.
+---
+Citium. Κίτιον
+τό.
+{i}Man of Citium{/i}: Κιτιεύς, -ῶς, ὁ.
+---
+Clarus
+Κλᾰ́ρος, ἡ.
+{i}Of Clarus,{/i} {grm}adj.{/grm}: Κλᾰ́ριος.
+---
+Claudius
+Κλαύδιος, ὁ.
+---
+Clazomenae
+Κλαζομεναί, αἱ.
+{i}Of Clazomenae,{/i} {grm}adj.{/grm}: Κλαζομένιος.
+---
+Cleaenetus
+Κλεαίνετος, ὁ.
+---
+Cleander
+Κλέανδρος, ὁ.
+---
+Cleanor
+Κλεάνωρ, -ορος, ὁ.
+---
+Clearchus
+Κλέαρχος, ὁ.
+---
+Cleinias
+Κλεινίας, -ου, ὁ.
+---
+Cleisthenes
+Κλεισθένης, -ους, ὁ.
+---
+Cleitophon
+Κλειτοφῶν, -ῶντος, ὁ.
+---
+Cleitus
+Κλεῖτος, ὁ.
+---
+Cleombrotus
+Κλεόμβροτος, ὁ.
+---
+Cleomenes
+Κλεομένης, -ους, ὁ.
+---
+Cleon
+Κλέων, -ωνος ὁ.
+---
+Cleonae
+Κλεωναί, αἱ.
+{i}Of Cleonae,{/i} {grm}adj.{/grm}: Κλεωναῖος.
+---
+Cleonymus
+Κλεώνυμος, ὁ.
+---
+Cleopatra
+Κλεοπάτρα, ἡ.
+---
+Cleophon
+Κλεοφῶν, -ῶντος, ὁ.
+---
+Clio
+Κλειώ, -οῦς, ἡ.
+---
+Clitus
+See {i}Cleitus.{/i}
+---
+Clodius
+Κλώδιος, ὁ.
+---
+Clotho
+Κλωθώ, -οῦς, ἡ.
+---
+Clusium
+Κλούσιον, τό.
+{i}Of Clusium,{/i} {grm}adj.{/grm}: Κλουσῖνος.
+---
+Clytaemnestra
+Κλῠταιμνήστρα, ἡ, or say, {i}daughter of Leda.{/i}
+---
+Cnemus
+Κνῆμος, ὁ.
+---
+Cnidus
+Κνῐ́δος, ἡ.
+{i}Of Cnidius,{/i} {grm}adj.{/grm}: Κνίδιος.
+---
+Cnossus
+See {i}Gnossus.{/i}
+---
+Cocceius
+Κοκκήιος, ὁ.
+---
+Cocles
+See under {i}Horatius.{/i}
+---
+Cocytus
+({i}River{/i}), Κωκῡτός, ὁ.
+---
+Codrus
+Κόδρος, ὁ.
+---
+Colchis
+Κολχῐ́ς, -ῐ́δος, ἡ.
+{i}A Colchian{/i}: Κόλχος, ὁ.
+{i}Colchian,{/i} {grm}adj.{/grm}: Κολχῐκός. {grm}Fem. adj.{/grm}, Κολχῐ́ς, -ῐ́δος.
+---
+Colonae
+Κολωναί, αἱ.
+---
+Colonus
+Κολωνός, ὁ.
+---
+Colophon
+Κολοφῶν, -ῶνος, ἡ.
+{i}Of Colophon,{/i} {grm}adj.{/grm}: Κολοφώνιος.
+---
+Colossae
+Κολοσσαί, αἱ.
+---
+Commagene
+Κομμαγηνή, ἡ.
+---
+Conon
+Κόνων, -ωνος, ὁ.
+---
+Constantinople
+See {i}Byzantium.{/i}
+---
+Copais
+({i}Lake{/i}), Κωπᾱῐ́ς (ῐ́δος) λίμνη, ἡ.
+{i}People of Lake Copais{/i}: Κωπαιῆς, -έων, οἱ.
+{i}Eel from Lake Copais,{/i} ἔγχελυς Κωπᾷς (-ᾷδος), ἡ.
+---
+Cora
+Κόρη, ἡ ; see {i}Persephone,{/i} or say, {i}daughter of Demeter.{/i}
+---
+Corcyra
+Κέρκῠρα, ἡ.
+{i}Of Corcyra,{/i} {grm}adj.{/grm}: Κερκυραῖος, Κερκυραϊκός.
+---
+Cordova
+Κορδύβη, ἡ.
+---
+Corinth
+Κόρινθος, ἡ.
+{i}Corinthian,{/i} {grm}adj.{/grm}: Κορίνθιος.
+{i}The Corinthian Gulf{/i}: ὁ Κορινθιακὸς Κόλπος ({corpus}Xen.{/corpus}, {i}Hell. VI, II.{/i} 9).
+---
+Cornelia
+Κορνηλία, ἡ.
+---
+Cornelius
+Κορνήλιος, ὁ.
+---
+Coronea
+Κορώνεια, ἡ.
+{i}Of Coronaea,{/i} {grm}adj.{/grm}: Κορωναῖος.
+---
+Coronus
+Κόρωνος, ὁ.
+---
+Corsica
+Κύρνος, ἡ.
+{i}Corsican,{/i} {grm}adj.{/grm}: Κύρνιος.
+---
+Corybantes
+Κορύβαντες, οἱ.
+---
+Corycian Cave
+Κωρῠκῐ́ς (-ῐ́δος) πέτρα, ἡ ({corpus}Æsch.{/corpus}, {i}Eum.{/i} 22).
+---
+Corycus
+Κώρῠκος, ὁ.
+---
+Cos
+Κῶς, Κῶ, ἡ.
+{i}Of Cos,{/i} {grm}adj.{/grm}: Κῷος.
+---
+Cotta
+Κόττας, -α, ὁ.
+---
+Cotys
+Κότυς, -υος, ὁ.
+---
+Cranaa
+Κρᾰναά, ἡ ; see {i}Athens.{/i}
+---
+Cranon
+Κρᾱ́νων, -ωνος, ἡ.
+{i}Of Cranon,{/i} {grm}adj.{/grm}: Κρανώνιος.
+---
+Cratinus
+Κρᾰτῖνος, ὁ.
+---
+Cremona
+Κρεμώνη, ἡ.
+---
+Creon
+Κρέων, -οντος, ὁ, or say, {i}son of Menoeceus.{/i}
+{i}Of Creon,{/i} {grm}adj.{/grm}: Κρεοντεῖος.
+---
+Crete
+Κρήτη, ἡ.
+{i}A Cretan{/i}: Κρής, Κρητός, ὁ.
+{i}Cretan,{/i} {grm}adj.{/grm}: Κρητῐκός, {corpus}V.{/corpus} Κρήσιος. {grm}Fem. adj.{/grm}, Κρῆσσα.
+{i}In Cretan fashion{/i}: Κρητῐκῶς ({corpus}Ar.{/corpus}, {i}Ecc.{/i} 1164).
+---
+Creusa
+Κρέουσα, ἡ.
+---
+Creusis
+Κρεῦσις, -ιος, ἡ ({corpus}Xen.{/corpus}).
+---
+Crimea
+ἡ Ταυρική.
+{i}People of the Crimea{/i}: Ταῦροι, οἱ; see {i}Tauris.{/i}
+---
+Crisa
+Κρῖσα, ἡ.
+{i}Of Crisa,{/i} {grm}adj.{/grm}: Κρῑσαῖος.
+---
+Critias
+Κρῐτίας, -ου, ὁ.
+---
+Crito
+Κρίτων, -ωνος, ὁ.
+---
+Croesus
+Κροῖσος, ὁ.
+---
+Crommyon
+Κραμμύων, -ωνος, ὁ.
+{i}Of Crommyon,{/i} {grm}adj.{/grm}: Κραμμυώνιος.
+---
+Cronus
+Κρόνος, ὁ.
+{i}Son of Cronus{/i}: Κρονῐ́δης, -ου, ὁ.
+{i}As old-fashioned as Cronus{/i}: {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Κρονῐκός.
+---
+Croton
+Κρότων, -ωνος, ἡ.
+{i}Man of Croton{/i}: Κροτωνιάτης, -ου, ὁ.
+{i}Of Croton,{/i} {grm}fem. adj.{/grm}: Κροτωνιᾶτις, -ιδος.
+---
+Ctesias
+Κτησίας, -ου, ὁ.
+---
+Ctesiphon
+Κτησιφῶν, -ῶντος, ὁ.
+---
+Cumae
+See {i}Cyme.{/i}
+---
+Cunaxa
+Κούναξα, τά.
+---
+Cupid
+Ἔρως, -ωτος, ὁ, or say, {i}son of Aprodite.{/i}
+---
+Curds
+Καρδοῦχοι, οἱ.
+---
+Curio
+Κουρίων, -ωνος, ὁ.
+---
+Curium
+Κούριον, τό.
+{i}Man of Curium{/i}: Κουριεύς, -ιῶς, ὁ.
+---
+Curtius
+Κούρτιος, ὁ.
+{i}Lacus Curtius{/i}: Κουρτίου λάκκος, ὁ.
+---
+Cyanean Rocks
+See {i}Symplegades.{/i}
+---
+Cyaxares
+Κυαξάρης, {grm}gen.{/grm} -ου, or -ους (both found in {corpus}Xen.{/corpus}), ὁ.
+---
+Cybele
+Κῠβέλη, ἡ ; see {i}Demeter.{/i}
+---
+Cyclades
+Κυκλᾰ́δες νῆσοι, αἱ, or {i}omit{/i} νῆσοι.
+---
+Cyclops
+Κύκλωψ, -ωπος, ὁ.
+{i}Cyclopean,{/i} {grm}adj.{/grm}: Κυκλώπειος, Κυκλώπιος.
+---
+Cycnus
+Κύκνος, ὁ.
+---
+Cydnus (Rirer)
+Κύδνος, ὁ.
+---
+Cydonia
+Κυδωνία, ἡ.
+{i}Man of Cydohia{/i}: Κυδωνιάτης, -ου, ὁ.
+---
+Cyllene (Mt.)
+Κυλλήνη, ἡ.
+---
+Cylon
+Κύλων, -ωνος, ὁ.
+---
+Cyme
+Κύμη, ἡ.
+{i}Of Cyme,{/i} {grm}adj.{/grm}: Κυμαῖος.
+---
+Cynoscephalae
+Κυνὸς Κεφαλαί, αἱ.
+---
+Cynossema
+Κυνὸς σῆμα, τό.
+---
+Cynosura
+Κυνοσούρα, ἡ.
+---
+Cynthus (Mt.)
+Κύνθος, ὁ.
+{i}Of Cynthus,{/i} {grm}adj.{/grm}: Κύνθιος.
+---
+Cynuria
+Κυνουρία, ἡ.
+---
+Cyprus
+Κύπρος, ἡ.
+{i}Cyprian,{/i} {grm}adj.{/grm}: Κύπριος.
+{i}The Cyprian goddess{/i}: Κυπρῐ́ς, -ῐ́δος ; see {i}Aphrodite.{/i}
+{i}Born in Cyprus,{/i} {grm}adj.{/grm}: ({i}of Aphrodite{/i}), Κυπρογένεια.
+---
+Cypselus
+Κύψελος, ὁ.
+---
+Cyrene
+Κῡρήνη, ἡ.
+{i}Of Cyrene,{/i} {grm}adj.{/grm}: Κυρηναῖος.
+---
+Cyrus
+Κῦρος, ὁ.
+{i}Of Cyrus,{/i} {grm}adj.{/grm}: Κύρειος.
+---
+Cythera
+Κῠ́θηρα, τά.
+{i}Of Cythera,{/i} {grm}adj.{/grm}: Κυθήριος.
+---
+Cyzicus
+Κύζῐκος ἡ.
+{i}Man of Cyzicus{/i}: Κυζικηνός, ὁ.
+{i}Of Cyzius,{/i} {grm}adj.{/grm}: Κυζῐκηνῐκός ({corpus}Ar.{/corpus}). Κυζικηνός.
+---
+Daedalus
+Δαίδᾰλος, ὁ.
+---
+Dalmatia
+Δαλμᾰτίᾰ, ἡ.
+{i}Dalmatian,{/i} {grm}adj.{/grm}: Δαλμᾰτικός.
+---
+Damascus
+Δᾰμασκός, ἡ.
+---
+Danae
+Δᾰνάη, ἡ.
+---
+Danai
+Δᾰναοί, οἱ; see {i}Greeks.{/i}
+---
+Danaus
+Δᾰναός ὁ.
+{i}Sons of Danaus{/i}: Δᾰναΐδαι, οἱ.
+{i}Daughters of Danaus{/i}: Δᾰναΐδες, αἱ.
+---
+Danube (River)
+Ἴστρος, ὁ.
+---
+Daphnae
+Δαφναί, αἱ.
+---
+Dardanus
+{i}The Town:{/i} Δάρδᾰνος, ἡ,
+{i}Man of Dardanus{/i}: Δαρδανεύς, -έως, ὁ.
+{i}The Hero{/i}: Δάρδᾰνος, ὁ.
+---
+Darius
+Δᾱ́ρειος, ὁ.
+---
+Dascylium
+Δασκύλειον, τό, or Δασκύλιον, τό.
+{i}Of Dascylium,{/i} {grm}fem. adj.{/grm}: Δασκυλῖτις, -ιδος.
+---
+Datis
+Δᾶτις, -ιδος ὁ.
+---
+Daulis
+Δαυλῐ́ς, -ῐ́δος ἡ.
+{i}Territory of Daulis{/i}: Δαυλία, ἡ.
+---
+Death
+Θᾰ́νᾰτος, ὁ, ᾍδης, -ου, ὁ.
+---
+Decelea
+Δεκέλεια, ἡ.
+{i}From Decelea{/i}: Δεκελείοθεν.
+{i}Man of Decelea{/i}: Δεκελεύς, -έως, ὁ.
+{i}Decelean,{/i} {grm}adj.{/grm}: Δεκελεικός.
+---
+Deianira
+Δῃᾰ́νειρα, ἡ, or say, {i}daughter of Oeneus.{/i}
+---
+Deidamia
+Δηιδᾰ́μεια, ἡ.
+---
+Deioces
+Δηιόκης, -ου, ὁ.
+---
+Deiphobus
+Δηῐ́φοβος, ὁ.
+---
+Delos
+Δῆλος, ἡ.
+{i}Delian,{/i} {grm}adj.{/grm}: Δῆλιος, Δηλιακός ({corpus}Thuc.{/corpus} 3, 104). {grm}Fem. adj.{/grm}, Δηλιᾰ́ς, -ᾰ́δος.
+{i}Delian festival{/i}: τὰ Δήλια.
+{i}Temple of Delian Apollo{/i}: τὸ Δήλιον.
+---
+Delphi
+Δελφοί, οἱ.
+{i}A Delphian{/i}: Δελφός, ὁ. {grm}Fem.{/grm} Δελφῐ́ς, -ῐ́δος, ἡ.
+{i}Delphian,{/i} {grm}adj.{/grm}: Δελφῐκός. {grm}Fem. adj.{/grm}, Δελφῐ́ς, -ῐ́δος.
+---
+Delta
+Δέλτα ({grm}indeclinable{/grm}), τό.
+---
+Demaratus
+Δημᾰ́ρᾱτος, ὁ.
+---
+Demeter
+Δημήτηρ ({grm}gen.{/grm} Δήμητρος), ἡ, or use {corpus}V.{/corpus} Δηώ, -οῦς, ἡ ; see also
+{i}Cybele Of Demeter,{/i} {grm}adj.{/grm}: Δημήτριος ({corpus}Æsch.{/corpus}, {i}Frag.{/i} 44).
+---
+Demophon
+Δημοφῶν, -ῶντος, ὁ, or say, {i}son of Theseus.{/i}
+---
+Demosthenes
+Δημοσθένης, -ους, ὁ.
+---
+Demus
+Δῆμος, ὁ.
+---
+Dercylidas
+Δερκυλίδας, -ου, ὁ.
+---
+Derdas
+Δέρδας ({grm}gen.{/grm} -ου, or -α) ({corpus}Xen.{/corpus}), ὁ.
+---
+Dexippus
+Δέξιππος, ὁ.
+---
+Deucalion
+Δευκᾰλίων, -ωνος, ὁ.
+---
+Diagoras
+Διᾰγόρας, -ου, ὁ.
+---
+Diana
+See {i}Artemis.{/i}
+---
+Dictynna
+Δίκτυννα, ἡ.
+---
+Diitrephes
+Διιτρέφης, -ους, ὁ.
+---
+Dindymon (Mt.)
+Δίνδῠμον, τό.
+{i}The mother goddess of Dindymon{/i}: Δινδυμήνη μήτηρ, ἡ ; see {i}Cybele, Demeter.{/i}
+---
+Dio
+Δίων, -ωνος, ὁ.
+---
+Diodotus
+Διόδοτος, ὁ.
+---
+Diogenes
+Διογένης, -ους, ὁ.
+---
+Diomed
+Διομήδης, -ους, ὁ, or say, {i}son of Tydeus.{/i}
+---
+Diomedon
+Διομέδων, -οντος, ὁ.
+---
+Dione
+Διώνη, ἡ.
+---
+Dionysius
+Διονύσιος, ὁ.
+---
+Dionysus
+Διόνῡσος, ὁ ; see {i}Bacchus.{/i}
+{i}Feast of Dionysus{/i}: Διονύσια, τά.
+{i}Temple of Dionysus{/i}: Διονύσιον, τό.
+{i}Theatre of Dionysus{/i}: Διονυσιακὸν Θέατρον, τό.
+---
+Diopeithes
+Διοπείθης, -ους, ὁ.
+---
+Dioscuri
+Διόσκοροι, οἱ, Διοσκόρω, τώ; see {i}Castor, Pollux.{/i}
+{i}Temple of the Dioscuri{/i}: Διοσκόρειον, τό.
+---
+Diotimus
+Δίοτῑμος, ὁ.
+---
+Dium
+Δῖον, τό.
+---
+Dirce
+Δίρκη, ἡ.
+{i}Of Dirce,{/i} {grm}adj.{/grm}: Διρκαῖος.
+---
+Dneiper (River)
+See {i}Borysthenes.{/i}
+---
+Doberus
+Δόβηρος, ἡ.
+---
+Dodona
+Δωδώνη, ἡ.
+{grm}Heteroclite gen.{/grm} and {grm}dat.{/grm}: Δωδῶνος ({corpus}Soph.{/corpus}, {i}Frag.{/i}), Δωδῶνι ({corpus}Soph.{/corpus}, {i}Trach.{/i} 172).
+{i}Of Dodona,{/i} {grm}adj.{/grm}: Δωδωναῖος. {grm}Fem. adj.{/grm}, Δωδωνῐ́ς, -ῐ́δος.
+---
+Dolon
+Δόλων, -ωνος, ὁ.
+---
+Dolonci
+Δολογκοί, οἱ.
+---
+Dolopia
+Δολοπία, ἡ.
+{i}Dolopes{/i}: Δόλοπες, οἱ.
+---
+Domitian
+Δομιτιανός, ὁ.
+---
+Domitius
+Δομίτιος, ὁ.
+---
+Don (Rirer)
+See {i}Tanais.{/i}
+---
+Dorian
+{b}adj.{/b}
+Δωρῐκός. {grm}Fem. adj.{/grm}, Δωρῐ́ς, -ῐ́δος.
+{i}A Dorian,{/i} {grm}subs.{/grm}: Δωριεύς, -ῶς, ὁ. {grm}Fem.{/grm}, Δωρῐ́ς, -ῐ́δος, ἡ.
+{i}In Dorian fashion,{/i} {grm}adv.{/grm}: Δωριστῐ́ ({corpus}Ar.{/corpus}).
+---
+Doric
+See {i}Dorian.{/i}
+---
+Dorieus
+Δωριεύς ({grm}gen.{/grm} -ιέως {corpus}Xen.{/corpus}, {i}Hell. I.{/i} 1).
+---
+Doris
+Δωρῐ́ς, -ῐ́δος, ἡ.
+{i}People of Doris{/i}: Δωριῆς, -ῶν, οἱ.
+---
+Doriscus
+Δόρισκος, ὁ.
+---
+Dorus
+Δῶρος, ὁ.
+---
+Draco
+Δρᾰ́κων, -οντος, ὁ.
+---
+Drusus
+Δροῦσος, ὁ.
+---
+Dyme
+Δύμη, ἡ.
+---
+Dyrrachium
+Δυρράχιον, τό, later name of {i}Epidamnus.{/i}
+---
+Earth
+See {i}Gaea.{/i}
+---
+Ecbatana
+Ἐκβᾰ́τᾰνα, τά.
+---
+Echinades (Islands)
+Ἐχῑνᾰ́δες, αἱ.
+---
+Echinus
+Ἐχῑνοῦς, -οῦντος, ὁ.
+---
+Echion
+Ἐχῑ́ων, -ονος, ὁ.
+---
+Echo
+Ἠχώ, -οῦς, ἡ.
+---
+Edonian
+{b}adj.{/b}
+Ἠδωνικός.
+{i}An Edonian,{/i} Ἠδωνός, ὁ. Pl. also Ἠδῶνες ({corpus}Thuc.{/corpus} 2, 99, {i}etc.{/i}).
+{i}Land of the Edonians{/i}: Ἠδωνίς (-ῐ́δος) αἶα, ἡ ({corpus}Æsch.{/corpus}, {i}Pers.{/i} 495).
+---
+Eetion
+Ἠετίων, -ωνος, ὁ.
+---
+Eetionea
+Ἠετιονεία, ἡ.
+---
+Egeria
+Ἠγερία, ἡ.
+---
+Egesta
+Ἔγεστα, ἡ.
+{i}Of Egesta,{/i} {grm}adj.{/grm}: Ἐγεσταῖος.
+---
+Egypt
+Αἴγυπτος, ἡ.
+{i}Of Egypt,{/i} {grm}adj.{/grm}: Αἰγύπτιος.
+{i}In the Egyptian language,{/i} {grm}adv.{/grm}: Αἰγυπτιστί.
+---
+Eileithyia
+Εἰλείθυια, ἡ.
+---
+Eion
+Ἠϊών, -όνος, ἡ.
+---
+Eiras
+Εἰράς, -άδος, ἡ.
+---
+Elaeus
+Ἐλαιοῦς, -οῦντος, ὁ.
+{i}Of Elaeus,{/i} {grm}adj.{/grm}: Ἐλαιούσιος.
+---
+Elatea
+Ἐλάτεια, ἡ.
+---
+Elea
+Ἐλέα, ἡ.
+{i}Eleatic,{/i} {grm}adj.{/grm}: Ἐλεατικός.
+---
+Electra
+Ἠλέκτρα, ἡ, or say, {i}daughter of Agamemnon.{/i}
+---
+Electryon
+Ἠλεκτρύων, -ονος, or -ωνος, ὁ.
+---
+Elephantine
+Ἐλεφαντίνη, ἡ.
+---
+Eleusis
+Ἐλευσῑ́ς, -ῖνος, ἡ.
+{i}At Eleusis{/i}: Ἐλευσῖνι.
+{i}From Eleusis{/i}: Ἐλευσινόθεν.
+{i}To Eleusis{/i}: Ἐλευσίναδε.
+{i}Eleusinian,{/i} {grm}adj.{/grm}: Ἐλευσίνιος.
+---
+Eleutherae
+Ἐλευθεραί, αἱ.
+---
+Elis
+Ἦλις, -ιδος, ἡ.
+{i}Of Elis,{/i} {grm}adj.{/grm}: Ἠλεῖος.
+---
+Elymi
+Ἔλυμοι, οἱ.
+---
+Elysium
+Ἠλύσιον πεδίον, τό ; see {i}Islands of the Blest.{/i}
+---
+Empedocles
+Ἐμπεδοκλῆς, -κλέους, ὁ.
+---
+Empusa
+Ἔμπουσα, ἡ.
+---
+Enceladus
+Ἐγκέλᾰδος, ὁ.
+---
+Endius
+Ἔνδιος, ὁ.
+---
+Endymion
+Ἐνδῠμίων, -ωνος, ὁ.
+---
+Enipeus
+Ἐνῑπεύς, -έως, ὁ.
+---
+Enyalius (War god)
+Ἐνῡᾰ́λιος, ὁ.
+---
+Enyo
+Ἐνῡώ, -οῦς, ἡ.
+---
+Epaminondas
+Ἐπαμεινώνδας, -ου, ὁ.
+---
+Epaphus
+Ἔπᾰφος, ὁ.
+---
+Epeus
+Ἐπειός, ὁ.
+---
+Ephesus
+Ἔφεσος, ἡ.
+{i}Ephesian,{/i} {grm}adj.{/grm}: Ἐφέσιος.
+---
+Ephialtes
+Ἐφιάλτης, -ου, ὁ.
+---
+Epicharmus
+Ἐπίχαρμος, ὁ.
+---
+Epictetus
+Ἐπίκτητος, ὁ.
+---
+Epicurus
+Ἐπίκουρος, ὁ.
+---
+Epidamnus
+Ἐπίδαμνος, ἡ.
+{i}People of Epidamnus{/i}: Ἐπιδάμνιοι, οἱ.
+---
+Epidaurus (in Argolis)
+Ἐπῐ́δαυρος, ἡ.
+{i}Of Epidaurus,{/i} {grm}adj.{/grm}: Ἐπῐδαύριος.
+{i}Epidaurus{/i} ({i}in Laconia{/i}): Ἐπίδαυρος, Λιμηρά, ἡ.
+---
+Epigoni
+Ἐπῐ́γονοι, οἱ.
+---
+Epimenides
+Ἐπιμενίδης, -ου, ὁ.
+---
+Epimetheus
+Ἐπῐμηθεύς, -έως, ὁ.
+---
+Epipolae
+Ἐπιπολαί, αἱ.
+---
+Epirus
+Ἤπειρος, ἡ.
+{i}Man of Epirus{/i} Ἠπειρώτης, ὁ.
+{i}Of Epirus,{/i} {grm}adj.{/grm}: Ἠπειρωτικός.
+---
+Epyaxa
+Ἐπύαξα, ἡ.
+---
+Erasinades
+Ἐρᾰσῑνᾰ́δης, -ου, ὁ.
+---
+Erasinus (River)
+Ἐρασῖνος, ὁ.
+---
+Erato
+Ἐρᾰτώ, -οῦς, ἡ.
+---
+Erebus
+Ἔρεβος, -ους, τό.
+---
+Erechtheus
+Ἐρεχθεύς, -έως, ὁ.
+{i}Descendant of Erechtheus{/i}: Ἐρεχθεῖδαι, οἱ.
+---
+Eresus
+Ἐρεσός, ἡ.
+---
+Eretria
+Ἐρέτρια, ἡ.
+{i}Man of Eretria{/i}: Ἐρετριεύς, -ιῶς, ὁ.
+{i}Eretrian,{/i} {grm}adj.{/grm}: Ἐρετρικός, Ἐρετριαῖος.
+---
+Eriboea
+Ἐρῐ́βοια, ἡ.
+---
+Erichthonius
+Ἐριχθόνιος, ὁ, or say, {i}son of Hephaestus.{/i}
+---
+Eridanus (River)
+Ἠρῐδᾰνός, ὁ.
+---
+Erineus (River)
+Ἐρινεός, ὁ.
+---
+Erinnys
+See {i}Fury.{/i}
+---
+Eriphyle
+Ἐρῐφύλη, ἡ.
+---
+Eros
+Ἔρως, -ωτος, ὁ.
+---
+Erymanthus (Mt.)
+Ἐρύμανθος, ὁ.
+{i}Of Erymanthus,{/i} {grm}adj.{/grm}: Ἐρῠμάνθιος.
+---
+Erythrae
+Ἐρυθραί, αἱ.
+{i}Of Erythrae,{/i} {grm}adj.{/grm}: Ἐρυθραῖος.
+---
+Eryx
+Ἔρυξ, -ῠκος, ὁ.
+{i}Of Eryx,{/i} {grm}adj.{/grm}: Ἐρυκῖνος, ὁ.
+---
+Eteocles
+Ἐτεοκλῆς, -κλέους, ὁ, {corpus}V.{/corpus} also Ἐτεοκλέης ({corpus}Æsch.{/corpus}, {i}Theb.{/i} 6), or say, {i}son of Oedipus.{/i}
+---
+Eteoclus
+Ἐτέοκλος, ὁ.
+---
+Eteonicus
+Ἐτεόνῑκος, ὁ.
+---
+Ethiopia
+Αἰθιοπία, ἡ.
+{i}An Ethiopian{/i}: Αἰθιόψ, -οπος, ὁ.
+{i}Ethiopian,{/i} {grm}adj.{/grm}: Αἰθιοπικός, {corpus}V.{/corpus} {grm}adj.{/grm}, Αἰθιόπιος ({corpus}Eur.{/corpus}, {i}Frag.{/i} 349). {grm}Fem. adj.{/grm}, Αἰθιοπῐ́ς, -ῐ́δος ({corpus}Eur.{/corpus}, {i}Frag.{/i} 228).
+---
+Etna (Mt.)
+Αἴτνη, ἡ.
+{i}Of Etna,{/i} {grm}adj.{/grm}: Αἰτναῖος.
+---
+Etruria
+Τυρσηνία, ἡ.
+{i}An Etruscan{/i}: Τυρσηνός, ὁ.
+{i}Etruscan,{/i} {grm}adj.{/grm}: Τυρσηνῐκός, {corpus}V.{/corpus} also Τυρσηνός. {grm}Fem. adj.{/grm}, Τυρσηνῐ́ς, -ῐ́δος.
+---
+Etruscan
+See under {i}Etruria.{/i}
+---
+Euboea
+Εὔβοια, ἡ.
+{i}A Euboean{/i}: Εὐβοεύς, -οῶς, ὁ.
+{i}Euboean.{/i} {grm}adj.{/grm}: Εὐβοϊκός, {corpus}V.{/corpus} Εὐβοικός. {grm}Fem. adj.{/grm}: Εὐβοιῐ́ς, -ῐ́δος, heteroclite {grm}acc.{/grm} Εὐβοῖδα.
+---
+Eubulus
+Εὔβουλος, ὁ.
+---
+Eucleides
+Εὐκλείδης, -ου, ὁ.
+---
+Eucles
+Εὐκλῆς, -κλέους, ὁ.
+---
+Eumenides
+See {i}Furies.{/i}
+---
+Eumolpus
+Εὔμολπος, ὁ.
+{i}Descendants of Eumolpus{/i}: Εὐμολπίδαι, οἱ.
+---
+Euphemus
+Εὔφημος, ὁ.
+---
+Euphrates
+Εὐφράτης, -ου, ὁ.
+---
+Euphron
+Εὔφρων, -ονος, ὁ.
+---
+Eupolis
+Εὔπολις, -ῐδος, ὁ.
+---
+Euripides
+Εὐρῑπῐ́δης, -ου, ὁ.
+{i}Of Euripides,{/i} {grm}adj.{/grm}: Εὐρῑπῐ́δειος.
+---
+Euripus
+Εὔρῑπος, ὁ.
+---
+Europe
+Εὐρώπη, ἡ, {corpus}V.{/corpus} also, Εὐρωπία, ἡ.
+---
+Eurotas (River)
+Εὐρώτᾱς, -ᾱ ({corpus}Eur.{/corpus}, {i}Hel.{/i} 493), ὁ.
+---
+Eurybiades
+Εὐρυβιάδης, -ου, ὁ.
+---
+Eurycleia
+Εὐρύκλεια, ἡ.
+---
+Eurycles
+Εὐρυκλῆς, -κλέους, ὁ.
+---
+Euryelus (Hill)
+Εὐρύηλος, ὁ.
+---
+Eurydice
+Εὐρῠδῐ́κη, ἡ.
+---
+Eurylochus
+Εὐρύλοχος, ὁ.
+---
+Eurymachus
+Εὐρύμᾰχος, ὁ ({corpus}Æsch.{/corpus}, {i}Frag.{/i}).
+---
+Eurymedon (River or General)
+Εὐρυμέδων, -οντος, ὁ.
+---
+Euryptolemus
+Εὐρυπτόλεμος, ὁ.
+---
+Eurysaces
+Εὐρῠσᾰ́κης, -ους, ὁ, or say, {i}son of Ajax.{/i}
+---
+Eurystheus
+Εὐρυσθεύς, -έως, ὁ, or say, {i}son of Sthenelus.{/i}
+---
+Eurytus
+Εὔρῠτος, ὁ.
+{i}Of Eurytus,{/i} {corpus}V.{/corpus} {grm}adj.{/grm}: Εὐρύτειος.
+---
+Euthydemus
+Εὐθύδημος, ὁ.
+---
+Euthyphro
+Εὐθύφρων, -ονος, ὁ.
+---
+Euxine Sea
+ὁ Εὔξεινος πόντος, or ὁ Πόντος alone, or {corpus}V.{/corpus} Εὔξενος πόντος, ὁ ({corpus}Eur.{/corpus}, {i}Rhes.{/i} 428), Εὔξενος πόρος, ὁ ({corpus}Eur.{/corpus}, {i}I T.{/i} 1388), Εὔξεινος πόρος, ὁ ({corpus}Eur.{/corpus}, {i}And.{/i} 1262).
+---
+Evadne
+Εὐάδνη, ἡ.
+---
+Evagoras
+Εὐαγόρας, -ου, ὁ.
+---
+Evander
+Εὔανδρος, ὁ.
+---
+Evenor
+Εὐήνωρ, -ορος, ὁ.
+---
+Evenus (River)
+Εὔηνος, ὁ.
+---
+Fabius
+Φάβιος, ὁ.
+---
+Fabricius
+Φαβρίκιος, ὁ.
+---
+Falerii
+Φαλερίοι, οἱ.
+---
+Fate
+Μοῖρα, ἡ.
+---
+Faunus
+Φαῦνος, ὁ.
+---
+Faustulus
+Φαύστυλος, ὁ.
+---
+Favonius
+Φαώνιος, ὁ.
+---
+Fetiales
+Φητιαλεῖς, οἱ.
+---
+Fidenae
+Φιδήνη, ἡ.
+{i}People of Fidenae{/i}: Φιδηνᾶναι, οἱ.
+---
+Flamininus
+Φλαμίνινος, ὁ.
+---
+Flaminius
+Φλαμίνιος, ὁ.
+---
+Flavius
+Φλαούιος, ὁ.
+---
+Florius
+Φλῶρος, ὁ.
+---
+Fortune
+Τῠ́χη, ἡ ({corpus}Eur.{/corpus}, {i}Ion,{/i} 1514).
+---
+Fregeliae
+Φρέγελλα, ἡ
+{i}People of Fregellae{/i}: Φρεγελλᾶνοι, αἱ.
+---
+Fulvius
+Φούλβιος, ὁ.
+---
+Furius
+Φούριος, ὁ.
+---
+Fury
+Ἐρῑνύς, -ύος, ἡ.
+{i}The Furies{/i}: use also Εὐμενῐ́δες, αἱ, Κῆρες αἱ ({corpus}Eur.{/corpus}, {i}El.{/i} 1252).
+---
+Gadatas
+Γαδάτας, -α, ὁ.
+---
+Gaea (Earth regarded as a goddess)
+Γαῖα, ἡ, Γῆ, ἡ, Χθών, -ονός, ἡ.
+{i}Born of Gaea,{/i} {grm}adj.{/grm}: Γηγενής, -οῦς.
+---
+Galatia
+Γᾰλᾰτία, ἡ.
+{i}A Galatian{/i}: Γᾰλᾰ́της, -ου, ὁ.
+---
+Galba
+Γάλβας, -α, ὁ.
+---
+Galepsus
+Γαληψός, ἡ.
+---
+Gallic
+See under {i}Gaul.{/i}
+---
+Ganymede
+Γᾰνῠμήδης, -ου, ὁ.
+---
+Garonne (River)
+Γαρούνας, -α, ὁ.
+---
+Gaul
+Γᾰλᾰτία, ἡ.
+{i}A Gaul{/i}: Γᾰλᾰ́της, -ου, ὁ.
+{i}Gallic,{/i} {grm}adj.{/grm}: Γᾰλᾰτῐκός.
+{i}Cisalpine Gaul{/i}: ἡ ἐντὸς Ἄλπεων Γαλατία.
+{i}Transalpine Gaul{/i}: ἡ ἐκτὸς Ἄλπεων Γαλατία.
+---
+Gaza
+Γάζα, ἡ.
+---
+Ge
+See {i}Gaea.{/i}
+---
+Gela (City)
+Γέλᾱ, -ᾱς, ἡ.
+{i}Of Gela,{/i} {grm}adj.{/grm}: Γελῷος.
+---
+Gela (River)
+Γέλας, -α, ὁ ({corpus}Thuc.{/corpus} 6, 4).
+---
+Gelo
+Γέλων, -ωνος, ὁ.
+---
+Geraestus
+Γεραιστός, ἡ.
+{i}Of Geraestus,{/i} {grm}adj.{/grm}: Γεραίστιος.
+---
+Gerania (Mt.)
+Γερανία, ἡ.
+---
+Germany
+Γερμανία, ἡ.
+{i}A German{/i}: Γερμανός, ὁ.
+{i}German,{/i} {grm}adj.{/grm}: Γερμανικός.
+---
+Geryon
+Γηρυόνης, -ου, ὁ ({corpus}Ar.{/corpus}, {i}Ach.{/i} 1082), or Γηρυών, -όνος, ὁ ({corpus}Æsch.{/corpus}, {i}Ag.{/i} 870).
+---
+Getae
+Γέται, οἱ.
+---
+Giant
+Γῐ́γᾱς, -αντος, ὁ, or use in {corpus}Ar.{/corpus} and {corpus}V.{/corpus} Γηγενής, -οῦς, ὁ ; see {i}Titan.{/i}
+---
+Gibraltar
+Κάλπη, ἡ.
+---
+Gisco
+Γέσκων, -ωνος, ὁ.
+---
+Glaucia
+Γλαυκίας, -α, ὁ.
+---
+Glaucon
+Γλαύκων, -ωνος, ὁ.
+---
+Glaucus
+Γλαῦκος, ὁ.
+---
+Gnossus
+Κνωσσός, ἡ.
+{i}Of Gnossus,{/i} {grm}adj.{/grm}: Κνώσσιος.
+---
+Gobryas
+Γωβρύας, -ου, ὁ.
+---
+Gomphi
+Γόμφοι, οἱ.
+---
+Gonatas (Antigonus)
+Γονατᾶς, -ᾶ, ὁ.
+---
+Gonnus
+Γόννος, ὁ.
+---
+Gordium
+Γόρδιον, τό.
+---
+Gorgias
+Γοργίας, ου, ὁ.
+---
+Gorgon
+Γοργώ, -οῦς, ἡ, {grm}heteroclite acc.{/grm} {i}in{/i} {corpus}Ar.{/corpus} and {corpus}V.{/corpus} Γοργόνα, {grm}gen.{/grm} Γοργόνος, {grm}nom. pl.{/grm} Γοργόνες, or use {corpus}V.{/corpus} Φορκίς, -ῐ́δος, ἡ, or say, {i}daughter of Phorcys.{/i}
+{i}Of the Gorgons,{/i} {grm}adj.{/grm}: Γοργόνειος, Γόργειος.
+---
+Gortyna
+Γορτῡ́νη, ἡ.
+{i}Of Gortyna,{/i} {grm}adj.{/grm}: Γορτῡ́νιος.
+---
+Goths
+Use {i}Getae.{/i}
+---
+Gracchus
+Γράγχος, ὁ.
+---
+Graces The
+Χᾰ́ρῐτες, αἱ.
+---
+Granicus (River)
+Γρᾱνῑκός, ὁ.
+---
+Greece
+Ἑλλᾰ́ς, ᾰ́δος, ἡ.
+{i}A Greek{/i}: Ἕλλην, -ηνος, ὁ.
+{i}Greek woman{/i}: Ἑλληνῐ́ς, -ῐ́δος, ἡ.
+{i}Greek,{/i} {grm}adj.{/grm}: Ἑλληνῐκός, in {corpus}V.{/corpus} also Ἕλλην, -ηνος. {grm}Fem. adj.{/grm}, {corpus}V.{/corpus} Ἑλληνῐ́ς, -ῐ́δος (rare {corpus}P.{/corpus}), Ἑλλᾰ́ς, -ᾰ́δος.
+{i}In Greek fashion, adr.{/i}; Ἑλληνῐκῶς.
+{i}Speak Greek,{/i} {grm}v.{/grm}: Ἑλληνίζειν.
+{i}In Greek, in the Greek language,{/i} {grm}adv.{/grm}: Ἑλληνιστί.
+{i}The whole Greek world{/i}: {corpus}Ar.{/corpus} and {corpus}V.{/corpus} οἱ Πᾰνέλληνες.
+{i}The Greeks{/i}: Ἕλληνες, οἱ, also in {corpus}V.{/corpus} use Ᾰ̓χαιοί, οἱ. Δᾰναοί, οἱ, Πελασγοί, οἱ.
+---
+Gyges
+Γύγης, -ου, ὁ.
+---
+Gylippus
+Γύλιππος, ὁ.
+---
+Gyrton
+Γύρτων, -ωνος, ἡ.
+{i}Of Gyrton,{/i} {grm}adj.{/grm}: Γυρτώνιος.
+---
+Gythium
+Γύθιον, τό, or Γύθειον, τό.
+---
+Hades
+ᾍδης, -ου, ὁ ; see {i}Pluto.{/i}
+---
+Haemon
+Αἵμων, -ονος, ὁ.
+---
+Haemus (Mt.)
+Αἷμος, ὁ.
+---
+Hagnon
+Ἅγνων, -ωνος, ὁ.
+---
+Haliartus
+Ἁλίαρτος, ἡ.
+{i}Of Haliartus,{/i} {grm}adj.{/grm}: Ἁλιάρτιος.
+---
+Halicarnassus
+Ἁλικαρνασσός, ἡ.
+{i}Man of Halicarnassus{/i}: Ἁλικαρνασσεύς, -έως, ὁ.
+---
+Halies
+Ἁλιεῖς, -ιέων, οἱ.
+---
+Halys (River)
+Ἅλυς, -υος, ὁ.
+---
+Hamilcar
+Ἀμίλκας, -α, ὁ.
+---
+Hannibal
+Ἀννίβις ({grm}gen.{/grm} -α {corpus}Xen.{/corpus}, {i}Hell. I, I.{/i} 37, -ου {corpus}Plutarch{/corpus}), ὁ.
+{i}Hannibalic,{/i} {grm}adj.{/grm}: Ἀννιβαϊκός.
+---
+Hanno
+Ἄννων, -ωνος, ὁ.
+---
+Harmodius
+Ἁρμόδιος, ὁ.
+---
+Harmonia
+Ἁρμονία, ἡ, or say, {i}daughter of Aphrodite,{/i} or {i}daughter of Ares.{/i}
+---
+Harpagus
+Ἅρπᾰγος, ὁ.
+---
+Harpies
+Ἅρπυιαι, αἱ.
+---
+Hasdrubal
+Ἀσδρούβας, -α, ὁ.
+---
+Hebe
+Ἥβη, ἡ, or say, {i}daughter of Hera.{/i}
+---
+Hebrew
+{b}adj.{/b}
+Ἑβραῖος.
+{i}In the Hebrew language, adr.{/i}: Ἑβραϊστί.
+---
+Hebrus (River)
+Ἕβρος, ὁ.
+---
+Hecataeus
+Ἑκαταῖος, ὁ.
+---
+Hecate
+Ἑκᾰ́τη, ἡ.
+{i}Temple of Hecate{/i}: Ἑκᾰτεῖον, τό.
+---
+Hector
+Ἕκτωρ, -ορος, ὁ, or say, {i}son of Priam.{/i}
+{i}Of Hector,{/i} {grm}adj.{/grm}: Ἑκτόρειος ({corpus}Eur.{/corpus}, {i}Rhes.{/i} 762).
+---
+Hecuba
+Ἑκᾰ́βη, ἡ, or say, {i}daughter of Cisseus.{/i}
+---
+Hegesipyle
+Ἡγησιπύλη, ἡ.
+---
+Helem
+Ἑλένη, ἡ, or see in {corpus}V.{/corpus} Τυνδᾰρῐ́ς, -ῐ́δος, ἡ, or say, {i}daughter of Tyndareus,{/i} or {i}daughtr of Zeus.{/i}
+---
+Helenus
+Ἕλενος, ὁ.
+---
+Helicon (River)
+Ἑλῐκών, -ῶνος, ὁ.
+---
+Heliopolis
+Ἡλίου πόλις, ἡ.
+{i}Men of Heliopolis{/i}: Ἡλιοπολῖται, οἱ.
+---
+Hell
+ᾍδης, -ου, ὁ, or see {i}Tartarus, Acheron.{/i}
+---
+Hellanicus
+Ἑλλᾱ́νῑκος, ὁ.
+---
+Helle
+Ἕλλη, ἡ.
+---
+Hellen
+Ἕλλην, -ηνος, ὁ.
+---
+Hellenic
+See {i}Greek,{/i} under {i}Greece.{/i}
+---
+Hellespont
+Ἑλλήσποντος, ὁ, or see Πόντος, ὁ, alone, or in {corpus}V.{/corpus} Ἕλλης πορθμός, ὁ.
+{i}Of the Hellespont,{/i} {grm}adj.{/grm}: Ἑλλησπόντιος, Ἑλλησποντικός ({corpus}Xen.{/corpus}). {grm}Fem. adj.{/grm}, Ἑλλησποντῐ́ς, -ῐ́δος ({corpus}Soph.{/corpus}, {i}Frag.{/i}).
+---
+Helos
+Ἕλος, -ους, τό.
+---
+Helot
+Εἵλως, -ωτος ὁ, or Εἱλώτης, -ου, ὁ.
+{i}Of Helots,{/i} {grm}adj.{/grm}: Εἱλωτικός.
+---
+Helvetii
+Ἑλβήττιοι, οἱ.
+---
+Helvidius
+Ἑλβίδιος, ὁ.
+---
+Hephaestion
+Ἡφαιστίων, -ωνος, ὁ.
+---
+Hephaestus
+Ἥφαιστος, ὁ.
+{i}Temple of Hephaestus{/i}: Ἡφαιστεῖον, τό.
+{i}Festival of Hephaestus{/i}: Ἠφαίστεια, τά.
+{i}Made by Hephaestus,{/i} {grm}adj.{/grm}: {corpus}V.{/corpus} Ἡφαιστότευκτος ({corpus}Soph.{/corpus}).
+---
+Hera
+Ἥρα, ἡ.
+{i}Temple of Hera{/i}: Ἡραῖον, τό.
+---
+Heraclea
+Ἡράκλεια, ἡ.
+{i}People of Heraclea{/i}: Ἡρακλεῶται, οἱ.
+{i}Territory of Heraclea{/i}: Ἡρακλεῶτις, -ιδος, ἡ.
+---
+Heracleidae
+See under {i}Heracles.{/i}
+---
+Heracleides
+Ἡρακλείδης, -ου, ὁ.
+---
+Heracles
+Ἡρακλῆς, ὁ, {corpus}V.{/corpus} also Ἡρακλέης, ὁ, {i}voc.{/i} Ἡρακλεῖς, {corpus}V.{/corpus} also Ἡρακλέες, {grm}gen.{/grm} Ἡρακλέους, {corpus}V.{/corpus} also Ἡρακλῆος ({corpus}Eur.{/corpus}, {i}Heracl.{/i} 541), or say, {i}son of Alcmena.{/i}
+{i}Of Heracles,{/i} {grm}adj.{/grm}: Ἡράκλειος.
+{i}Descendants of Heracles{/i} ({i}Heracleidae){/i}: Ἡρακλεῖδαι, οἱ.
+{i}Temple of Heracles{/i}: Ἡρακλεῖον, τό.
+{i}Pillars of Heracles{/i}: Ἡρακλεῖαι στῆλαι, αἱ.
+---
+Heraclitus
+Ἡράκλειτος, ὁ.
+{i}Of Heraclitus,{/i} {grm}adj.{/grm}: Ἡρακλείτειος.
+---
+Heraea
+Ἡραία, ἡ.
+{i}Men of Heraea{/i}: Ἡραιῆς, -έων, οἱ.
+---
+Herculaneum
+Ἡράκλανον, τό.
+---
+Hercules
+See {i}Heracles.{/i}
+---
+Hermes
+Ἑρμῆς -οῦ, ὁ, or say, {i}son of Maia.{/i}
+{i}Temple of Hermes{/i}: Ἑρμαῖον, τό.
+{i}Statues of Hermes{/i}: Ἑρμαῖ, οἱ.
+{i}Small figure of Hermes{/i}: Ἑρμήδιον, τό ({corpus}Ar.{/corpus}, {i}Pax.{/i} 924).
+---
+Hermione
+({i}Daughter of Helen{/i}): Ἑρμιόνη, ἡ, or say, {i}daughter of Helen.{/i}
+{i}Hermione{/i} ({i}City{/i}): Ἑρμιόνη, ἡ, or use {corpus}V.{/corpus} Ἑρμιὼν πόλις, ἡ ({corpus}Eur.{/corpus}, {i}H. F.{/i} 615).
+{i}Man of Hermione{/i}: Ἑρμιονεύς, -έως, ὁ.
+{i}Of Hermione,{/i} {grm}adj.{/grm}: Ἑρμιόνιος. {grm}Fem. adj.{/grm}, Ἐρμιονίς, -ίδος.
+---
+Hermippus
+Ἕρμιππος, ὁ.
+---
+Hermocrates
+Ἑρμοκράτης, -ους, ὁ.
+---
+Hermus (River)
+Ἕρμος, ὁ.
+---
+Herod
+{i}Herodes,{/i} Ἡρώδης, -ου, ὁ.
+---
+Herodotus
+Ἡρόδοτος, ὁ.
+---
+Hesiod
+Ἡσίοδος, ὁ.
+---
+Hesperides
+Ἑσπερῐ́δες, αἱ.
+---
+Hesperus
+Ἕσπερος, ὁ.
+---
+Hiempsal
+Ἰάμψας, -α, ὁ.
+---
+Hiero
+Ἱέρων, -ωνος, ὁ.
+---
+Hieronymus
+Ἱερώνυμος, ὁ.
+---
+Hierophon
+Ἱεροφῶν, -ῶντος, ὁ.
+---
+Himera
+Ῑ̔μέρα, ἡ.
+{i}Of Himera,{/i} {grm}adj.{/grm}: Ἱμεραῖος.
+---
+Hipparchus
+Ἵππαρχος, ὁ.
+---
+Hippias
+Ἱππίας, -ου, ὁ.
+---
+Hippocrates
+Ἱπποκρᾰ́της, -ους, ὁ.
+---
+Hippodamia
+Ἱπποδᾰ́μεια, ἡ, or say, {i}daughter of Oenomaus.{/i}
+---
+Hippolytus
+Ἱππόλῠτος, ὁ, or say, {i}son of the Amazon.{/i}
+---
+Hippomedon
+Ἱππομέδων, -οντος, ὁ.
+{grm}Gen.{/grm} scanned Ἱππομέδοντος ({corpus}Æsch.{/corpus}, {i}Theb.{/i} 488), or say, {i}son of Talaus.{/i}
+---
+Histiaea
+Ἱστιαία, ἡ. ({i}Old name of Oreus.{/i})
+---
+Histiaeus
+Ἱστιαῖος, ὁ.
+---
+Homer
+Ὅμηρος, ὁ.
+{i}Of Homer,{/i} {grm}adj.{/grm}: Ὁμήρειος, Ὁμηρικός.
+---
+Horatius
+Ὡράτιος, ὁ.
+{i}Horatius Cocles{/i}: Κόκλιος Ὡράτιος, ὁ.
+---
+Hortensius
+Ὁρτήσιος, ὁ.
+---
+Horus
+Ὦρος, ὁ.
+---
+Hours
+{i}The.{/i} Ὧραι, αἱ ({corpus}Ar.{/corpus}, {i}Pax.{/i} 456).
+---
+Hyacinthus
+Ὑᾰ́κινθος, ὁ.
+{i}Feast of Hyacinthus: Ὑ{/i}ακίνθια, τά.
+---
+Hyades
+Ῡ̔ᾰ́δες, αἱ ({corpus}Eur.{/corpus}, {i}Ion,{/i} 1156).
+---
+Hybla
+Ὕβλα, ἡ.
+{i}Of Hybla,{/i} {grm}adj.{/grm}: Ὑβλαῖος.
+---
+Hyccara
+Ὕκκαρα, τά.
+{i}Of Hyccara,{/i} {grm}adj.{/grm}: Ὑκκαρικός.
+---
+Hydaspes (River)
+Ὑδάσπης, -ου, ὁ.
+---
+Hylas
+Ῠ̔́λᾱς, -ου, ὁ.
+---
+Hyllus
+Ὕλλος, ὁ, or say, {i}son of Heracles.{/i}
+---
+Hymen
+Ῠ̔μήν, -ένος, ὁ, Ῠ̔μέναιος, ὁ.
+---
+Hyperbolus
+Ῠ̔πέρβολος, ὁ.
+---
+Hypereides
+Ὑπερείδης, -ου, ὁ.
+---
+Hyrcania
+Ὑρκᾱνία, ἡ.
+{i}Hyrcanian,{/i} {grm}adj.{/grm}: Ὑρκᾱ́νιος.
+---
+Hysiae
+Ῠ̔σιαί, αἱ.
+---
+Hystaspes
+Ὑστάσπης, -ου, ὁ.
+---
+Iacchus
+See {i}Bacchus.{/i}
+---
+Ialysus
+Ἰηλυσός, ἡ.
+---
+Iapetus
+Ῑ̓ᾰπετός, ὁ.
+---
+Iapygia
+Ἰαπυγία, ἡ.
+{i}Iapygians{/i}: Ἰᾱ́πῠγες, οἱ.
+---
+Iasus
+Ἴασος, ἡ.
+{i}Of Iasus,{/i} {grm}adj.{/grm}: Ιασικός.
+---
+Iberia
+See {i}Spain.{/i}
+---
+Ibycus
+Ῐ̓́βῠκος, ὁ.
+---
+Icarius
+Ῑ̓κᾰ́ριος, ὁ.
+---
+Icarus
+Ῑ̓́κᾰρος, ὁ.
+{i}The Icarian Sea{/i}: τὸ Ἰκάριον πέλαγος.
+---
+Iconium
+Ἰκόνιον, τό.
+---
+Ida (Mt.)
+Ῑ̓́δη, ἡ.
+{i}Of Ida,{/i} {grm}adj.{/grm}: Ῑ̓δαῖος.
+---
+Idas
+Ῑ̓́δᾱς, -α, ὁ.
+---
+Idomene
+Ἰδομένη, ἡ.
+---
+Idomeneus
+Ῑ̓δομενεύς, -έως, ὁ.
+---
+Ilissus (River)
+Ῑ̓λῑσός, ὁ.
+---
+Iliad (the)
+Ἰλιάς, -άδος, ἡ.
+---
+Ilium
+Ῑ̓́λιον, τό ; see {i}Troy.{/i}
+---
+Ilian
+{i}of Ilium,{/i} {grm}adj.{/grm}: Ῑ̓́λιος.
+{i}Country of Ilium{/i}: Ἰλιάς (-άδος) χώρα, ἡ.
+---
+Illyrian
+{i}An.{/i} Ἰλλύριος, ὁ.
+{i}Of the Illyrians,{/i} {grm}adj.{/grm}: Ἰλλυρικός.
+---
+Imbros
+Ἴμβρος, ἡ.
+{i}Of Imbros,{/i} {grm}adj.{/grm}: Ἴμβριος.
+---
+Inachus
+Ῑ̓́νᾰχος, ὁ.
+{i}Of Inachus,{/i} {grm}adj.{/grm}: Ῑ̓νᾰ́χειος.
+---
+Inaros
+Ἰνάρως, -ω, ὁ.
+---
+India
+Ἰνδικὴ χώρα, ἡ ({corpus}Hdt.{/corpus}), Ἰνδία, ἡ ({corpus}Plat.{/corpus}), ἡ Ἰνδική ({i}Plutarch{/i}).
+{i}An Indian{/i}: Ἰνδός, ὁ.
+{i}Indian,{/i} {grm}adj.{/grm}: Ἰνδικός.
+{i}The Indian Ocean{/i}: ἡ Ἐρυθρὰ Θάλασσα.
+---
+Ino
+Ῑ̓νῶ, -οῦς, ἡ, or say, {i}daughter of Cadmus, called{/i} also {i}Leucothea.{/i}
+---
+Insubres
+Ἴνσομβρες, -ων, οἱ.
+---
+Iolaus
+Ἰόλᾱος, ὁ, or Ἰόλεως, -ω, ὁ.
+---
+Iolcus
+Ἰωλκός, ἡ.
+{i}Of Iolcus,{/i} {grm}adj.{/grm}: Ἰώλκιος.
+---
+Iole
+Ἰολή, ἡ, or say, {i}daughter of Eurytus.{/i}
+---
+Ion
+Ἴων, -ωνος, ὁ.
+---
+Ionia
+Ἰωνία, ἡ.
+{i}An Ionian{/i}: Ἴων, -ωνος, ὁ.
+{i}Ionians{/i}: also Ἰᾱ́ονες, οἱ ({corpus}Æsch.{/corpus}, {i}Pers.{/i} 178).
+{i}Ionian,{/i} {grm}adj.{/grm}: Ἰωνῐκός. {grm}Fem. adj.{/grm}, Ἰᾰ́ς, -ᾰ́δος.
+{i}In Ionian fashion, adr.{/i}: Ἰωνῐκῶς ({corpus}Ar.{/corpus}).
+{i}The Ionian Gulf{/i}: Ἰόνιος Κόλπος, ὁ.
+---
+Iophon
+Ἰοφῶν, -ῶντος, ὁ.
+---
+Iphiclus
+Ῐ̓́φικλος, ὁ.
+---
+Iphicrates
+Ἰφικράτης, -ους, ὁ.
+---
+Iphigenia
+Ῑ̓φῐγένεια, ἡ, or {corpus}V.{/corpus} Ῑ̓φῐγόνη, ἡ ({corpus}Eur.{/corpus}, {i}El.{/i} 1023), or say, {i}daughter of Agamemnon.{/i}
+---
+Iphis
+Ἶφις, ὁ.
+---
+Iphitus
+Ῑ̓́φῐτος, ὁ, or say, {i}son of Eurytus.{/i}
+---
+Iras
+See {i}Eiras.{/i}
+---
+Ireland
+Ἰουερνία, ἡ, or Ἰέρνη, ἡ.
+---
+Iris
+Ἶρῐς, -ῐδος, ἡ.
+---
+Isaeus
+Ἰσαῖος, ὁ.
+---
+Isis
+Ἶσις, -ῐδος, ἡ.
+---
+Isker (River)
+Ὄσκιος, ὁ.
+---
+Ismene
+Ἰσμήνη, ἡ.
+---
+Ismenias
+Ἰσμηνίας, -ου, ὁ.
+---
+Ismenus (River)
+Ἰσμηνός, ὁ.
+{i}Of Ismenus,{/i} {grm}adj.{/grm}: Ἰσμήνιος.
+---
+Isorates
+Ἰσοκράτης, -ους, ὁ.
+---
+Issus
+Ἰσσοί, οἱ ({i}Xer., An. I, II.{/i} 24).
+---
+Ister (River)
+See {i}Danube.{/i}
+---
+Isthmus
+Ἰσθμός, ὁ.
+{i}At the Isthmus{/i}: Ἰσθμοῖ.
+{i}Of the Isthmus,{/i} {grm}adj.{/grm}: Ἴσθμιος.
+{i}Isthmian Games{/i}: Ἴσθμια, τά.
+---
+Istone (Mt.)
+Ἰστώνη, ἡ.
+---
+Istria
+Ἰστρία, ἡ.
+{i}Of Istria,{/i} {grm}adj.{/grm}: Ἰστριανός.
+---
+Italus
+Ἰταλός, ὁ.
+---
+Italy
+Ἰταλία, ἡ.
+{i}Italians{/i}: Ἰταλοί, οἱ.
+{i}Greek inhabitants of Italy{/i}: Ἰταλιῶται, οἱ.
+{i}Italian,{/i} {grm}adj.{/grm}: Ἰταλικός {grm}Fem. adj.{/grm}: Ἰταλιῶτις, -ιδος.
+---
+Ithaca
+Ῐ̓θᾰ́κη, ἡ.
+{i}An Ithacan{/i}: Ῐ̓́θᾰκος.
+{i}Ithacan,{/i} {grm}adj.{/grm}: Ῐ̓θᾰκήσιος.
+---
+Ithome
+Ἰθώμη, ἡ.
+{i}Man of Ithome{/i}: Ἰθωμήτης, ὁ.
+---
+Itys
+Ῐ̓́τῠς, -υος, ὁ, or say, {i}son of Tereus.{/i}
+---
+Ixion
+Ἰξῑ́ων, -ονος, or say, {i}son of Phlegyas.{/i}
+---
+Janiculum (Hill)
+Ἰανοῦκλον, τό.
+---
+Janus
+Ἰανός, ὁ.
+---
+Jason
+Ἰᾱ́σων, -ονος, ὁ.
+---
+Jerusalem
+Ἱεροσόλυμα, τά.
+---
+Jew
+{i}Jewish,{/i} See under {i}Judaea.{/i}
+---
+Jocasta
+Ἰοκάστη, ἡ.
+---
+Juba
+Ἰόβας, -α, ὁ.
+---
+Judaea
+Ἰουδαία, ἡ.
+{i}A Jew{/i}: Ἰουδαῖος, ὁ.
+{i}Jewish{/i}: Ἰουδαϊκός.
+---
+Jugurtha
+Ἰουργούθας, -α, ὁ.
+---
+Julius
+Ἰούλιος, ὁ.
+---
+Junius
+Ἰούνιος ὁ.
+---
+Juno
+See {i}Hera.{/i}
+---
+Juppiter
+See {i}Zeus.{/i}
+---
+Justice
+Δῐ́κη, ἡ.
+---
+Kelts
+Κελτοί, οἱ.
+{i}Keltic,{/i} {grm}adj.{/grm}: Κελτικός.
+---
+Kurds
+Καρδοῦχοι, οἱ.
+{i}Kurdish{/i} {grm}adj.{/grm}: Καρδούχιος.
+---
+Labdacus
+Λάβδᾰκος, ὁ.
+{i}Of Labdacus,{/i} {grm}adj.{/grm}: Λαβδᾰ́κειος.
+---
+Labdalum
+Λάβδαλον, τό.
+---
+Lacedaemon
+Λᾰκεδαίμων, ἡ ; see also {i}Sparta.{/i}
+{i}A Lacedaemonian{/i}: Λᾰ́κων, -ωνος, ὁ. {grm}Fem.{/grm}, Λᾰ́καινα, ἡ.
+{i}The Lacedaemonians{/i} Λᾰκεδαιμόνιοι, οἱ.
+{i}Laconia{/i}: ἡ Λᾰκωνῐκή, or χώρα Λᾰ́καινα, ἡ ({corpus}Hdt.{/corpus} and {corpus}V.{/corpus}), or Λᾰκεδαίμων γῆ, ἡ ({corpus}Eur.{/corpus}, {i}Hel.{/i} 474).
+---
+Laches
+Λᾰ́χης, -ητος, ὁ.
+---
+Lachesis
+Λάχεσις, -εως, ἡ.
+---
+Laconia
+See under {i}Lacedaemon.{/i}
+---
+Laconian
+{b}adj.{/b}
+Λᾰκωνῐκός, also in {corpus}V.{/corpus} with {grm}masc. subs.{/grm}, Λᾰ́κων, -ωνος ; with {grm}fem. subs.{/grm}, Λᾰ́καινα; see {i}Spartan.{/i}
+---
+Lade
+Λάδη, ἡ.
+---
+Laelius
+Λαίλιος, ὁ.
+---
+Laertes
+Λᾱέρτης, -ου, ὁ, also in {corpus}V.{/corpus} Λᾱέρτιος, ὁ ({corpus}Soph.{/corpus}, {i}Phil. 87{/i}; {i}Aj.{/i} 101; {corpus}Eur.{/corpus}, {i}Rhes.{/i} 669), Λάρτιος, ὁ ({corpus}Soph.{/corpus}, {i}Aj. 1{/i}; {corpus}Eur.{/corpus}, {i}Tro.{/i} 421; {corpus}Ar.{/corpus}, {i}Pl.{/i} 312).
+---
+Laestygones
+Λαιστρῡ́γονες, οἱ.
+---
+Laevinus
+Λαίβινος, ὁ.
+---
+Lais
+Λᾱΐς, -ΐδος, ἡ.
+---
+Laius
+Λάϊος, ὁ, or say, {i}son of Labdacus.{/i}
+---
+Lamachus
+Λᾱ́μᾰχος, ὁ.
+---
+Lamia
+Λᾰμία, ἡ.
+---
+Lampsacus
+Λάμψᾰκος, ἡ.
+{i}Man of Lampsacus{/i}: Λαμψακηνός, ὁ.
+---
+Laomedon
+Λᾱομέδων, -οντος, ὁ.
+---
+Lapithae
+Λᾰπῐ́θαι, οἱ.
+{i}One of the Lapithae{/i}: Λᾰπῐ́θης, ὁ.
+---
+Larissa
+Λάρῑσα, ἡ.
+{i}Of Larissa,{/i} {grm}adj.{/grm}: Λαρισσαῖος.
+---
+Latins
+Λατῖνοι, αἱ.
+{i}In the Latin language,{/i} {grm}adv.{/grm}: {i}Ῥ{/i}ωμαϊστί.
+---
+Latona
+See {i}Leto.{/i}
+---
+Laurium
+Λαύρειον, τό, or Λαύριον, τό.
+{i}Of Laurium,{/i} {grm}adj.{/grm}: Λαυρειωτῐκός ({corpus}Ar.{/corpus}, {i}Av.{/i} 1106).
+---
+Lavinium
+Λαβίνιον, τό.
+---
+Lebadea
+Λεβάδεια, ἡ.
+---
+Lebanon (Mt.)
+Λίβᾰνος, ὁ.
+---
+Lebedus
+Λέβεδος, ἡ.
+---
+Lechaeum
+Λέχαιον, τό.
+---
+Leda
+Λήδᾱ, -ᾱς, ἡ, or use Θεστιᾰ́ς, -ᾰ́δος, ἡ, or say, {i}daughter of Thestius.{/i}
+---
+Lemnos
+Λῆμνος, ἡ.
+{i}Of Lemnos,{/i} {grm}adj.{/grm}: Λήμνιος.
+---
+Lentulus
+Λέντλος, ὁ.
+---
+Leon
+Λέων, -οντος, ὁ.
+---
+Leonidas
+Λεωνίδας, -ου, ὁ.
+---
+Leontini
+Λεοντῖνοι, οἱ.
+{i}Man of Leontini{/i}: Λεοντῖνος, ὁ.
+---
+Leotychides
+Λεωτυχίδης, -ου, ὁ.
+---
+Lepreum
+Λέπρεον, τό.
+{i}People of Lepreum{/i}: Λεπρεᾶται, οἱ.
+---
+Lerna
+Λέρνη, ἡ.
+{i}Of Lerna,{/i} {grm}adj.{/grm}: Λερναῖος.
+---
+Lesbos
+Λέσβος, ἡ.
+{i}Of Lesbos,{/i} {grm}adj.{/grm}: Λέσβιος.
+---
+Lethe
+Λήθη, ἡ.
+---
+Leto
+Λητώ, -οῦς, ἡ.
+{i}Of Leto,{/i} {grm}adj.{/grm}: Λητῷος.
+---
+Leucas
+Λευκᾰ́ς, -ᾰ́δος, ἡ.
+{i}Leucadian,{/i} {grm}adj.{/grm}: Λευκάδιος.
+---
+Leucothea
+Λευκοθέα, ἡ,
+{i}another name of Ino{/i}: see {i}Ino.{/i}
+---
+Leuctra
+Λεῦκτρα, τά.
+{i}Of Leuctra,{/i} {grm}adj.{/grm}: Λευκτρικός.
+---
+Liburni
+Λιβυρνοί, οἱ.
+{i}Liburnian,{/i} {grm}adj.{/grm}: Λῐβυρνῐκός ({corpus}Æsch.{/corpus}, {i}Frag.{/i}).
+---
+Libya
+Λῐβύη, ἡ.
+{i}A Libyan{/i}: Λῐ́βῠς, -υος, ὁ.
+{i}Libyan,{/i} {grm}adj.{/grm}: {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Λῐβῠκός, {corpus}V.{/corpus} Λῐβυστῐκός, also with {grm}masc. subs.{/grm}, Λῐ́βῠς, -υος ; with {grm}fem. subs.{/grm}, Λῐ́βυσσα.
+---
+Lichas
+Λῐ́χᾱς, ὁ, {grm}gen.{/grm} -ου ({corpus}Thuc.{/corpus} 5, 22), -ᾱ ({corpus}Æsch.{/corpus}, {i}Frag.{/i} 30).
+---
+Licinia
+Λικιννία, ἡ.
+---
+Licinius
+Λικίννιος, ὁ.
+---
+Liguria
+ἡ Λιγυστική.
+{i}A Ligurian{/i}: Λῐ́γῠς, -υος.
+{i}Ligurian,{/i} {grm}adj.{/grm}: Λῐγυστῐκός. {grm}Fem. adj.{/grm}, in {corpus}V.{/corpus} Λῐ́γυστις, -ῐδος ({corpus}Eur.{/corpus}, {i}Tro.{/i} 437).
+---
+Lilybaeum
+Λιλύβαιον, τό.
+---
+Lincoln
+Λίνδον, τό.
+---
+Lindus
+Λίνδος, ἡ.
+{i}Of Lindus,{/i} {grm}adj.{/grm}: Λίνδιος.
+---
+Lipara
+Λιπάρα, ἡ.
+{i}Of Lipara,{/i} {grm}adj.{/grm}: Λιπαραῖος.
+---
+Liris (River)
+Λίρις, -ιος, ὁ.
+---
+Livius or Livy
+Λίβιος, ὁ.
+---
+Locris
+Λοκρῐ́ς, -ῐ́δος, ἡ.
+{i}People of Locris{/i}: Λοκροί, οἱ.
+{i}Of Locris,{/i} {grm}fem. adj.{/grm}: Λοκρίς, -ίδος.
+---
+Loire (River)
+Λείγηρ, -ηρος, ὁ.
+---
+London
+Λονδῑ́νη, ἡ.
+---
+Lotophagi
+Λωτοφᾰ́γοι, ὁ.
+---
+Lucania
+Λευκανία, ἡ.
+{i}A Lucanian{/i}: Λευκανός, ὁ.
+---
+Lucca
+Λούκη, ἡ.
+---
+Lucilius
+Λουκίλλιος, ὁ.
+---
+Lucius
+Λεύκιος, ὁ.
+---
+Lucretia
+Λουκρητία, ἡ.
+---
+Lucretius
+Λουκρήτιος, ὁ.
+---
+Lucullus
+Λεύκουλλος, ὁ.
+---
+Luperci
+Λούπερκοι, οἱ.
+{i}Lupercalia{/i} ({i}festival{/i}): Λουπερκάλια, τά.
+---
+Lusitania
+Λυσιτανία, ἡ.
+{i}People of Lusitania{/i}: Λυσιτανοί, οἱ.
+---
+Lutatius
+Λουτάτιος, ὁ.
+---
+Lycabettus (Mt.)
+Λυκάβηττος, ὁ.
+---
+Lycaon
+Λῠκᾱ́ων, -ονος, ὁ.
+---
+Lycaonia
+Λυκαονία, ἡ.
+{i}Lycaonians{/i}: Λῠκᾱ́ονες, οἱ.
+---
+Lyceum
+Λύκειον, τό.
+---
+Lycia
+Λῠκία, ἡ.
+{i}Lycian,{/i} {grm}adj.{/grm}: Λύκιος.
+---
+Lycidas
+Λῠκῐ́δᾱς, -ου, ὁ.
+---
+Lycomedes
+Λῠκομήδης, -ους, ὁ.
+---
+Lycophron
+Λυκόφρων, -ονος, ὁ.
+---
+Lycurgus
+Λῠκοῦργος, ὁ.
+---
+Lycus
+Λύκος, ὁ.
+---
+Lydia
+Λῡδία, ἡ.
+{i}A Lydian{/i}: Λῡδός, ὁ.
+{i}Lydian,{/i} {grm}adj.{/grm}: Λῡ́διος, in {corpus}V.{/corpus} also Λῡδός.
+---
+Lygdamis
+Λύγδαμις, -εως, ὁ.
+---
+Lyncestae
+Λυγκησταί, οἱ.
+---
+Lyncus
+Λύγκος, ὁ.
+{i}The Town{/i}: Λύγκος, ἡ.
+---
+Lyrnesus
+Λυρνησός, ἡ.
+{i}Of Lyrnesus,{/i} {grm}adj.{/grm}: Λυρνήσιος.
+---
+Lysander
+Λύσανδρος, ὁ.
+---
+Lysias
+Λῠσίᾱς, -ου, ὁ.
+---
+Lysicles
+Λῡσικλῆς, -κλέους, ὁ.
+---
+Lysimachus
+Λῡσῐ́μᾰχος, ὁ.
+---
+Lysippus
+Λῡ́σιππος, ὁ.
+---
+Lysis
+Λύσῐς, -ῐδος, ὁ,
+---
+Lysistrata
+Λῡσιστρᾰ́τη, ἡ.
+---
+Lysistratus
+Λῡσίστρᾰτος, ὁ.
+---
+Macaria
+Μᾰκᾰρία, ἡ.
+---
+Macedonia
+Μακεδονία, ἡ.
+{i}A Macedonian{/i}: Μᾰκεδών, -όνος, ὁ.
+{i}Macedonian,{/i} {grm}adj.{/grm}: Μακεδονικός.
+---
+Machaon
+Μᾰχᾱ́ων, -ονος, ὁ, or say, {i}son of Asclepius.{/i}
+---
+Macrones
+Μάκρωνες, οἱ.
+---
+Maeander (River)
+Μαίανδρος, ὁ.
+---
+Maecenas
+Μαικήνας, -α, ὁ.
+---
+Maenalus (Mt.)
+Μαίνᾰλον, τό.
+{i}Of Maenalus,{/i} {grm}adj.{/grm}: Μαινάλιος.
+---
+Maeonia
+Μαιονία, ἡ.
+{i}Maeonians{/i}: Μαίονες, οἱ.
+---
+Maeotis (Lake)
+See {i}Azov.{/i}
+---
+Magnesia
+Μαγνησία, ἡ.
+{i}Man of Magnesia{/i}: Μάγνης, -ητος, ὁ.
+{i}Magnesian,{/i} {grm}adj.{/grm}: Μαγνητικός. {grm}Fem. adj.{/grm}, in {corpus}V.{/corpus} Μαγνῆτις, -ῐδος.
+---
+Mago
+Μάγων, -ωνος, ὁ.
+---
+Maia
+Μαῖα, ἡ, in {corpus}V.{/corpus} also Μαιᾰ́ς, -ᾰ́δος ({corpus}Eur.{/corpus}, {i}Hel.{/i} 1670).
+---
+Malea
+({i}Cape{/i}), Μᾰλέα, ἡ.
+---
+Malis
+Μηλῐ́ς, -ῐ́δος, ἡ.
+{i}Malian Gulf{/i}: Μηλιεὺς κόλπος, ὁ, or Μηλιακὸς κόλπος, ὁ.
+{i}A Malian{/i}: Μηλιεὺς, -ιῶς, ὁ.
+---
+Mandane
+Μανδάνη, ἡ.
+---
+Mania
+Μᾱνία, ἡ.
+---
+Manlius
+Μάλλιος, ὁ.
+---
+Mantinea
+Μαντίνεια, ἡ.
+{i}A Mantinean{/i}: Μαντινεύς, -έως, ὁ.
+{i}Mantinean,{/i} {grm}adj.{/grm}: Μαντινικός.
+---
+Marathon
+Μᾰρᾰθών, -ῶνος, ὁ.
+{i}Of Marathon,{/i} {grm}adj.{/grm}: Μᾰρᾰθώνιος.
+---
+Mardonius
+Μαρδόνιος, ὁ.
+---
+Marea
+Μάρεια, ἡ.
+---
+Maro
+Μᾰ́ρων, -ωνος, ὁ.
+---
+Marpessa
+Μάρπησσα, ἡ.
+---
+Mars
+See {i}Ares.{/i}
+---
+Marseilles
+Μασσαλία, ἡ.
+{i}People of Marseilles{/i}: Μᾰσσαλιῶται, οἱ.
+---
+Marsi
+Μαρσοί, οἱ.
+{i}Marsian,{/i} {grm}adj.{/grm}: Μαρσικός.
+---
+Marsyas
+Μαρσύας, -ου, ὁ.
+---
+Masinissa
+Μασσανάσσης, -ου, ὁ.
+---
+Mauretania
+Μαυρουσία, ἡ.
+{i}Mauretanians{/i}: Μαυρούσιοι, οἱ.
+---
+Mausolus
+Μαύσωλος, ὁ.
+---
+Medea
+Μήδεια, ἡ, or say, {i}daughter of Aeetes.{/i}
+---
+Media
+Μηδία, ἡ.
+{i}A Mede{/i}: Μῆδος, ὁ.
+{i}Median,{/i} {grm}adj.{/grm}: Μηδῐκός.
+---
+Mediterranean (Sea)
+ἡ παρʼ ἡμῖν θάλασσα ({corpus}Plat.{/corpus}), ἥδε ἡ Θάλασσα ({corpus}Hdt.{/corpus}).
+---
+Megabates
+Μεγαβάτης, -ου, ὁ.
+---
+Megabazus
+Μεγᾰ́βαζος, ὁ.
+---
+Megabyzus
+Μεγάβυζος, ὁ.
+---
+Megacles
+Μεγακλῆς, -κλέους, ὁ or in {corpus}Ar.{/corpus} also Μεγακλέης, -κλέους, ὁ.
+---
+Megalopolis
+Μεγάλη πόλις, ἡ.
+{i}People of Megalopolis{/i}: Μεγαλοπολῖται, οἱ.
+{i}Of Megalopolis,{/i} {grm}adj.{/grm}: Μεγαλοπολιτικός.
+---
+Megara (Wife of Heracles)
+Μεγᾰ́ρα, ἡ.
+{i}Megara{/i} ({i}City{/i}): Μέγᾰρα, τά, or say Νῑ́σου πόλις ({corpus}Eur.{/corpus}, {i}H. F.{/i} 954).
+{i}At Megara{/i}: Μεγᾰροῖ.
+{i}From Megara{/i}: Μεγᾰρόθεν.
+{i}To Megara{/i}: Μεγᾰρᾰ́δε.
+{i}A Megarian{/i}: Μεγᾰρεύς, -έως, ὁ.
+{i}Megarian,{/i} {grm}adj.{/grm}: Μεγᾰρῐκός. {grm}Fem. adj.{/grm}, Μεγαρίς, -ίδος.
+{i}The Megarid{/i}: Μεγαρίς, -ίδος, ἡ.
+---
+Megareus
+Μεγᾰρεύς, -έως, ὁ, or say, {i}son of Creon.{/i}
+---
+Melampus
+Μελάμπους, -ποδος, ὁ.
+---
+Melanippe
+Μελᾰνίππη, ἡ.
+---
+Melanippus
+Μελᾰ́νιππος, ὁ, or say, {i}son of Astacus.{/i}
+---
+Meleager
+Μελέαγρος, ὁ, or say, {i}son of Oeneus.{/i}
+---
+Meletus
+Μέλητος, ὁ.
+---
+Melissa
+Μέλισσα, ἡ.
+---
+Melos
+Μῆλος, ἡ.
+{i}Of Melos,{/i} {grm}adj.{/grm}: Μήλιος.
+---
+Memnon
+Μέμνων, -ονος, ὁ.
+---
+Memphis
+Μέμφῐς, -ῐδος, ἡ.
+---
+Menander
+Μένανδρας, ὁ.
+---
+Mende
+Μένδη, ἡ.
+{i}Of Mende,{/i} {grm}adj.{/grm}: Μενδαῖος.
+---
+Menelaus
+Μενέλᾱος, ὁ, Μενέλεως, -ω, ὁ (sometimes scanned as three syllables, {corpus}Eur.{/corpus}, {i}Hel.{/i} 131), or use Ἀτρείδης, -ου, ὁ, or say, {i}son of Atreus.{/i}
+---
+Menenius
+Μενήνιος, ὁ.
+---
+Meno
+Μένων, -ωνος, ὁ.
+---
+Menoeceus
+Μενοικεύς, -έως, ὁ.
+---
+Menoetius
+Μενοίτιος, ὁ.
+---
+Mercury
+See {i}Hermes.{/i}
+---
+Meriones
+Μηριόνης, -ου, ὁ.
+---
+Merope
+Μερόπη, ἡ.
+---
+Merops
+Μέροψ, -οπος, ὁ.
+---
+Mesopotamia
+Μεσοποταμία, ἡ.
+---
+Messala
+Μεσσάλας, -α, ὁ.
+---
+Messana
+See {i}Messene.{/i}
+---
+Messapians
+Μεσσάπιοι, οἱ.
+---
+Messene
+Μεσσήνη, ἡ.
+{i}Messenian,{/i} {grm}adj.{/grm}: Μεσσήνιος.
+{i}Messenia{/i}: Μεσσηνία, ἡ, Μεσσηνίς (-ίδος) γῆ, ἡ.
+---
+Metapontum
+Μεταπόντιον, τό.
+{i}People of Metapontum{/i}: Μεταποντῖνοι, οἱ, or Μεταπόντιοι, οἱ.
+---
+Metaurus (River)
+Μέταυρος, ὁ.
+---
+Metellus
+Μέτελλος, ὁ.
+---
+Methone
+Μεθώνη, ἡ.
+{i}Of Methone,{/i} {grm}adj.{/grm}: Μεθωναῖος.
+---
+Methydrium
+Μεθύδριον, τό.
+{i}Man of Methydrium{/i}: Μεθυδριεύς, -ιῶς, ὁ.
+---
+Methymna
+Μήθυμνα, ἡ.
+{i}Of Methymna,{/i} {grm}adj.{/grm}: Μηθυμναῖος.
+---
+Meton
+Μέτων, -ωνος, ὁ.
+---
+Midas
+Μῐ́δᾱς, -ου, ὁ.
+---
+Midias
+Μειδίας, -ου, ὁ.
+---
+Milan
+Μεδιόλανον, τό.
+---
+Miletus
+Μῑ́λητος, ἡ.
+{i}Of Miletus,{/i} {grm}adj.{/grm}: Μῑλήσιος.
+---
+Milo
+Μῐ́λων, -ωνος, ὁ.
+---
+Miltiades
+Μιλτιᾰ́δης, -ου, ὁ.
+---
+Mindarus
+Μίνδᾰρος, ὁ.
+---
+Minerva
+See {i}Athena.{/i}
+---
+Minoa
+Μινώα, ἡ.
+---
+Minos
+Μῑ́νως, -ω, ὁ
+---
+Minotaur
+Μῑνώταυρος, ὁ, or use Ταῦρος Κνώσσιος, ὁ ({corpus}Eur.{/corpus}, {i}H. F.{/i} 1327).
+---
+Minturnae
+Μιντούρνη, ἡ.
+{i}Of Minturnae,{/i} {grm}adj.{/grm}: Μιντουρνήσιος.
+---
+Minucius
+Μινούκιος, ὁ.
+---
+Minyae
+Μῐνύαι, οἱ.
+{i}Of the Minyae,{/i} {grm}adj.{/grm}: Μινύειος.
+---
+Mithra
+Μίθρης, -ου, ὁ.
+---
+Mithridates
+Μιθριδᾱ́της, -ου, ὁ.
+{i}Mithridatic,{/i} {grm}adj.{/grm}: Μιθριδατικός.
+---
+Moeris (Lake)
+ἡ Μοῖρις (-ιδος) λίμνη.
+---
+Molossia
+Μολοσσία, ἡ ({corpus}Eur.{/corpus}, {i}And.{/i} 1248), or Μολοσσία γῆ, ἡ ({corpus}Eur.{/corpus}, {i}And.{/i} 1244).
+{i}Molossians{/i}: Μολοσσοί, οἱ.
+{i}Molossian,{/i} {grm}adj.{/grm}: Μολοσσῐκός ({corpus}Soph.{/corpus}, {i}Frag.{/i}), Μολοσσός ({corpus}Æsch.{/corpus}, {i}P.{/i} {corpus}V.{/corpus} 829).
+---
+Molycreum
+Μολύκρειον, τό.
+---
+Moon
+See {i}Selene.{/i}
+---
+Morsimus
+Μόρσῐμος, ὁ.
+---
+Motye
+Μοτύη, ἡ.
+---
+Mummius
+Μόμμος, ὁ.
+---
+Munychia
+Μουνυχία, ἡ.
+{i}At Munychia{/i}: Μουνυχίασι.
+{i}To Munychia{/i}: Μουνυχίαζε.
+---
+Murena
+Μουρρήνας, -α, ὁ.
+---
+Musaeus
+Μουσαῖας, ὁ.
+---
+Muse
+Μοῦσα, ἡ.
+---
+Mycale
+Μῠκᾰ́λη, ἡ.
+---
+Mycalessus
+Μυκαλησσός, ἡ.
+{i}Of Mycalessus,{/i} {grm}adj.{/grm}: {i}M{/i}υκαλήσσιος.
+---
+Mycenae
+Μῠκῆναι, αἱ.
+{i}Of Mycenae,{/i} {grm}adj.{/grm}: Μῠκηναῖος. {grm}Fem. adj.{/grm}, Μῠκηνῐ́ς, -ῐ́δος.
+---
+Myconus
+Μύκονος, ἡ.
+---
+Mygdonia
+Μυγδονία, ἡ.
+---
+Mylasa
+Μύλασα, τά.
+---
+Myrcinus
+Μύρκινος, ἡ.
+{i}Of Myrcinus,{/i} {grm}adj.{/grm}: Μυρκίνιος.
+---
+Myrmidons
+Μυρμῐδόνες, οἱ.
+{i}Army of Myrmidons{/i}: Στρᾰτὸς Μυρμῐδών (-όνος), ὁ ({corpus}Eur.{/corpus}, {i}I. A.{/i} 1353).
+---
+Myronides
+Μῠρωνῐ́δης, -ου, ὁ.
+---
+Mysia
+Μῡσία, ἡ.
+{i}A Mysian{/i}: Μῡσός, ὁ.
+{i}Mysian,{/i} {grm}adj.{/grm}: Μῡ́σιος.
+---
+Mytilene
+Μῠτῐλήνη, ἡ.
+{i}Of Mytilene,{/i} {grm}adj.{/grm}: Μυτιληναῖος.
+---
+Myus
+Μυοῦς, -οῦντος, ὁ.
+{i}Of Myus,{/i} {grm}adj.{/grm}: Μυούσιος.
+---
+Naid
+Νᾱΐς, -ῐ́δος, ἡ.
+---
+Naples
+Νέα πόλις, ἡ, or Νεάπολις, -εως, ἡ.
+{i}People of Naples{/i}: Νεαπολῖται, οἱ.
+---
+Narbo
+Νάρβων, -ωνος, ἡ.
+---
+Nasica
+Νᾱσῑκᾶς, -ᾶ, ὁ.
+---
+Naucratis
+Ναύκρᾰτις, -εως, ἡ.
+{i}Of Naucratis,{/i} {grm}adj.{/grm}: Ναυκρατιτικός.
+---
+Naupactus
+Ναύπακτος, ἡ.
+{i}Of Naupactus{/i}: Ναυπάκτιος.
+---
+Nauplia
+Ναυπλία, ἡ.
+{i}Of Nauplia,{/i} {grm}adj.{/grm}: in {corpus}V.{/corpus} use Ναύπλιος, Ναυπλίειος.
+---
+Nauplius
+Ναύπλιος, ὁ.
+---
+Naxos
+Νάξος, ἡ.
+{i}Of Naxos,{/i} {grm}adj.{/grm}: Νάξιος.
+---
+Neco
+Νεκῶς, -ῶ, ὁ.
+---
+Negropont
+See {i}Euboea.{/i}
+---
+Neleus
+Νηλεύς, -έως, ὁ.
+---
+Nemea
+Νεμέα, ἡ.
+{i}At Nemea{/i}: Νεμέᾳ.
+{i}Nemean,{/i} {grm}adj.{/grm}: Νέμειος.
+---
+Nemesis
+Νέμεσις, -εως, ἡ.
+---
+Neocleides
+Νεοκλείδης, -ου, ὁ.
+---
+Neocles
+Νεοκλῆς, -κλέους, ὁ.
+---
+Neon
+Νέων, -ωνος, ὁ.
+---
+Neoptolemus
+Νεοπτόλεμος, ὁ (often scanned as four syllables), or say, {i}son of Achilles.{/i}
+---
+Nepos
+Νέπως, -ωτος, ὁ.
+---
+Neptune
+See {i}Poseidon.{/i}
+---
+Nereid
+Νηρῇς, -ῇδος, ἡ, or {corpus}V.{/corpus} Νηρηῐ́ς, -ῐ́δος, ἡ.
+---
+Nereus
+Νηρεύς, -έως, ὁ.
+{i}Daughter of Nereus{/i}: see {i}Nereid.{/i}
+---
+Nero
+Νέρων, -ωνος, ὁ.
+---
+Nervii
+Νέρβιοι, οἱ.
+---
+Nessus
+Νέσσος, ὁ.
+---
+Nestor
+Νέστωρ, -ορος, ὁ, or say, {i}son of Neleus.{/i}
+{i}Of Nestor,{/i} {grm}adj.{/grm}: Νεστόρειος.
+---
+Nestus (River)
+Νέστος, ὁ.
+---
+Niceratus
+Νικήρατος, ὁ.
+---
+Nicias
+Νῑκίᾱς, -ου, ὁ.
+---
+Nicomedes
+Νικομήδης, -ους, ὁ.
+---
+Nicomedia
+Νικομήδεια, ἡ.
+---
+Nicostratus
+Νῑκόστρᾰτος, ὁ.
+---
+Night
+Νύξ, Νυκτός, ἡ.
+---
+Nile (River)
+Νείλος, ὁ.
+{i}The land of the Nile{/i} Χθὼν Νειλῶτις (-ῐδος), ἡ ({corpus}Æsch.{/corpus}, {i}P. {corpus}V.{/corpus}{/i} 813.).
+---
+Nineveh
+Νῐ́νος, ἡ.
+{i}Of Nineveh,{/i} {grm}adj.{/grm}: Νίνιος.
+---
+Niobe
+Νιόβη, ἡ, or say, {i}daughter of Tantalus.{/i}
+---
+Nisaea
+Νίσαια, ἡ.
+---
+Nisibis
+Νίσιβις, -εως, ἡ.
+---
+Nisus
+Νῖσος, ὁ.
+---
+Nitocris
+Νίτωκρις, -εως, ἡ.
+---
+Nola
+Νῶλα, ἡ.
+{i}People of Nola{/i}: Νωλανοί, οἱ.
+---
+Norbanus
+Νωρβανός, ὁ.
+---
+Notium
+Νότιον, τό.
+---
+Numa
+Νομᾶς, -ᾶ, ὁ.
+---
+Numantia
+Νομαντία, ἡ.
+{i}People of Numantia{/i}: Νομαντῖνοι, οἱ.
+---
+Numidians
+Νομᾰ́δες, οἱ.
+{i}Numidian,{/i} {grm}adj.{/grm}: Νομαδικός.
+{i}Numidia{/i}: use ἡ Νομαδική.
+---
+Numitor
+Νομήτωρ, -ορος, ὁ.
+---
+Nursia
+Νοῦσσᾰ, τά.
+---
+Nymph
+Νύμφη, ἡ ; see {i}Naid, Nereid.{/i}
+---
+Nysa
+Νῦσα, ἡ.
+{i}Of Nysa,{/i} {grm}adj.{/grm}: Νύσιος.
+---
+Ocean
+Ὠκεᾰνός, ὁ.
+---
+Octavia
+Ὀκταουία, ἡ.
+---
+Octavianus
+Ὀκταουιανός, ὁ.
+---
+Octavius
+Ὀκταούιος, ὁ.
+---
+Odeum
+ᾨδεῖον, τό.
+---
+Odomantes
+Ὀδόμαντες, οἱ ({corpus}Ar.{/corpus}), or Ὀδόμαντοι, οἱ ({corpus}Thuc.{/corpus}).
+---
+Odryssians
+Ὀδρύσαι, οἱ.
+{i}An Odryssian{/i}: Ὀδρύσης, -ου, ὁ ({corpus}Thuc.{/corpus}, {i}II.{/i} 95).
+---
+Odysseus
+Ὀδυσσεύς, -έως, ὁ, or say, {i}son of Laertes.{/i}
+---
+Odyssey
+Ὀδυσσεία, ἡ.
+---
+Oeagrus
+Οἴαγρος, ὁ.
+---
+Oeax
+Οἴαξ, -ᾱκος, ὁ.
+---
+Oecalia
+Οἰχᾰλία, ἡ.
+---
+Oecles
+Οἰκλῆς, -κλέους, ὁ.
+{i}Son of Oecles{/i}: Οἰκλείδης, -ου, ὁ.
+---
+Oedipus
+Οἰδῐ́πους, ὁ ({grm}gen.{/grm} {corpus}P.{/corpus} Οἰδίποδος, {corpus}V.{/corpus} Οἰδῐ́που), or say, {i}son of Laius.{/i}
+---
+Oeneus
+Οἰνεύς, -έως, ὁ, or say, {i}son of Parthaon.{/i}
+---
+Oeniadae
+Οἰνιάδαι, αἱ.
+---
+Oenoe
+Οἰνόη, ἡ.
+---
+Oenomaus
+Οἰνόμαος, ὁ.
+---
+Oenone
+Οἰνώνη, ἡ.
+---
+Oenophyta
+Οἰνόφυτα, τά.
+---
+Oenotria
+Οἰνωτρία, ἡ.
+---
+Oeta (Mt.)
+Οἴτη, ἡ.
+{i}Of Oeta,{/i} {grm}adj.{/grm}: Οἰταῖος.
+---
+Oileus
+Οἰλεύς, -έως, ὁ.
+---
+Olen
+Ὠλήν, -ένος, ὁ.
+---
+Olenus
+Ὤλενος, ἡ.
+---
+Olorus
+Ὄλορος, ὁ.
+---
+Olpae
+Ὄλπαι, αἱ.
+{i}Of Olpae,{/i} {grm}adj.{/grm}: Ὀλπαῖος.
+---
+Olympia
+Ὀλυμπία,ἡ.
+{i}At Olympia{/i}: {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Ὀλυμπίᾱσι.
+{i}To Olympia{/i}: {corpus}P.{/corpus} Ὀλυμπίαζε.
+{i}Olympic,{/i} {grm}adj.{/grm}: Ὀλυμπῐκός, Ὀλυμπιακός ({corpus}Thuc.{/corpus}).
+{i}Olympic games{/i}: Ὀλύμπια, τά.
+{i}A victor in the Olympic games{/i}: Ὀλυμπιονῑ́κης, -ου, ὁ.
+{i}An Olympiad{/i} (period of four years between each celebration of the games): Ὀλυμπιάς, -άδος, ἡ.
+---
+Olympias
+Ὀλυμπιάς, -άδος, ἡ.
+---
+Olympus (Mt.)
+Ὄλυμπος, ὁ
+{i}Olympian,{/i} {grm}adj.{/grm}: Ὀλύμπιος. {grm}Fem. adj.{/grm}, Ὀλυμπιᾰ́ς, -ᾰ́δος.
+{i}Temple of Olympian Zeus{/i}: Ὀλυμπιεῖον, τό.
+---
+Olynthus
+Ὄλυνθος, ἡ.
+{i}Of Olynthus,{/i} {grm}adj.{/grm}: Ὀλύνθιος.
+---
+Omphale
+Ὀμφᾰ́λη, ἡ.
+---
+Oneum (Mt.)
+Ὄνειον, τό.
+---
+Opus
+Ὀποῦς, -οῦντος, ὁ.
+{i}Of Opus,{/i} {grm}adj.{/grm}: Ὀπούντιος.
+---
+Orchomenus
+Ὀρχομενός, ὁ or ἡ.
+{i}Of Orchomenus,{/i} {grm}adj.{/grm}: Ὀρχομένιος.
+---
+Orestes
+Ὀρέστης, -ου, ὁ, or say, {i}son of Agamemnon.{/i}
+{i}Of Orestes,{/i} {grm}adj.{/grm}: Ὀρέστειος.
+{i}Tragedy of Orestes{/i}: Ὀρεστεία, ἡ.
+---
+Oreus
+Ὠρεός, ἡ ({i}later name of Histiaea{/i}).
+{i}People of Oreus{/i}: Ὠρεῖται, οἱ.
+---
+Oricum
+Ὠρικόν, τό.
+---
+Orion
+Ὠρῑ́ων, -ωνος, ὁ (ῐ {corpus}Eur.{/corpus}, {i}Cycl.{/i} 213; {i}Ion,{/i} 1153).
+---
+Orithyia
+Ὠρείθυια, ἡ.
+---
+Orneae
+Ὀρνεαί, αἱ.
+{i}People of Orneae{/i}: Ὀρνεᾶται, οἱ.
+---
+Orontes (River)
+Ὀρόντης, -ου, ὁ.
+---
+Oropus
+Ὠρωπός, ὁ.
+{i}Of Oropus,{/i} {grm}adj.{/grm}: Ὠρώπιος.
+---
+Orpheus
+Ὀρφεύς, -έως, ὁ.
+{i}Of Orpheus,{/i} {grm}adj.{/grm}: Ὀρφικός ({corpus}Hdt.{/corpus}), Ὄρφειος ({corpus}Plat.{/corpus}).
+---
+Orsilochus
+Ὀρσῐ́λοχος, ὁ.
+---
+Osiris
+Ὄσῑρις, -ῐδος, ὁ.
+---
+Ossa (Mt.)
+Ὄσσα, ἡ.
+---
+Ostia
+Ὠστία, ἡ.
+---
+Otho
+Ὄθων, -ωνος, ὁ.
+---
+Othrys (Mt.)
+Ὄθρυς, -υος, ὁ.
+---
+Otus
+Ὦτος, ὁ.
+---
+Oxus (River)
+Ὦξος, ὁ.
+---
+Paches
+Πάχης, -ητος, ὁ.
+---
+Pachynus (Cape)
+Πᾰ́χῡνος, ὁ.
+---
+Pactolus (River)
+Πακτωλός, ὁ.
+---
+Padua
+Πατάβιον, τό.
+---
+Paeligni
+Πελιγνοί, οἱ.
+---
+Paeon
+Παιών, -ῶνος, ὁ.
+---
+Paeonia
+Παιονία, ἡ.
+{i}A Paeonian{/i}: Παίων, -ονος, ὁ.
+{i}Paeonian,{/i} {grm}adj.{/grm}: Παιονικός. {grm}Fem. adj.{/grm}, Παιονίς, -ίδος.
+---
+Pagasae
+Πᾰγᾰσαί, αἱ.
+---
+Pagondas
+Παγώνδας, -ου, ὁ.
+---
+Palaemon
+Πᾰλαίμων, -ονος, ὁ, or say, {i}son of Ino.{/i}
+---
+Palamedes
+Πᾰλᾰμήδης, -ους, ὁ or say, {i}son of Nauplius.{/i}
+---
+Palatine Hill
+Παλάτιον, τό, or Παλλάντιον, τό.
+---
+Palermo
+See {i}Panormus.{/i}
+---
+Palestine
+Παλαιστίνη, ἡ.
+---
+Pallantium
+Παλλάντιον, τό.
+{i}People of Pallantium{/i}: Παλλαντιῆς, -έων, οἱ.
+---
+Pallas (Hero)
+Πάλλᾱς, -αντος, ὁ.
+{i}Son of Pallas{/i}: Παλλαντῐ́δης, -ου, ὁ.
+---
+Pallas (Goddess)
+Παλλᾰ́ς, -ᾰ́δος, ἡ ; see {i}Athena.{/i}
+---
+Pallene
+Παλλήνη, ἡ.
+{i}Man of Pallene{/i}: Παλληνεύς, -έως, ὁ.
+{i}The Isthmus of Pallene{/i}: ὁ Ἰσθμὸς τῆς Παλλήνης.
+---
+Pamphilus
+Πάμφῐλος, ὁ.
+---
+Pamphylia
+Παμφῡλία, ἡ.
+{i}A Pamphylian{/i}: Πάμφῡλος, ὁ.
+{i}Pamphylian,{/i} {grm}adj.{/grm}: Παμφύλιος.
+---
+Pan
+Πᾱ́ν, Πᾱνός, ὁ.
+---
+Panactum
+Πάνακτον, τό.
+---
+Panaetius
+Πᾰναίτιος, ὁ.
+---
+Panathenaea (Festival)
+Πᾰνᾰθήναια, τά.
+{i}The Panathenaic procession{/i}: Παναθηναϊκὴ πομπή ({corpus}Thuc.{/corpus} 1, 20).
+---
+Pandarus
+Πάνδᾰρος, ὁ.
+---
+Pandion
+Πανδῑ́ων, -ονος, ὁ.
+---
+Pandora
+Πανδώρα, ἡ.
+---
+Pandrosus
+Πάνδροσος, ἡ, or say, {i}daughter of Cecrops.{/i}
+---
+Pangaeus (Mt.)
+Παγγαῖος, ὁ, or Παγγαῖον ὄρος, τό, or in {corpus}V.{/corpus} Παγγαῖον λέπας, τό, or Παγγαίου πέτρα, ἡ.
+---
+Pannonia
+Παννονία, ἡ.
+{i}Pannonian,{/i} {grm}adj.{/grm}: Παννονικός.
+---
+Panormus
+Πάνορμος, ἡ ({i}Modern Palermo{/i}).
+---
+Pansa
+Πάνσας, -α, ὁ.
+---
+Pantacyas (River)
+Παντακύας, -ου, ὁ.
+---
+Panticapeum
+Παντικαπεῖον, τό.
+---
+Paphlagonia
+Παφλαγονία, ἡ.
+{i}A Paphlagonian{/i}: Παφλᾰγών, -όνος, ὁ.
+{i}Paphlagonian,{/i} {grm}adj.{/grm}: Παφλᾰγονικός.
+---
+Paphos
+Πᾰ́φος, ἡ.
+{i}Of Paphos,{/i} {grm}adj.{/grm}: Πᾰ́φος.
+---
+Papirius
+Παπείριος, ὁ.
+---
+Paralus
+{i}State vessel at Athens used for embassies to shrines:{/i} Πᾰ́ρᾰλος, ἡ.
+---
+Paris (City)
+Λευκετία, ἡ.
+{i}Paris{/i} ({i}son of Priam{/i}): Πᾰ́ρῐς, -ῐδος, ὁ, or use Ᾰ̓λέξανδρος, ὁ.
+---
+Parmenides
+Παρμενίδης, -ου, ὁ.
+---
+Parmenio
+Παρμενίων, -ωνος, ὁ.
+---
+Parnassus (Mt.)
+Παρνᾱσός, ὁ.
+{i}Of Parnassus,{/i} {grm}adj.{/grm}: Παρνᾱ́σιος. {grm}Fem. adj.{/grm}, in {corpus}V.{/corpus} Πᾰρνᾱσῐ́ς, -ῐ́δος ({corpus}Æsch.{/corpus}, {i}Choe.{/i} 563).
+---
+Parnes (Mt.)
+Πάρνης, -ηθος, ὁ.
+---
+Paros
+Πᾰ́ρος, ἡ.
+{i}Parian,{/i} {grm}adj.{/grm}: Πᾰ́ριος.
+---
+Parrhasia
+Παρρᾰσία, ἡ.
+{i}Of Parrhasia,{/i} {grm}adj.{/grm}: {corpus}P.{/corpus} and {corpus}V.{/corpus} Παρρᾰ́σιος, {corpus}P.{/corpus} Παρρασικός.
+---
+Parthaon
+Παρθᾱ́ων, -ονος, ὁ ({corpus}Eur.{/corpus}, {i}Frag.{/i}), or say, {i}son of Agenor.{/i}
+---
+Parthenius (Mt.)
+ὄρος Παρθένιον, τό ({corpus}Eur.{/corpus}, {i}Frag{/i} 696).
+---
+Parthenopaeus
+Παρθενοπαῖος, ὁ (ε lengthened in {corpus}Æsch.{/corpus}, {i}Theb.{/i} 547, and {corpus}Eur.{/corpus}, {i}Supp.{/i} 899), or say, {i}son of Atalanta.{/i}
+---
+Parthia
+Παρθία, ἡ.
+{i}A Parthian{/i}: Πάρθος, ὁ.
+{i}Parthian,{/i} {grm}adj.{/grm}: Παρθικός.
+{i}In the Parthian language,{/i} {grm}adv.{/grm}: Παρθιστί.
+---
+Parysatis
+Παρύσατις, -ιδος, ἡ.
+---
+Pasargadae
+Πασαργάδαι, αἱ.
+---
+Pasion
+Πασίων, -ωνος, ὁ.
+---
+Pasiphae
+Πᾱσῐφάη, ἡ.
+---
+Patmos
+Πάτμος, ἡ.
+---
+Patrae (Modern Patras)
+Πατραί, αἱ.
+{i}Man of Patrae{/i}: Πατρεύς, -έως, ὁ.
+---
+Patroclus
+Πάτροκλος, ὁ, or say, {i}son of Menoetius.{/i}
+---
+Paulinus
+Παυλῖνος, ὁ.
+---
+Pausanias
+Παυσανίας, -ου, ὁ.
+---
+Pedaritus
+Πεδάριτος, ὁ.
+---
+Pedasa
+Πήδᾰσα, τά.
+{i}Man of Pedasa{/i}: Πηδασεύς, -έως, ὁ.
+---
+Pegae
+Πηγαί, αἱ.
+---
+Pegasus
+Πήγᾰσος, ὁ ({corpus}Eur.{/corpus}, {i}Frag.{/i}).
+---
+Pelasgia
+Πελασγία, ἡ.
+{i}Pelasgi{/i}: Πελασγοί, οἱ.
+{i}A Pelasgian{/i}: Πελασγιώτης, ὁ. {grm}Fem.{/grm}, Πελασγιῶτις, -ῐδος, ἡ, or Πελασγῐ́ς, -ῐ́δος, ἡ.
+{i}Pelasgic,{/i} {grm}adj.{/grm}: Πελασγῐκός.
+---
+Peleus
+Πηλεύς, -έως, ὁ, or say, {i}son of Aeacus.{/i}
+---
+Pelias
+Πελίᾱς, -ου, ὁ.
+{i}Daughters of Pelias{/i}: {corpus}V.{/corpus} Πελιᾰ́δες κόραι, αἱ, or Πελιάδες, αἱ {i}alone.{/i}
+---
+Pelion (Mt.)
+Πήλιον, τό.
+{i}Of Mount Pelion,{/i} {grm}adj.{/grm}: Πηλιωτῐκός ({corpus}Soph.{/corpus}, {i}Frag.{/i}). {grm}Fem. adj.{/grm}, Πηλιῶτις, -ῐδος ({corpus}Eur.{/corpus}, {i}Med.{/i} 484).
+---
+Pella
+Πέλλα, ἡ.
+{i}Of Pella,{/i} {grm}adj.{/grm}: Πελλαῖος.
+---
+Pellene
+Πελλήνη,ἡ.
+{i}Man of Pellene{/i}: Πελληνεύς, -έως, ὁ.
+---
+Pelopidas
+Πελοπίδας, -ου, ὁ.
+---
+Peloponnese
+Πελοπόννησος, ἡ, in {corpus}V.{/corpus} use also Ᾱ̓πία γῆ, ἡ.
+{i}Peloponnesian,{/i} {grm}adj.{/grm}: Πελοποννήσιος.
+---
+Pelops
+Πέλοψ, -οπος, ὁ, or say, {i}son of Tantalus.{/i}
+{i}Of Pelops,{/i} {grm}adj.{/grm}: Πελόπιος.
+{i}Descendant of Pelops{/i}: Πελοπῐ́δης, -ου, ὁ.
+---
+Pelorus (Cape)
+Πέλωρος, ὁ or Πελωρίς, -ίδος, ἡ.
+---
+Pelusium
+Πηλούσιον, τό.
+{i}Of Pelusium,{/i} {grm}adj.{/grm}: Πηλουσιακός.
+---
+Penelope
+Πηνελόπη, ἡ, or say, {i}daughter of Icarius.{/i}
+---
+Peneus (River)
+Πηνειός, ὁ.
+---
+Pentheus
+Πενθεύς, -έως, ὁ, or say, {i}son of Echion.{/i}
+---
+Peparethus
+Πεπᾰ́ρηθος, ἡ.
+{i}Of Peparethus,{/i} {grm}adj.{/grm}: Πεπαρήθιος.
+---
+Perdiccas
+Περδίκκας, -ου, ὁ.
+---
+Pergamum
+{i}Citadel of Troy:{/i} Πέργᾰμον, τό, or {grm}pl.{/grm}; see {i}Troy.{/i}
+{i}Pergamum{/i} ({i}town{/i}): Πέργαμον, τό. Sometimes Πέργαμος, ἡ ({corpus}Xen.{/corpus}, {i}Hell. III, I.{/i} 6).
+{i}Of Pergamum,{/i} {grm}adj.{/grm}: Περγαμηνός.
+---
+Periander
+Περίανδρος, ὁ.
+---
+Pericles
+Περικλῆς, -κλέους, ὁ, {corpus}Ar.{/corpus} also Περικλέης, -κλέους, ὁ.
+---
+Periclymenus
+Περικλύμενος, ὁ, or say, {i}son of Neleus.{/i}
+---
+Perinthus
+Πέρινθος, ἡ.
+{i}Of Perinthus,{/i} {grm}adj.{/grm}: Περίνθιος.
+---
+Perrhaebia
+Περραιβία, ἡ.
+{i}The Perrhaebians{/i}: Περραιβοί, οἱ.
+---
+Persephone
+Περσεφόνη, ἡ, {corpus}Plat.{/corpus} Φερρέφαττα, ἡ, {corpus}Ar.{/corpus} also {corpus}V.{/corpus} Φερσέφασσα, ἡ, {corpus}V.{/corpus} Περσέφασσα, ἡ ({corpus}Æsch.{/corpus}, {i}Choe.{/i} 490; {corpus}Soph.{/corpus}, {i}Ant.{/i} 894), or say, {i}daughter of Demeter{/i}; see also {i}Cora.{/i}
+---
+Perses
+Πέρσης, -ου, -ὁ.
+---
+Perseus
+Περσεύς, -έως, ὁ, or say, {i}son of Danae.{/i}
+{i}Descendants of Perseus{/i}: Περσεῖδαι, οἱ.
+---
+Persia
+ἡ Περσική, Περσὶς (-ῐ́δος) γῆ, ἡ.
+{i}A Persian{/i}: Πέρσης, -ου, ὁ. {grm}Fem.{/grm}, Περσῐ́ς, -ῐ́δος, ἡ.
+{i}Persian,{/i} {grm}adj.{/grm}: Περσῐκός. {grm}Fem. adj.{/grm}, Περσῐ́ς, -ῐ́δος.
+{i}In the Persian language,{/i} {grm}adv.{/grm}: Περσιστί.
+---
+Phaeacians
+Φαίᾱκες, οἱ.
+---
+Phaeax
+Φαῖαξ, -ᾱκος, ὁ.
+---
+Phaedo
+Φαίδων, -ωνος, ὁ.
+---
+Phaedra
+Φαίδρα, ἡ, or say, {i}daughter of Minos.{/i}
+---
+Phaedria
+Φαιδρία, ἡ.
+---
+Phaedrus
+Φαῖδρος, ὁ.
+---
+Phaethon
+Φαέθων, -οντος, ὁ, or say, {i}son of Apollo.{/i}
+---
+Phalerum
+Φᾰ́ληρον, τό.
+{i}To Phalerum{/i}: Φάληρόνδε.
+{i}From Phalerum{/i}: Φαληρόθεν.
+{i}Man of Phalerum{/i}: Φαληρεύς, -έως, ὁ.
+{i}Of Phalerum,{/i} {grm}adj.{/grm}: Φᾰληρῐκός.
+---
+Pharnabazus
+Φαρνάβαζος, ὁ.
+---
+Pharnaces
+Φαρνᾰ́κης, -ου, ὁ.
+---
+Pharos
+Φᾰ́ρος, ἡ.
+---
+Pharsalus
+Φάρσᾱλος, ἡ.
+{i}Pharsalia{/i}: Φαρσᾱλία, ἡ.
+{i}Pharsalian,{/i} {grm}adj.{/grm}: Φαρσᾱ́λιος.
+---
+Phaselis
+Φασηλίς, -ίδος, ἡ.
+{i}People of Phaselis{/i}: Φασηλῖται, αἱ.
+---
+Phasis (River)
+Φᾶσις, -ιος, ὁ.
+{i}Of the Phasis,{/i} {grm}adj.{/grm}: Φᾱσιᾱνός ({corpus}Ar.{/corpus} and {corpus}Xen.{/corpus}), Φᾱσιᾱνῐκός ({corpus}Ar.{/corpus}).
+---
+Pheia
+Φειά, ἡ.
+---
+Phemius
+Φήμιος, ὁ.
+---
+Pherae
+Φεραί, αἱ.
+{i}Of Pherae,{/i} {grm}adj.{/grm}: Φεραῖος.
+---
+Pheres
+Φέρης, -ητος, ὁ.
+{i}Son of Pheres{/i}: Φερητῐ́δης, -ου, ὁ ; see {i}Admetus.{/i}
+---
+Phidias
+Φειδίας, -ου, ὁ.
+---
+Phidippides
+Φειδιππῐ́δης, -ου, ὁ.
+---
+Phido
+Φείδων, -ωνος, ὁ.
+---
+Philae
+Φίλαι, αἱ.
+---
+Philammon
+Φῐλάμμων, -ονος, ὁ.
+---
+Philebus
+Φίληβος, ὁ.
+---
+Philemo
+Φιλήμων, -ονος, ὁ.
+---
+Philip
+Φῐ́λιππος, ὁ.
+{i}Of Philip,{/i} {grm}adj.{/grm}: Φιλιππικός.
+---
+Philippi
+Φῐ́λιπποι, οἱ.
+---
+Philiscus
+Φίλισκος, ὁ.
+---
+Philo
+Φίλων, -ωνος, ὁ.
+---
+Philocrates
+Φῐλοκρᾰ́της, -ους, ὁ.
+---
+Philoctetes
+Φῐλοκτήτης, -ου, ὁ, or say, {i}son of Poeas.{/i}
+---
+Philomela
+Φῐλομήλη, ἡ, or say, {i}daughter of Pandion.{/i}
+---
+Philopoemen
+Φιλοποίμην, -ενος, ὁ.
+---
+Phineus
+Φῑνεύς, -έως, ὁ.
+---
+Phlegethon (River)
+Φλεγέθων, -οντας, ὁ. {corpus}Plat.{/corpus} gives the name as Πυριφλεγέθων, -οντος, ὁ.
+---
+Phlegra
+Φλέγρα, ἡ.
+{i}The Plain of Phlegra{/i}: τὸ Φλέγρας πεδίον ({corpus}Ar.{/corpus}, {corpus}Ar.{/corpus} 824), Φλεγραία πλάξ ({corpus}Æsch.{/corpus}, {i}Eum.{/i} 295).
+---
+Phlegyas
+Φλεγύᾱς, -αντος, ὁ ({corpus}Eur.{/corpus}, {i}Frag.{/i} 424).
+---
+Phlius
+Φλιοῦς, -οῦντος, ὁ.
+{i}Of Phlius,{/i} {grm}adj.{/grm}: Φλιάσιος.
+---
+Phocaea
+Φώκαια, ἡ.
+{i}Man of Phocaea{/i}: Φωκαιεύς, -έως, ὁ.
+{i}Phocaean,{/i} {grm}fem. adj.{/grm}: Φωκαιίς, -ίδος.
+---
+Phocion
+Φωκίων, -ωνος, ὁ.
+---
+Phocis
+Φωκῐ́ς, -ῐ́δος, ἡ.
+{i}A Phocian{/i}: Φωκεύς, -εως, ὁ.
+{i}Phocian,{/i} {grm}adj.{/grm}: Φώκιος, Φωκῐκός. {grm}Fem. adj.{/grm}: Φωκῐ́ς, -ῐ́δος.
+---
+Phocus
+Φῶκος, ὁ.
+---
+Phoebe
+Φοίβη, ἡ.
+---
+Phoebidas
+Φοιβίδας ({grm}gen.{/grm} -ου or -α) ({corpus}Xen.{/corpus}), ὁ.
+---
+Phoebus
+Φοῖβος, ὁ ; see {i}Apollo.{/i}
+---
+Phoenicia
+Φοινῑ́κη, ἡ, in {corpus}V.{/corpus} also γῆ Φοίνισσα, ἡ.
+{i}A Phoenician{/i}: Φοῖνιξ, -ῑκός, ὁ.
+{i}Phoenician,{/i} {grm}adj.{/grm}: Φοινῑκῐκός. {grm}Fem. adj.{/grm}: Φοίνισσα.
+---
+Phoenix
+Φοῖνιξ, ῑκος, ὁ, or say, {i}son of Amyntor.{/i}
+---
+Pholoe (Mt.)
+Φολόη, ἡ.
+---
+Phorbas
+Φόρβᾱς, -αντος, ὁ.
+---
+Phorcys
+Φόρκῡς, -υος, ὁ, or Φόρκος, ὁ ({corpus}Soph.{/corpus}, {i}Frag.{/i}).
+{i}Daughter of Phorcys{/i}: Φορκίς, -ῐ́δος, ἡ ; see {i}Gorgon.{/i}
+---
+Phormio
+Φορμίων, -ωνος, ὁ.
+---
+Phrixus
+Φρίξος, ὁ.
+---
+Phrygia
+Φρῠγία, ἡ.
+{i}A Phrygian{/i}: Φρύξ -ῠγός, ὁ.
+{i}Phrygian,{/i} {grm}adj.{/grm}: Φρύγιος.
+---
+Phryne
+Φρύνη, ἡ.
+---
+Phrynichus
+Φρύνῐχος, ὁ.
+{i}Of Phrynichus,{/i} {grm}adj.{/grm}: Φρῡνῐ́χειος ({corpus}Ar.{/corpus}).
+---
+Phthia
+Φθῑ́α, ἡ, {corpus}V.{/corpus} also Γαῖα Φθῑᾰ́ς (-ᾰ́δος) ἡ. ({corpus}Eur.{/corpus}, {i}And.{/i} 925).
+{i}Man of Phthia{/i}: Φθῑώτης, -ου, ὁ.
+{i}Of Phthia,{/i} {grm}fem. adj.{/grm}: Φθῑῶτις, -ῐ́δος, or Φθῑᾰ́ς, -ᾰ́δος.
+{i}Land of Phthia{/i}: Φθιῶτις (-ιδος), ἡ ({corpus}Thuc.{/corpus} {i}1, 3{/i}).
+---
+Phyle
+Φῡλή, ἡ.
+{i}Of Phyle,{/i} {grm}adj.{/grm}: Φῡλάσιος ({corpus}Ar.{/corpus}, {i}Ach.{/i} 1028).
+---
+Picenum
+Πικηνίς, -ίδος, ἡ, or Πικηνὶς (-ίδος) χώρα, ἡ.
+{i}People of Picenum{/i}: Πικηνοί, οἱ.
+---
+Pieria
+Πιερία, ἡ.
+{i}The Pierians{/i}: Πίερες, οἱ.
+{i}Pierian,{/i} {grm}adj.{/grm}: Πιερικός.
+---
+Pigres
+Πίγρης, -ητος, ὁ.
+---
+Pindar
+Πίνδᾰρος, ὁ.
+{i}Of Pindar{/i} {grm}adj.{/grm}: Πινδᾰ́ρειος ({corpus}Ar.{/corpus}).
+---
+Pindus (Mt.)
+Πίνδος, ὁ.
+---
+Piraeus
+Πειρᾱεύς, -ῶς, ὁ.
+---
+Pirene (Fountain)
+Πειρήνη, ἡ.
+---
+Pirithous
+Πειρῐ́θους, -ου, ὁ, {corpus}V.{/corpus} also Περῐ́θους, -ου, ὁ ({corpus}Soph.{/corpus}, {i}O. C.{/i} 1594).
+---
+Pisa
+Πῖσα, ἡ.
+{i}People of Pisa{/i}: Πισᾶται, οἱ.
+{i}Of Pisa, fem.{/i} {grm}adj.{/grm}: Πῑσᾶτις, -ῐδος.
+---
+Pisander
+Πείσανδρος, ὁ.
+---
+Pisidia
+Πισιδία, ἡ.
+{i}A Pisidian{/i}: Πισίδης, -ου, ὁ.
+---
+Pisistratus
+Πεισίστρᾰτος, ὁ.
+{i}Son of Pisistratus{/i}: Πεισιστρᾰτῐ́δης, -ου, ὁ.
+---
+Piso
+Πείσων, -ωνος, ὁ.
+---
+Pissuthnes
+Πισσούθνης, -ου, ὁ.
+---
+Pittacus
+Πιττᾰκός, ὁ.
+---
+Pittheus
+Πιτθεύς, -έως, ὁ.
+---
+Placentia
+Πλακεντία, ἡ.
+---
+Plancus
+Πλάγχος, ὁ.
+---
+Plataea
+Πλᾰ́ταια, ἡ ({corpus}Thuc.{/corpus}, {i}II.{/i} 2), or Πλᾰταιαί, αἱ ({corpus}Thuc.{/corpus} {i}II,{/i} 7).
+{i}At Plataea{/i}: Πλαταιᾶσι.
+{i}A Plataean{/i}: Πλαταιεύς, -έως, ὁ.
+{i}Plataean,{/i} {grm}adj.{/grm}: Πλαταιικός. {grm}Fem. adj.{/grm}: Πλαταιίς, -ίδος.
+---
+Plato
+Πλάτων, -ωνος, ὁ.
+---
+Pleiad
+Πλειᾰ́ς, -ᾰ́δος, ἡ.
+---
+Pleistarchus
+Πλείσταρχος, ὁ.
+---
+Pleistoanax
+Πλειστοάναξ, -ακτος, ὁ.
+---
+Pleistus (River)
+Πλειστός, ὁ.
+---
+Plemmyrium
+Πλημμύριον, τό.
+---
+Pleuron
+Πλευρών, -ῶνος, ἡ.
+---
+Plutarch
+Πλούταρχος, ὁ.
+---
+Pluto
+Πλούτων, -ωνος, ὁ ; see {i}Hades.{/i}
+---
+Plutus
+Πλοῦτος, ὁ.
+---
+Pnyx
+Πνύξ, Πυκνός, ἡ.
+---
+Po (River)
+Ἠρῐδᾰνός, ὁ.
+{i}Later{/i}: Πάδος, ὁ.
+---
+Poeas
+Ποίᾱς, -αντος, ὁ (οι sometimes scanned short, {corpus}Soph.{/corpus}, {i}Phil.{/i} 329).
+---
+Poecile Stoa
+Ποικιλὴ στοά ({corpus}Dem.{/corpus} 1106).
+---
+Pollux
+Πολῠδεύκης, -ου, ὁ ; see {i}Dioscuri.{/i}
+---
+Polybius
+Πολύβιος, ὁ.
+---
+Polybus
+Πόλῠβος, ὁ.
+---
+Polycrates
+Πολυκράτης, -ους, ὁ.
+---
+Polydeuces
+See {i}Pollux.{/i}
+---
+Polydorus
+Πολύδωρος, ὁ.
+---
+Polygnotus
+Πολύγνωτος, ὁ.
+---
+Polyhymnia
+Πολυμνία, ἡ.
+---
+Polymestor
+Πολῠμήστωρ, -ορος, ὁ.
+---
+Polynices
+Πολῠνείκης, -ους, ὁ, or say, {i}son of Oedipus.{/i}
+---
+Polyphemus
+Πολύφημος, ὁ.
+---
+Polyxena
+Πολυξένη, ἡ.
+---
+Pompeii
+Πομπήιοι, οἱ.
+---
+Pompey
+Πομπήιος, ὁ.
+---
+Pompilius
+Πομπίλιος, ὁ.
+---
+Pomponius
+Πομπώνιος, ὁ.
+---
+Pontus
+Πόντος, ὁ.
+{i}Pontic,{/i} {grm}adj.{/grm}: Ποντικός.
+---
+Pontus
+{i}The,{/i} See {i}Euxine.{/i}
+---
+Porphyrio
+Πορφῠρίων, -ωνος, ὁ.
+---
+Porsenna
+Πορσίνας, -α, ὁ.
+---
+Portugal
+See {i}Lusitania.{/i}
+---
+Porus
+Πῶρος, ὁ.
+---
+Poseidon
+Ποσειδῶν, -ῶνος, ὁ, {grm}heteroclite acc.{/grm} in {corpus}Ar.{/corpus} and {corpus}V.{/corpus} Ποσειδῶ.
+{i}Temple of Poseidon{/i}: Ποσειδώνιον, τό.
+---
+Postumius
+Ποστούμιος, ὁ.
+---
+Potidaea
+Ποτῑ́δαια, ἡ.
+{i}Man of Potidaea{/i}: Ποτιδαιάτης, -ου, ὁ.
+{i}Of Potidaea,{/i} {grm}adj.{/grm}: Ποτιδαιατικός.
+---
+Praeneste
+Πραινεστόν, τό.
+{i}People of Praeneste{/i}: Πραινεστῖνοι, οἱ.
+---
+Prasiae
+Πρᾰσιαί, αἱ.
+---
+Priam
+Πρίᾰμος, ὁ.
+{i}Son of Priam{/i}: Πριᾰμῐ́δης, -ου, ὁ.
+---
+Priene
+Πριήνη, ἡ.
+{i}Man of Priene{/i}: Πριηνεύς, -έως, ὁ.
+---
+Procles
+Προκλῆς, -κλέους, ὁ.
+---
+Procne
+Πρόκνη, ἡ, or say, {i}daughter of Pandion.{/i}
+---
+Proconnesus
+Προκόννησος, ἡ.
+{i}Of Proconnesus,{/i} {grm}adj.{/grm}: Προκοννήσιος.
+---
+Procris
+Πρόκρῐς, -ῐδος, ἡ.
+---
+Procrustes
+Προκρούστης, -ου, ὁ.
+---
+Proculeius
+Προκλήιος, ὁ.
+---
+Prodicus
+Πρόδῐκος, ὁ.
+---
+Proetus
+Προῖτος, ὁ.
+---
+Prometheus
+Προμηθεύς, -έως, ὁ, or say, {i}son of Iapetus.{/i}
+---
+Propontis
+Προποντίς, -ίδος, ἡ.
+---
+Proserpine
+See {i}Persephone.{/i}
+---
+Protagoras
+Πρωταγόρας, -ου, ὁ.
+{i}Of Protagoras,{/i} {grm}adj.{/grm}: Πρωταγόρειος.
+---
+Protesilaus
+Πρωτεσῐ́λᾱος, ὁ, or Πρωτεσῐ́λεως, -ω, ὁ ({corpus}Thuc.{/corpus} 8, 102), or say, {i}son of Iphiclus.{/i}
+---
+Proteus
+Πρωτεύς, -έως, ὁ.
+---
+Proxenus
+Πρόξενος, ὁ.
+---
+Prusias
+Προυσίας, -ου, ὁ.
+---
+Psammetichus
+Ψαμμήτιχος, ὁ.
+---
+Ptolemy
+Πτολεμαῖος, ὁ.
+---
+Publicius
+Ποπλίκιος, ὁ.
+---
+Publicola
+Ποπλικόλας, -α, ὁ.
+---
+Publius
+Πόπλιος, ὁ.
+---
+Pydna
+Πύδνα, ἡ.
+{i}Of Pydna,{/i} {grm}adj.{/grm}: Πυδναῖος.
+---
+Pylades
+Πῠλᾰ́δης, -ου, ὁ, or say, {i}son of Strophius.{/i}
+---
+Pylae
+{i}Thermopylae:{/i} Πύλαι, αἱ.
+---
+Pylos
+Πύλος, ἡ.
+{i}Of Pylos,{/i} {grm}adj.{/grm}: Πῠ́λιος.
+---
+Pyramus
+Πῡ́ρᾰμος, ὁ.
+---
+Pyrenees (Mt.)
+Πυρήνη ὄρος, τό, {grm}gen.{/grm} Πυρήνης ὄρους.
+---
+Pyrilampes
+Πῠρῐλάμπης, -ου, ὁ.
+---
+Pyriphthgethon (River)
+See {i}Phlegethon.{/i}
+---
+Pyrrha
+Πύρρα, ἡ.
+---
+Pyrrhus
+Πύρρος, ὁ.
+{i}Son of Achilles{/i}: see {i}Neoptolemus.{/i}
+---
+Pythagoras
+Πυθαγόρας, -ου, ὁ.
+{i}The Pythagoreans{/i}: Πυθαγορικοί, οἱ.
+---
+Pytho
+Πῡθώ, -οῦς, ἡ.
+{i}At Pytho{/i}: Πῡθοῖ.
+{i}To Pytho{/i}: Πῡθώδε.
+{i}Pythian,{/i} {grm}adj.{/grm}: Πύθιος, Πῡθῐκός.
+{i}Pythian Games{/i}: Πῡ́θια, τά.
+{i}Pythian Priestess{/i}: Πῡθία, ἡ.
+{i}Prophesying at Pytho,{/i} {grm}adj.{/grm}: Πῡθόμαντις.
+{i}Delivered at Pytho{/i} ({i}of Oracles{/i}), {grm}adj.{/grm}: Πῡθόχρηστος.
+{i}Temple of Pythian Apollo{/i}: Πῡ́θιον, τό.
+---
+Pythodorus
+Πυθόδωρος, ὁ.
+---
+Quintilius
+Κυντίλιος, ὁ.
+---
+Quintus
+Κόϊντος, ὁ.
+---
+Quirinal Hill
+ὁ Ἐνυάλιος λόφος.
+---
+Quirinus
+Κυρῖνος, ὁ, also {i}called{/i} Ἐνυάλιος, ὁ.
+---
+Quirites
+Κυρῖται, οἱ.
+---
+Ravenna
+Ῥάβεννα, ἡ.
+---
+Red Sea. Ἐρυθρὰ Θάλασσα
+ἡ.
+---
+Remus
+Ῥῶμος, ὁ.
+---
+Rex
+Ῥῆξ, Ῥηγός, ὁ.
+---
+Rhadamanthus
+Ῥᾰδᾰ́μανθυς, -υος, ὁ.
+---
+Rhamnus
+Ῥαμνοῦς, -οῦντος, ὁ.
+{i}Of Rhamnus,{/i} {grm}adj.{/grm}: Ῥαμνούσιος.
+---
+Rhea
+Ῥέα, ἡ.
+---
+Rhegium
+Ῥήγιον, τό.
+{i}People of Rhegium{/i}: Ῥηγῖνοι, οἱ.
+---
+Rhenea
+Ῥήνεια, ἡ.
+---
+Rhesus
+Ῥῆσος, ὁ.
+---
+Rhine (River)
+Ῥῆνος, ὁ.
+---
+Rhium
+Ῥίον, τό.
+---
+Rhodes
+Ῥόδος, ἡ.
+{i}Of Rhodes,{/i} {grm}adj.{/grm}: Ῥόδιος.
+---
+Rhodope (Mt.)
+Ῥοδόπη, ἡ.
+---
+Rhodopis
+Ῥοδῶπις, -ιος, ἡ.
+---
+Rhoeteum
+Ῥοίτειον, τό.
+---
+Rhone (River)
+Ῥοδᾰνός, ὁ.
+---
+Rome
+Ῥώμη, ἡ.
+{i}A Roman{/i}: Ῥωμαῖος.
+{i}Roman,{/i} {grm}adj.{/grm}: Ῥωμαϊκός.
+---
+Romulus
+Ῥώμυλος, ὁ.
+---
+Roscius
+Ῥώσκιος, ὁ.
+---
+Roxana
+Ῥωξᾱ́νη, ἡ.
+---
+Rubicon (River)
+Ῥουβίκων, -ωνος, ὁ.
+---
+Rufus
+Ῥοῦφος, ὁ.
+---
+Sabines
+Σαβῖνοι, οἱ.
+---
+Sacae
+Σάκαι, οἱ.
+---
+Sadyattes
+Σαδυάττης, -ου, ὁ.
+---
+Sais
+Σάϊς, -εως, ἡ.
+{i}Man of Sais{/i}: Σαΐτης, -ου, ὁ.
+{i}Of Sais,{/i} {grm}adj.{/grm}: Σαϊτικός.
+---
+Salaminia
+{i}State vessel at Athens used for embassies to shrines:{/i} Σᾰλᾰμῑνία, ἡ.
+---
+Salamis
+Σᾰλᾰμῑ́ς, -ῖνος, ἡ, or use {corpus}V.{/corpus} νῆσος Αἴαντος, ἡ ({corpus}Æsch.{/corpus}, {i}Pers.{/i} 368).
+{i}Of Salamis,{/i} {grm}adj.{/grm}: Σᾰλᾰμῑ́νιος.
+---
+Salii
+Σάλιοι, οἱ.
+---
+Sallust
+Σαλούστιος, ὁ.
+---
+Salmoneus
+Σαλμωνεύς, -έως, ὁ, or say, {i}son of Aeolus.{/i}
+---
+Salmydesus
+Σαλμῠ́δησος, ἡ.
+{i}Of Salmydesus,{/i} {grm}adj.{/grm}: Σαλμῠδήσιος.
+---
+Samnites
+Σαῦνται, οἱ.
+{i}Of the Samnites,{/i} {grm}adj.{/grm}: Σαυνιτικός.
+---
+Samos
+Σᾰ́μος, ἡ.
+{i}Of Samos,{/i} {grm}adj.{/grm}: Σᾰ́μος.
+---
+Samothrace
+Σᾰμοθρᾴκη, ἡ.
+{i}Men of Samothrace{/i}: Σᾰμόθρᾳκες, οἱ.
+{i}Samothracian,{/i} {grm}adj.{/grm}: Σαμοθρᾴκιος, Σαμοθρᾳκικός.
+---
+Sane
+Σάνη, ἡ.
+---
+Sappho
+Σαπφώ, -οῦς, ἡ.
+---
+Saracens
+Σαρακηνοί, οἱ.
+---
+Sardanapallus
+Σαρδᾰνᾰ́παλλος, ὁ.
+---
+Sardinia
+Σαρδώ, -οῦς, ἡ.
+{i}Sardinian,{/i} {grm}adj.{/grm}: Σαρδόνιος, Σαρδονικός.
+---
+Sardis
+Σάρδεις, {grm}gen.{/grm} Σάρδεων (sometimes scanned as two syllables), αἱ.
+{i}Of Sardis,{/i} {grm}adj.{/grm}: Σαρδιᾱνός, {corpus}Ar.{/corpus} Σαρδιᾱνῐκός.
+---
+Sarmatians
+Σαυρομάται, οἱ.
+---
+Saronic (Gulf)
+ὁ Σαρωνικὸς κόλπος, {corpus}V.{/corpus} ὁ Σᾰρωνῐκὸς πορθμός ({corpus}Æsch.{/corpus}, {i}Ag.{/i} 306), or Σᾰρωνῐκὸς πόντος, ὁ ({corpus}Eur.{/corpus}, {i}Hipp.{/i} 1200).
+---
+Sarpedon
+Σαρπηδών, -όνος, ὁ.
+---
+Saturn
+See {i}Cronus.{/i}
+---
+Saturninus
+Σατόρνῑνος, ὁ.
+---
+Satyr
+Σᾰ́τῠρος, ὁ.
+{i}Of a Satyr,{/i} {grm}adj.{/grm}: Σατυρικός.
+---
+Scaevola
+Σκαιβόλας, -α, ὁ.
+---
+Scamander (River)
+Σκᾰ́μανδρος, ὁ.
+{i}Of Scamander,{/i} {grm}adj.{/grm}: Σκᾰμάνδριος.
+---
+Sciathus
+Σκίᾰθος, ἡ.
+---
+Scione
+Σκιώνη, ἡ.
+{i}Of Scione,{/i} {grm}adj.{/grm}: Σκιωναῖος.
+---
+Scipio
+Σκηπίων, -ωνος, ὁ.
+---
+Sciron
+Σκείρων, -ωνος ὁ.
+{i}The Scironian Rocks{/i}: Σκειρωνῐ́δες πέτραι, αἱ.
+---
+Scirus
+Σκῖρος, ἡ.
+{i}Men of Scirus{/i}: Σκιρῖται, οἱ.
+{i}Territory of Scirus{/i}: Σκίριτις (-ιδος), ἡ.
+---
+Scopas
+Σκόπας, -α, ὁ ({corpus}Xen.{/corpus}, {i}Hell. VI, I.{/i} 7).
+---
+Scotland
+Καληδονία, ἡ.
+{i}People of Scotland{/i}: Καληδόνιοι, οἱ.
+---
+Scotusa
+Σκότουσα, ἡ.
+{i}Of Scotusa,{/i} {grm}adj.{/grm}: Σκοτουσαῖος.
+---
+Scribonia
+Σκριβωνία, ἡ.
+---
+Scylla
+Σκύλλᾰ, ἡ.
+---
+Scyrus
+Σκῦρος, ἡ.
+{i}Of Scyrus,{/i} {grm}adj.{/grm}: Σκύριος.
+---
+Scythia
+ἡ Σκῠθῐκή.
+{i}A Scythian{/i}: Σκύθης, -ου, ὁ. {grm}Fem.{/grm}, Σκῠ́θαινα, ἡ.
+{i}Scythian,{/i} {grm}adj.{/grm}: Σκῠθῐκός, in {corpus}V.{/corpus} also Σκῠ́θης, -ου.
+{i}In the Scythian language{/i} or {i}fashion,{/i} {grm}adv.{/grm}: Σκῠθιστῐ́.
+---
+Segesta
+See {i}Egesta.{/i}
+---
+Seine (River)
+Σηκοάνας, -α, ὁ.
+---
+Selene
+Σελήνη, ἡ, or Σεληναία, ἡ.
+---
+Seleucia
+Σελεύκεια, ἡ.
+{i}Man of Seleucia{/i}: Σελευκεύς, -έως, ὁ.
+---
+Seleucidae
+Σελευκίδαι, οἱ.
+---
+Seleucus
+Σέλευκος, ὁ.
+---
+Selinus
+Σελῑνοῦς, -οῦντος, ὁ.
+{i}Of Selinus,{/i} {grm}adj.{/grm}: Σελινούντιος.
+---
+Sellasia
+Σελλασία, ἡ.
+---
+Selli
+Σελλοί, οἱ.
+---
+Selymbria Σηλυμβρία
+ἡ.
+{i}Man of Selymbria{/i}: Σηλυμβριανός, ὁ.
+---
+Semele
+Σεμέλη, ἡ, or say, {i}daughter of Cadmus.{/i}
+---
+Semiramis
+Σεμῑ́ρᾰμις, -εως, ἡ.
+---
+Sempronius
+Σεμπρώνιος, ὁ.
+---
+Sennacherib
+Σαναχάριβος, ὁ.
+---
+Sennones
+Σέννωνες, οἱ.
+---
+Sequani
+Σηκουανοί, οἱ.
+---
+Seriphus
+Σέρῑφος, ἡ.
+{i}Of Seriphus,{/i} {grm}adj.{/grm}: Σερῑ́φιος.
+---
+Serreum
+Σέρρειον, τό.
+---
+Sertorius
+Σερτώριος, ὁ.
+---
+Servilius
+Σερβίλιος, ὁ.
+---
+Servius
+Σέρβιος, ὁ.
+---
+Sesostris
+Σέσωστρις, -εως, ὁ.
+---
+Sestius
+Σήστιος, ὁ.
+---
+Sestos
+Σῆστος, ἡ.
+{i}Of Sestos,{/i} {grm}adj.{/grm}: Σήστιος.
+---
+Seuthes
+Σεύθης, -ου, ὁ.
+---
+Sibyl
+Σῐ́βυλλα, ἡ.
+---
+Sicambri
+Σούγουμβροι, οἱ.
+---
+Sicani
+Σῐκᾱνοί, οἱ.
+{i}Sicania{/i}: Σικανία, ἡ.
+{i}Of the Sicani,{/i} {grm}adj.{/grm}: Σικανικός.
+---
+Sicely
+Σῐκελία, ἡ.
+{i}A Sicilian, non-Greek{/i}: Σῐ́κελος, ὁ ;
+{i}Greek{/i}: Σικελιώτης, -ου, ὁ.
+{i}Sicilian,{/i} {grm}adj.{/grm}: Σῐκελῐκός, {corpus}V.{/corpus} Σῐ́κελος ({corpus}Eur.{/corpus}, {i}Cycl.{/i} 95).
+---
+Sicyon
+Σῐκυών, -ῶνος, ἡ or ὁ ({corpus}Xen.{/corpus}).
+{i}Sicyonian,{/i} {grm}adj.{/grm}: Σικυώνιος.
+---
+Sidon
+Σῑδών, -ῶνος, ἡ.
+{i}Of Sidon,{/i} {grm}adj.{/grm}: Σῑδώνιος.
+---
+Sigeum
+Σῑ́γειον, τό.
+---
+Silenus
+Σειληνός, ὁ.
+---
+Silvia
+Σιλουία, ἡ.
+---
+Simo
+Σῐ́μων, -ωνος, ὁ.
+---
+Simois (River)
+Σῐμόεις, -εντος, ὁ.
+{i}Land of Simois{/i}: Σῐμοῦντις (-ῐδος), γῆ, ἡ ({corpus}Ar.{/corpus}, {i}Thes.{/i} 110).
+---
+Simonides
+Σιμωνῐ́δης, -ου, ὁ.
+---
+Sinis
+Σῐ́νῐς, -ῐδος, ὁ.
+---
+Sinope
+Σῐνώπη, ἡ.
+{i}Man of Sinope{/i}: Σινωπεύς, -έως, ὁ.
+---
+Sintians
+Σιντοί, οἱ.
+---
+Siphae
+Σῖφαι, αἱ.
+---
+Siphnus
+Σίφνος, ἡ.
+{i}Of Siphnus,{/i} {grm}adj.{/grm}: Σίφνιος.
+---
+Sipylus (Mt.)
+Σῐ́πῠλος, ὁ.
+---
+Siren
+Σειρήν, -ῆνος, ἡ.
+---
+Sisyphus
+Σῑ́σῠφος, ὁ.
+{i}Of Sisyphus,{/i} {grm}adj.{/grm}: Σῑσύφειος.
+---
+Sitalces
+Σῑτάλκης, -ου, ὁ.
+---
+Sithonia
+Σῑθωνία, ἡ.
+---
+Sleep
+Ὕπνος, ὁ.
+---
+Smerdis
+Σμέρδις, -εως, ὁ (in {corpus}Æsch.{/corpus}, {i}Pers.{/i} 774 called Μέρδις).
+---
+Smyrna
+Σμύρνα, ἡ.
+{i}Of Smyrna,{/i} {grm}adj.{/grm}: Σμυρναῖος.
+---
+Soli
+Σόλοι, οἱ.
+{i}Of Soli,{/i} {grm}adj.{/grm}: Σόλιος.
+---
+Sollium
+Σόλλιον, τό.
+---
+Solois
+Σολόεις, -εντος, ὁ.
+---
+Solon
+Σόλων, -ωνος, ὁ.
+---
+Sophaenetus
+Σοφαίνετος, ὁ.
+---
+Sophocles
+Σοφοκλῆς, -κλέους, ὁ. {corpus}Ar.{/corpus} also Σοφοκλέης, -κλέους, ὁ.
+---
+Sosias
+Σωσίας, -ου, ὁ.
+---
+Sostrata
+Σωστρᾰ́τη, ἡ.
+---
+Spain
+Ἰβηρία, ἡ.
+{i}Spaniards{/i}: Ἴβηρες, οἱ.
+{i}Spanish,{/i} {grm}adj.{/grm}: Ἰβηρικός.
+---
+Sparta
+Σπάρτη, ἡ: see {i}Lacedaemon.{/i}
+{i}A Spartan{/i}: Σπαρτιᾱ́της, -ου, ὁ ; {grm}fem.{/grm} Σπαρτιᾶτις, -ῐδος, ἡ.
+{i}Spartan,{/i} {grm}adj.{/grm}: Σπαρτιᾱτῐκός ; {grm}fem. adj.{/grm} Σπαρτιᾶτις (-ῐδος).
+{i}Land of Sparta{/i}: {corpus}V.{/corpus} Σπαρτιᾶτις (-ῐδος) χθών, ἡ.
+---
+Spartolus
+Σπάρτωλος, ἡ.
+---
+Sperceus (River)
+Σπερχειός, ὁ.
+---
+Sphacteria
+Σφακτηρία, ἡ.
+---
+Sphinx
+Σφίγξ, Σφιγγός, ἡ.
+---
+Sphodrias
+Σφοδρίας, -ου, ὁ.
+---
+Spurius
+Σπόριος, ὁ.
+---
+Stagirus
+Στάγειρος, ἡ.
+{i}Man of Stagirus{/i}: Σταγειρίτης, -ου, ὁ.
+---
+Statira
+Στάτειρα, ἡ.
+---
+Stesichorus
+Στησίχορος, ὁ.
+---
+Sthenelaidas
+Σθενελαΐδας. -ου, ὁ.
+---
+Sthenelus
+Σθένελος, ὁ, or say, {i}son of Perseus.{/i}
+---
+Sthenoboea
+Σθενόβοια, ἡ.
+---
+Stoics
+Στωικοί, οἱ.
+---
+Stratonice
+Στρᾰτονῑ́κη, ἡ.
+---
+Stratus
+Στράτος, ἡ.
+{i}People of Stratus{/i}: Στράτιοι, οἱ.
+---
+Strombichides
+Στρομβιχίδης, -ου, ὁ.
+---
+Strongyle
+Στρογγύλη, ἡ.
+---
+Strophius
+Στρόφιος, ὁ.
+---
+Struthas
+Στρούθας, -ου, ὁ.
+---
+Strymon
+({i}River{/i}), Στρῡμών, -όνος, ὁ.
+---
+Stymphalian Lake
+Στυμφᾱλῐ́ς (-ῐ́δος) λίμνη, ἡ.
+{i}Stymphalian,{/i} {grm}adj.{/grm}: Στυμφᾱ́λιος.
+---
+Styx (River)
+Στύξ, Στῠγός, ἡ.
+{i}Of Styx,{/i} {grm}adj.{/grm}: Στύγιος.
+---
+Suetonius
+Σουητώνιος, ὁ.
+---
+Suevi
+Σούηβοι, οἱ.
+---
+Sulla
+Σύλλας, -α, ὁ.
+---
+Sulpicius
+Σουλπίκιος, ὁ.
+---
+Sunium (Cape)
+Σούνιον, τό.
+{i}Man of Sunium{/i}: Σουνιεύς, -ιῶς, ὁ.
+{i}Of Sunium,{/i} {grm}adj.{/grm}: Σουνιακός.
+---
+Sun
+Ἥλιος, ὁ ; see {i}Apollo.{/i}
+---
+Sura
+Σούρας, -α, ὁ.
+---
+Susa
+Σοῦσα, τά.
+{i}Of Susa,{/i} {grm}adj.{/grm}: Σούσιος. {grm}Fem. adj.{/grm}: Σουσίς, -ίδος.
+---
+Sybaris (River)
+Σύβαρις, -εως, ὁ.
+---
+Sybaris (Town)
+Σύβᾰρις, -εως, ἡ.
+{i}Man of Sybaris{/i}: Σῠβᾰρῑ́της, -ου, ὁ.
+{i}Woman of Sybaris{/i}: Σῠβᾰρῖτις, -ῐδος, ἡ.
+{i}Of Sybaris,{/i} {grm}adj.{/grm}: Σῠβᾰρῑτῐκός.
+---
+Sybota
+Σύβοτα, τά.
+---
+Syennesis
+Συέννεσις, -ιος ({corpus}Xen.{/corpus}, {i}An. I, II,{/i} 23), ὁ.
+---
+Syme
+Σύμη, ἡ.
+---
+Symplegades (Rocks)
+Συμπληγάδες, αἱ, or Πέτραι Συμπληγᾰ́δες, αἱ, also called Κυᾰ́νειαι Πέτραι.
+---
+Syracuse
+Σῠρᾱκοῦσαι, αἱ.
+{i}Syracusan,{/i} {grm}adj.{/grm}: Σῠρᾱκόσιος.
+---
+Syria
+Σῠρία, ἡ.
+{i}A Syrian{/i}: Σύρος, ὁ.
+{i}Syrian,{/i} {grm}adj.{/grm}: Σύριος.
+{i}In the Syrian. language,{/i} {grm}adv.{/grm}: Συριστί.
+---
+Taenarus (Cape)
+Ταίνᾰρος, ἡ.
+---
+Talaus
+Τᾰλαός, ὁ.
+---
+Talthybius
+Ταλθύβιος, ὁ.
+---
+Tanagra
+Τάναγρα, ἡ.
+{i}Of Tanagra,{/i} {grm}adj.{/grm}: Ταναγραῖος, Ταναγρικός.
+---
+Tanais (River)
+Τάναϊς, -ιδος, ὁ.
+---
+Tanaus (River)
+Τᾰναός, ὁ.
+---
+Tantalus
+Τάντᾰλος, ὁ.
+{i}Of Tantalus,{/i} {grm}adj.{/grm}: Ταντᾰ́λειος.
+---
+Taochi
+Τάοχοι, οἱ.
+---
+Taphii
+Τᾰφίοι, οἱ.
+---
+Tarentum
+Τάρας, -αντος, ὁ.
+{i}Of Tarentum,{/i} {grm}adj.{/grm}: Ταραντῖνος.
+---
+Tarpeia
+Ταρπηία, ἡ.
+---
+Tarpeian (Rock)
+Ταρπήιος λόφος, ὁ.
+---
+Tarquinii
+Ταρκύνιοι, οἱ.
+---
+Tarquinius
+Ταρκύνιος, ὁ.
+{i}Tarquinius Superbus{/i}: Ταρκύνιος Σούπερβος, ὁ.
+---
+Tarsus
+Ταρσός, ἡ, or Ταρσοί, οἱ ({corpus}Xen.{/corpus}, {i}An. I, II.{/i} 26).
+{i}Man of Tarsus{/i}: Ταρσεύς, -έως, ὁ.
+---
+Tartarus
+Τάρτᾰρος, ὁ: see {i}Hell.{/i}
+---
+Tartessus
+Ταρτησσός, ἡ.
+{i}Of Tartessus,{/i} {grm}adj.{/grm}: Ταρτήσσιος.
+---
+Tatius
+Τάτιος, ὁ.
+---
+Tauris
+Ταυρῐκή, ἡ, Ταυρῐκὴ χθών, ἡ ({corpus}Eur.{/corpus}, {i}I. T.{/i} 85).
+{i}People of Tauris{/i} Ταῦροι, οἱ.
+---
+Tauromenium
+Ταυρομένιον, τό.
+{i}People of Tauromenium{/i}: Ταυρομενῖται, οἱ.
+---
+Taurus (Mt.)
+Ταῦρος, ὁ.
+---
+Taygetus (Mt.)
+Τᾱΰγετον, τό.
+---
+Tecmessa
+Τέκμησσα, ἡ, or say, {i}daughter of Teleutas.{/i}
+---
+Tegea
+Τεγέα, ἡ.
+{i}Man of Tegea{/i}: Τεγεάτης, -ου, ὁ.
+{i}Of Tegea,{/i} {grm}adj.{/grm}: Τεγεατικός. {grm}Fem. adj.{/grm}, Τεγεᾶτις, -ιδος.
+---
+Telamon
+Τελᾰμών, -ῶνος, ὁ, or say, {i}son of Aeacus.{/i}
+{i}Of Telamon,{/i} {grm}adj.{/grm}: Τελᾰμώνιος.
+---
+Telemachus
+Τηλέμᾰχος, ὁ, or say, {i}son of Odysseus.{/i}
+---
+Telephus
+Τήλεφος, ὁ.
+---
+Teleutas
+Τελεύτᾱς, -αντος, ὁ.
+---
+Teleutias
+Τελευτίας, -ου, ὁ.
+---
+Tellis
+Τέλλις, -ιδος, ὁ.
+---
+Temenus
+Τήμενος, ὁ.
+{i}Descendant of Temenus{/i}: Τημενῐ́δης, -ου, ὁ.
+---
+Tempe
+Τέμπη, τά.
+---
+Tenchteri
+Τεντερῖται, οἱ.
+---
+Tenedos
+Τένεδος, ἡ.
+{i}Of Tenedos,{/i} {grm}adj.{/grm}: Τενέδιος.
+---
+Tenos
+Τῆνος, ἡ.
+{i}Of Tenos,{/i} {grm}adj.{/grm}: Τήνιος.
+---
+Teos
+Τέως, -ω, ἡ.
+{i}Of Teos,{/i} {grm}adj.{/grm}: Τήιος.
+---
+Teres
+Τήρης, -ου, ὁ.
+---
+Tereus
+Τηρεύς, -έως, ὁ.
+---
+Terminus
+Τέρμων, -ονος, ὁ.
+---
+Terpsichore
+Τερψιχόρα, ἡ.
+---
+Tethys
+Τηθῡ́ς, -ύος, ἡ.
+---
+Teucer
+Τεῦκρος, ὁ, or say, {i}son of Telamon.{/i}
+---
+Teucri
+Τευκροί, οἱ.
+{i}Land of the Teucri{/i}: Τευκρίς (-ίδος) γῆ; see {i}Troy.{/i}
+---
+Teutons
+Τεύτονες, οἱ.
+---
+Thales
+Θᾰλῆς, Θᾰ́λεω, ὁ.
+---
+Thamyras
+Θᾰμῠ́ρας, -ου, ὁ, or Θᾰ́μῠρις, -ῐδος, ὁ, or say, {i}son of Philammon.{/i}
+---
+Thapsacus
+Θάψᾰκος, ἡ.
+{i}People of Thapsacus{/i}: Θαψακηνοί, οἱ.
+---
+Thapsus
+Θάψος, ἡ.
+---
+Thasos
+Θᾰ́σος, ἡ.
+{i}Of Thasos,{/i} {grm}adj.{/grm}: Θᾰ́σιος.
+---
+Thaumas
+Θαύμᾱς, -αντος, ὁ.
+---
+Thebes (In Egypt)
+Θῆβαι, αἱ.
+{i}Of Thebes,{/i} {grm}adj.{/grm}: Θηβαϊκός.
+{i}Territory of Thebes{/i}: Θηβαΐς, -ίδος, ἡ.
+---
+Thebes (In Boeotia)
+Θῆβαι, αἱ, in {corpus}V.{/corpus} sometimes Θήβη, ἡ, or say, {i}city of Cadmus.{/i}
+{i}At Thebes{/i}: Θήβησι.
+{i}To Thebes{/i}: Θήβαζε.
+{i}A Theban{/i}: Θηβαῖος, ὁ, {corpus}V.{/corpus} also Καδμεῖος, ὁ.
+{i}Born at Thebes,{/i} {grm}adj.{/grm}: {corpus}V.{/corpus} Θηβᾱγενής, -οῦς.
+{i}Theban,{/i} {grm}adj.{/grm}: Θηβαῖος, Θηραϊκός, {corpus}V.{/corpus} Καδμεῖος. {grm}Fem. adj.{/grm}, Θηβαΐς, -ίδος.
+{i}Territory of Thebes{/i}: Θηβαΐς, -ίδος, ἡ.
+---
+Themis
+Θέμῐς, -ῐδος, ἡ.
+---
+Themistocles
+Θεμιστοκλῆς, -κλέους, ὁ.
+---
+Theoclymenus
+Θεοκλῠ́μενος, ὁ, or say, {i}son of Proteus.{/i}
+---
+Theodorus
+Θεόδωρος, ὁ.
+---
+Theodosia
+Θεοδοσία, ἡ.
+---
+Theogenes
+Θεογένης, -ους, ὁ.
+---
+Theognis
+Θέογνις, -ῐδος, ὁ.
+---
+Theonoe
+Θεονόη, ἡ, or say, {i}daughter of Proteus.{/i}
+---
+Theopompus
+Θεόπομπος, ὁ.
+---
+Thera
+Θήρα, ἡ.
+---
+Theramenes
+Θηρᾱμένης, -ους, ὁ.
+---
+Therapne
+Θεράπνη, ἡ, or Θεράπναι, αἱ.
+---
+Therma (later Thessalonica)
+Θέρμη, ἡ.
+{i}The Thermaic Gulf{/i}: ὁ Θερμαῖος Κόλπος.
+---
+Thermodon (River)
+Θερμώδων, -οντος, ὁ.
+---
+Thermopylae
+Θερμοπύλαι, αἱ, or Πύλαι, αἱ.
+---
+Theron
+Θήρων, -ωνος, ὁ.
+---
+Thersites
+Θερσῑ́της, -ου, ὁ.
+---
+Theseus
+Θησεύς, -έως, ὁ, or say, {i}son of Aegeus.{/i}
+{i}Descendant of Theseus{/i}: Θησείδης, -ου, ὁ.
+{i}Festival of Theseus{/i}: Θησεῖα, τά.
+{i}Land of Theseus{/i}: χθὼν Θησῇς (-ῇδος), ἡ ({corpus}Æsch.{/corpus}, {i}Eum.{/i} 1026).
+{i}Temple of Theseus{/i}: Θησεῖον, τό.
+---
+Thesmophoria (Festival)
+Θεσμοφόρια, τά.
+---
+Thespiae
+Θεσπιαί, αἱ.
+{i}Man of Thespiae{/i}: Θεσπιεύς, -ιῶς, ὁ.
+{i}Of Thespiae,{/i} {grm}adj.{/grm}: Θεσπικός.
+---
+Thespis
+Θέσπις, -εως, ὁ.
+---
+Thesprotia
+Θεσπρωτίς, -ίδος, ἡ, or ἡ Θεσπρωτὶς γῆ.
+{i}A Thesprotian{/i}: Θεσπρωτός, ὁ.
+---
+Thessalonica
+See {i}Therma.{/i}
+---
+Thessalus
+Θεσσαλός, ὁ.
+---
+Thessaly
+Θεσσᾰλία, ἡ.
+{i}A Thessalian{/i}: Θεσσᾰλός, ὁ. {grm}Fem.{/grm} Θεσσᾰλῐ́ς, -ῐ́δος, ἡ.
+{i}Thessalian,{/i} {grm}adj.{/grm}: Θεσσᾰλῐκός, {corpus}V.{/corpus} Θεσσᾰλός. {grm}Fem. adj.{/grm}, Θεσσᾰλῐ́ς, -ῐ́δος.
+---
+Thestor
+Θέστωρ, -ορος, ὁ.
+{i}Of Thestor,{/i} {grm}adj.{/grm}: Θεστόρειος.
+---
+Thestius
+Θέστιος, ὁ.
+{i}Daughter of Thestius{/i}: Θεστιᾰ́ς, -ᾰ́δος: see {i}Leda.{/i}
+---
+Thetis
+Θέτῐς, -ῐδος, ἡ, or say, {i}daughter of Nereus.{/i}
+{i}Of Thetis,{/i} {grm}adj.{/grm}: Θετῐ́δειος.
+---
+Thimbron
+Θίμβρων, -ωνος, ὁ.
+---
+Thisbae
+Θίσβαι, αἱ.
+---
+Thisbe
+Θίσβη, ἡ.
+---
+Thoas
+Θόᾱς, -αντος, ὁ.
+---
+Thrace
+{corpus}Ar.{/corpus} and {corpus}P.{/corpus} Θρᾴκη, ἡ, {corpus}V.{/corpus} Θρῄκη, ἡ.
+{i}A Thracian{/i}: {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Θρᾷξ, Θρᾳκός, ὁ, {corpus}V.{/corpus} Θρῇξ, Θρῃκός, ὁ. {grm}Fem.{/grm}, {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Θρᾴσσα, ἡ, {corpus}V.{/corpus} Θρῇσσα, ἡ.
+{i}Thracian,{/i} {grm}adj.{/grm}: {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Θρᾴκιος, {corpus}V.{/corpus} Θρῄκιος.
+---
+Thrasybulus
+Θρᾰσύβουλος, ὁ.
+---
+Thrasyllus
+Θράσυλλος, ὁ.
+---
+Thria
+Θρία, ἡ.
+{i}At Thria{/i}: Θριάσι ({corpus}Xen.{/corpus}, {i}Hell.{/i} {corpus}V.{/corpus}, {i}I{/i}{corpus}V.{/corpus} 21).
+{i}To Thria{/i}: Θριῶζε ({corpus}Thuc.{/corpus} 1, 114).
+{i}Thriasian Plain{/i}: τὸ Θριάσιον πεδίον ({corpus}Thuc.{/corpus} 2, 19).
+---
+Thucydides
+Θουκῡδίδης -ου, ὁ.
+---
+Thurii
+Θούριοι. οἱ (founded on the site of {i}Sybaris{/i}).
+{i}People of Thurii{/i}: Θούριοι, οἱ.
+---
+Thyestes
+Θυέστης, -ου, ἡ.
+{i}Of Thyestes,{/i} {grm}adj.{/grm}: Θυέστειος ({corpus}Ar.{/corpus}).
+---
+Thymbra
+Θύμβρα, ἡ.
+{i}Of Thymbra,{/i} {grm}adj.{/grm}: Θυμβραῖος.
+---
+Thyni
+Θῡνοί, οἱ.
+---
+Thyrea
+Θυρέα, ἡ.
+{i}Territory of Thyrea{/i}: Θυρεᾶτις, -ιδος, ἡ.
+---
+Tibareni
+Τιβαρηνοί, οἱ.
+---
+Tiber
+Θύμβρις, -ιδος, ὁ, or Τίβερις, -εως, ὁ.
+---
+Tiberius
+Τιβέριος, ὁ.
+---
+Tigranes
+Τιγράνης, -ου, ὁ.
+---
+Tigranocerta
+Τιγρανόκερτα, τά.
+---
+Tigris (River)
+Τίγρης, -ητος, ὁ.
+---
+Timasion
+Τιμασίων, -ωνος, ὁ.
+---
+Timocrates
+Τιμοκράτης, -ους, ὁ.
+---
+Timoleon
+Τιμολέων, -οντος, ὁ.
+---
+Timon
+Τῑ́μων, -ωνος, ὁ.
+---
+Timotheus
+Τῑμόθεος, ὁ.
+---
+Tiresias
+Τειρεσίᾱς, -ου, ὁ.
+---
+Tiribazus
+Τιρίβαζος, ὁ.
+---
+Tiro
+Τίρων, -ωνος, ὁ.
+---
+Tiryns
+Τῑ́ρυνς, -υνθος, ἡ.
+{i}Of Tiryns,{/i} {grm}adj.{/grm}: Τῑρύνθιος.
+---
+Tisamenus
+Τισαμενός, ὁ.
+---
+Tisias
+Τισίας, -ου, ὁ.
+---
+Tissaphernes
+Τισσαφέρνης, -ου, ὁ.
+---
+Titan
+Τῑτάν, -ᾶνος, ὁ ; see {i}Giant.{/i} {grm}Fem.{/grm} Τῑτᾱνῐ́ς, -ῐ́δος, ἡ.
+{i}Of a Titan,{/i} {grm}adj.{/grm}: Τιτανικός.
+---
+Τithonus
+Τῑθωνός, ὁ.
+---
+Tithraustes
+Τιθραύστης, -ου, ὁ.
+---
+Titus
+Τίτος, ὁ.
+---
+Tityus
+Τῐτυός, ὁ.
+---
+Tlepolemus
+Τληπόλεμος, ὁ, or say, {i}son of Heracles.{/i}
+---
+Tmolus (Mt.)
+Τμῶλος, ὁ.
+---
+Tolmides
+Τολμίδης, -ου, ὁ.
+---
+Tolumnius
+Τολούμνιος, ὁ.
+---
+Torone
+Τορώνη, ἡ.
+{i}Of Torone,{/i} {grm}adj.{/grm}: Τορωναῖος.
+---
+Torquatus
+Τορκούατος, ὁ.
+---
+Trachis
+Τρᾱχῑ́ς, -ῖνος, ἡ.
+{i}Territory of Trachis{/i}: Τρᾱχῑνία, ἡ.
+{i}Of Trachis,{/i} {grm}adj.{/grm}: Τρᾱχῑ́νιος.
+---
+Tralles
+Τράλλεις, -εων, αἱ.
+---
+Trapezus
+Τραπεζοῦς, -οῦντος, ὁ.
+{i}Of Trapezus,{/i} {grm}adj.{/grm}: Τραπεζούντιος.
+---
+Trasymene (Lake)
+Τρασυμένη Λίμνη, ἡ.
+---
+Trebia (River)
+Τρεβίας, -α, ὁ.
+---
+Triballi
+Τριβαλλοί, οἱ.
+---
+Trinacria
+Τρινακρία, ἡ.
+---
+Triopium (Cape)
+Τριόπιον, τό.
+---
+Triphylia
+Τριφυλία, ἡ.
+{i}Of Triphylia{/i} {grm}adj.{/grm}: Τριφύλιος. {grm}Fem. adj.{/grm}, Τριφυλίς, -ίδος.
+---
+Triptolemus
+Τριπτόλεμος, ὁ, or say, {i}son of Celeus.{/i}
+---
+Tritogenia
+{i}Name of Athena:{/i} Τρῑτογενής, -οῦς, ἡ ({corpus}Ar.{/corpus}), Τρῑτογένεια, ἡ ({corpus}Ar.{/corpus}).
+---
+Triton
+Τρῑ́των, -ωνος, ὁ.
+---
+Troad
+See under {i}Troy.{/i}
+---
+Troezen
+Τροιζήν, -ῆνος, ἡ.
+{i}Of Troezen,{/i} {grm}adj.{/grm}: Τροιζήνιος. {grm}Fem. adj.{/grm}, Τροιζηνίς, -ίδος.
+---
+Trogilus
+Τρώγιλος, ὁ.
+---
+Trojan
+See under {i}Troy.{/i}
+---
+Trophonius
+Τροφώνιος, ὁ.
+---
+Troy
+Τροία, ἡ ; see {i}Ilium, Pergamum.{/i}
+{i}From Troy{/i}: {corpus}V.{/corpus} Τροίᾱθεν.
+{i}A Trojan{/i}: Τρώς, Τρωός, ὁ ; {grm}fem.{/grm} Τρωᾰ́ς, -ᾰ́δος, ἡ, in {corpus}V.{/corpus} use also, {i}Phrygian, Teucri, Ilian.{/i}
+{i}Trojan,{/i} {grm}adj.{/grm}: Τρωῐκός. {grm}Fem. adj.{/grm}, Τρωᾰ́ς, -ᾰ́δος.
+{i}Troad{/i}: Τρωᾰ́ς, -ᾰ́δος, ἡ, or γῆ Τρωᾰ́ς, -ᾰ́δος, ἡ, or Τρωὰς (-ᾰ́δος) χθών, ἡ.
+---
+Tuscany
+{i}Tuscan,{/i} See {i}Etruria, Etruscan.{/i}
+---
+Tusculum
+Τοῦσκλον, τό.
+{i}People of Tusculum{/i}: Τουσκλᾶνοι, οἱ.
+---
+Tydeus
+Τῡδεύς, -έως, ὁ, or say, {i}son of Oeneus:{/i} {grm}dat.{/grm}, Τῡδῆι ({corpus}Eur.{/corpus}, {i}Supp.{/i} 136).
+---
+Tyndareus
+Τυνδᾰ́ρεως, -εω, ὁ (scanned as three syllables).
+{i}Of Tyndareus,{/i} {corpus}V.{/corpus} {grm}adj.{/grm}: Τυνδᾰ́ρειος.
+{i}Descendant of{/i} {i}Tyndareus{/i}: Τυνδᾰρῐ́δης, -ου, ὁ.
+{i}Daughter of Tyndareus{/i}: Τυνδᾰρῐ́ς, -ῐ́δος, ἡ ; see {i}Helen.{/i}
+---
+Typhoeus
+Τῡφώς, -ῶ, ὁ ({corpus}Æsch.{/corpus}, {i}P.{/i} {corpus}V.{/corpus} 370; {corpus}Ar.{/corpus}, {i}Eq.{/i} 511, {i}Nub.{/i} 336).
+---
+Typhon
+Τῡφῶν, -ῶνος, ὁ ({corpus}Eur.{/corpus}, {i}H. F.{/i} 1272).
+---
+Tyre
+Τύρος, ἡ.
+{i}Of Tyre,{/i} {grm}adj.{/grm}: Τύριος.
+---
+Tyrrhenian
+See {i}Etruscan.{/i}
+---
+Ulysses
+See {i}Odysseus.{/i}
+---
+Umbria
+Ὀμβρική, ἡ.
+{i}People of Umbria{/i}: Ὀμβρικοί, οἱ.
+---
+Urania
+Οὐρανία, ἡ.
+---
+Uranus
+Οὐρᾰνός, ὁ.
+---
+Usipetes
+Οὔσιπαι, οἱ.
+---
+Utica
+Ἰτύκη, ἡ.
+{i}Of Utica,{/i} {grm}adj.{/grm}: Ἰτυκαῖος.
+---
+Valens
+Οὐάλης, -λεντος, ὁ.
+---
+Valeria
+Οὐαλερία, ἡ.
+---
+Valerius
+Οὐαλέριος, ὁ.
+---
+Varro
+Οὐάρρων, -ωνος, ὁ, or Βάρρων, -ωνος, ὁ.
+---
+Varus
+Οὔαρος, ὁ.
+---
+Vatinius
+Οὐατίνιος, ὁ.
+---
+Veii
+Οὐηίοι, οἱ, or Βήιοι, οἱ.
+{i}People of Veii{/i}: Οὐηίοι, οἱ.
+---
+Velia
+Ὑελή, ἡ, {i}later called{/i} Ἐλέα; see {i}Elea.{/i}
+---
+Veneti
+Ἐνετοί, οἱ.
+---
+Venus
+See {i}Aphrodite.{/i}
+---
+Venusia
+Βενυσία, ἡ.
+---
+Vergilia
+Οὐεργιλία, ἡ.
+---
+Vergilius
+Οὐεργίλιος, ὁ.
+---
+Verres
+Βέρρης, -ου, ὁ.
+---
+Vespasian
+Οὐεσπασίανος, ὁ.
+---
+Vesta
+Ἑστία, ἡ.
+---
+Victory
+Νῑ́κη, ἡ.
+---
+Vindex
+Οὐίνδιξ, -ικος, ὁ.
+---
+Vitellius
+Οὐιτέλλιος, ὁ.
+---
+Voconius
+Βοκώνιος, ὁ.
+---
+Volsci
+Οὐολοῦσκοι, οἱ.
+---
+Volumnia
+Οὐολουμνία, ἡ.
+---
+Vulcan
+See {i}Hephaestus.{/i}
+---
+Xanthias
+Ξανθίᾱς, -ου, ὁ.
+---
+Xanthippe
+Ξανθίππη, ἡ.
+---
+Xanthippus
+Ξάνθιππος, ὁ.
+---
+Xenias
+Ξενίας, -ου, ὁ.
+---
+Xenocleidas
+Ξενοκλείδας, -ου, ὁ.
+---
+Xenocles
+Ξενοκλῆς, -κλέους, ὁ, {corpus}Ar.{/corpus} also Ξενοκλέης, -κλέους, ὁ.
+---
+Xenophanes
+Ξενοφάνης, -ους, ὁ.
+---
+Xenophon
+Ξενοφῶν, -ῶντος, ὁ.
+---
+Xerxes
+Ξέρξης, -ου, ὁ.
+---
+Xuthus
+Ξοῦθος, ὁ.
+---
+Zab (River)
+Ζάβατος, ὁ.
+---
+Zacynthus
+Ζᾰ́κυνθος, ἡ.
+{i}Of Zacynthus,{/i} {grm}adj.{/grm}: Ζᾰκύνθιος.
+---
+Zancle
+Ζάγκλη, ἡ.
+{i}Of Zancle,{/i} {grm}adj.{/grm}: Ζαγκλαῖος.
+---
+Zeno
+Ζήνων, -ωνος, ὁ.
+---
+Zephyrus
+Ζέφῠρος, ὁ.
+---
+Zethus
+Ζῆθος, ὁ.
+---
+Zeus
+Ζεύς, ὁ ; ({grm}acc.{/grm} {corpus}P.{/corpus} and {corpus}V.{/corpus} Δίᾰ, or {corpus}V.{/corpus} Ζῆνα; {grm}gen.{/grm} {corpus}P.{/corpus} and {corpus}V.{/corpus} Διός. or {corpus}V.{/corpus} Ζηνός ; {grm}dat.{/grm} {corpus}P.{/corpus} and {corpus}V.{/corpus} Διῐ́, or {corpus}V.{/corpus} Ζηνῐ́), or say, Κρονῐ́δης, -ου, ὁ, or use {i}son of Cronus.{/i}
+{i}From Zeus{/i}: {corpus}V.{/corpus} Διόθεν.
+{i}Of Zeus,{/i} {corpus}V.{/corpus} {grm}adj.{/grm}: Δῖος.
+{i}Born of Zeus,{/i} {corpus}V.{/corpus} {grm}adj.{/grm}: Διογενής, -οῦς.
+{i}Fallen from Zeus{/i}: {corpus}V.{/corpus} {grm}adj.{/grm}: Διοπετής, -οῦς.
+{i}Given by Zeus,{/i} {corpus}V.{/corpus} {grm}adj.{/grm}: Διόσδοτος.
+{i}Festival of Zeus at Athens{/i}: {corpus}Ar.{/corpus} and {corpus}P.{/corpus} Δῑᾰ́σια, τά, {corpus}Ar.{/corpus} Δῑπόλεια, τά.
+---
+Zeuxis
+Ζεῦξις, -εως, ὁ.
+---
+Zopyrus
+Ζώπυρος, ὁ.
+---
+Zoroaster
+Ζωροάστρης, -ου, ὁ.

@@ -10,7 +10,10 @@ This is being processed as part of the [Greek Learner Texts Project](https://gre
 
 ## Data Produced So Far
 
-* `data/woodhouse.txt` programmatically processed version of csv with vowel length handled via Unicode rather than colour and other colours converted to more semantic tags. Minor (automated) corrections along the way but still lots to do
+Programmatically processed version of csv with vowel length handled via Unicode rather than colour and other colours converted to more semantic tags. Minor (automated) corrections along the way but still lots to do.
+
+* `data/woodhouse.txt` — all but proper names
+* `data/woodhouse-proper.txt` — proper names
 
 Example of current format being worked on:
 
